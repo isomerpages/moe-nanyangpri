@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 学校管理层 School Steering Committee.md
       - 校长寄语 Principal's Foreword.md
       - 联系我们 Contact NYPS.md
       - 南洋小学线上导览 NYPS Virtual Tour.md
