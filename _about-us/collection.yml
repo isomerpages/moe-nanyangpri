@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - 办学宗旨 School Ethos.md
+      - 关于我们 School Identity.md
       - 董事会 School Management Committee.md
       - 学校管理层 School Steering Committee.md
       - 校长寄语 Principal's Foreword.md
       - 联系我们 Contact NYPS.md
       - 南洋小学线上导览 NYPS Virtual Tour.md
-      - 办学宗旨 School Ethos.md
-      - 关于我们 School Identity.md
