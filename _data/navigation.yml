@@ -1,6 +1,12 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: 南小概况 About Us
+    collection: about-us
+  - title: 南小课程 Programmes
+    collection: programmes
+  - title: 课程辅助活动 CCA
+    collection: cca
+  - title: 南洋大家庭 Nanyang Family
+    collection: nanyang-family
+  - title: 其他资讯 Useful Info & Links
+    collection: useful-info-and-links
