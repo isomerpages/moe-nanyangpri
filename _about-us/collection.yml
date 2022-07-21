@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 董事会 School Management Committee.md
       - 学校管理层 School Steering Committee.md
       - 校长寄语 Principal's Foreword.md
       - 联系我们 Contact NYPS.md
