@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - 关于我们 School Identity.md
       - 办学宗旨 School Ethos.md
