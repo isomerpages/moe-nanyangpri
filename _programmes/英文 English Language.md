@@ -43,8 +43,8 @@ The English Language Programme aims to equip our students with the **learning d
 		</div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5>学习辅助计划 Learning Support</h5></label>
+    <input type="checkbox" id="accordion2">
+		<label for="accordion2"><h5>学习辅助计划 Learning Support</h5></label>
     <div>
 			<p>以下是专门为需要额外英文辅助的学生而开展的课程</p>
 			<p>小一和小二</p>
