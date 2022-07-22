@@ -44,8 +44,8 @@ The English Language Programme aims to equip our students with the **learning d
 		</div>
 	</li>
 	<li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5>学习辅助计划 Learning Support</h5></label>
+    <div>
 		
 </ul>
-
-
-	
