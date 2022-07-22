@@ -22,7 +22,7 @@ description: ""
   <tr>
     <td class="tg-0lax"><a href = "/programmes/aesthetics" target = "_self">
 			<img src="/images/program-aesthetic.jpeg" ></a></td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax">UFGH</td>
     <td class="tg-0lax">image</td>
     <td class="tg-0lax">image</td>
   </tr>
