@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/女少年旅 Girls' Brigade.md
       - Uniformed Groups/童军 Cub Scouts.md
       - Uniformed Groups/.keep
       - 体育运动 Physical Sports/.keep
