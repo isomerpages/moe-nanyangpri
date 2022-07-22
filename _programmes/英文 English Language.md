@@ -47,5 +47,30 @@ The English Language Programme aims to equip our students with the **learning d
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5>学习辅助计划 Learning Support</h5></label>
     <div>
-		
+			<p>以下是专门为需要额外英文辅助的学生而开展的课程</p>
+			<p>小一和小二</p>
+			<ul>
+				<li>学习辅助课程</li>
+			</ul>
+			<p>小三和小四</p>
+			<ul>
+				<li>阅读辅助课程</li>
+				<li>校内阅读障碍辅助课程</li>
+			</ul>
+			<p>*我们会进行一些诊断测试来评估您的孩子是否适合以上课程</p>
+			<p><strong>Programmes for students who require more support in the English Language are available</strong></p>
+			<p><strong>P1 & P2</strong></p>
+			<ul>
+				<li>Learning Support Programme (LSP)</li>
+			</ul>
+			<p><strong>P3 & P4</strong></p>
+			<ul>
+				<li>Reading Remediation Programme (RRP)</li>
+				<li>School-based Dyslexia Remediation Programme (SDR)</li>
+			</ul>
+			<p>*Please note that diagnostic tests will be conducted to assess if your child is suitable for the above programmes</p>
+		</div>
+	</li>
 </ul>
+
+
