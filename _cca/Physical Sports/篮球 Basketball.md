@@ -4,7 +4,8 @@ permalink: /cca/Physical-Sports/basketball
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/Basketball.jpeg)
+<img src="/images/Basketball.jpeg" 
+     style="width:65%">
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 南小篮球队致力于培养学生对篮球运动的热情。在日常训练中，我们着重培养学生三个价值观和五个技能。</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 三个价值观&mdash;&mdash;好孩子、好学生、好球员。我们希望引导队员成为好孩子，好学生和优秀的篮球运动员。&nbsp;</p>
