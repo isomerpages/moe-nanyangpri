@@ -71,5 +71,10 @@ Thinking Leaders, Leading Thinkers
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>部门课程  - 双行教育 META Programme (P4 TO P6)</h5></label>
     <div>
-			<p>
-	</ul>
+			<p>南洋小学于2007年引入了双行课程以便在发掘高才学生的潜力和发展其社交能力之间取得更好的平衡。与此同时，也让高才学生与主流学生通过学习建立紧密的沟通与联系，可谓是双赢。南小的双行课程从四年级起步，为期三年，通过华文课、体育课、音乐课、美术课、课外活动以及德育课展开。</p>
+			<p>In 2007, the intermingling initiative was introduced to achieve a better balance between stretching the potential of the GEP students and developing their social-emotional competencies, it was also introduced provide a platform to enrich the learning of the non-GEP High Ability (HA) students. This arrangement also enabled GEP students and their non-GEP peers to maintain regular contact and develop closer bonds with their schoolmates through meaningful shared experiences. In Nanyang, the intermingling programme is named as META, which stands for Multiple Enrichment & Teaching Approaches. Students at P4 are selected into the programme and they remain in the programme till P6. The students interact during CL, PE, Music, Art (PAM) lessons, as well as during their CCA & VIA sessions.</p>
+		</div>
+	</li>
+</ul>
+
+
