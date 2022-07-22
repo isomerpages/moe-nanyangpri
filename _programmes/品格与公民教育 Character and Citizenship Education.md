@@ -126,7 +126,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				</ol>
 			</ol>
 		</ol>
-		<p>
+		<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">here</a> for more information on MOE&rsquo;s Sexuality Education.</p>
 		
 			
 				
