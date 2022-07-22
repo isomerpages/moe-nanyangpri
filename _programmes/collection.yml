@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - 体育健康教育 Physical & Health Education.md
       - 育人 Student Development.md
       - 科学 Science.md
       - 特别辅助计划 Special Assistance Plan (SAP).md
