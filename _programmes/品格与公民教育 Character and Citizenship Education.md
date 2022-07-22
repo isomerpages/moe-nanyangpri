@@ -49,3 +49,13 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				<li>由校内的班级或学生倡导的“德育在于行动”活动</li>
 			</ol>
 			<p><strong>“感恩计划” - 感恩发生在生活中的好事</strong><br>通过这项活动，我校希望学生学会感恩，具有同理心，成为一个知足、感恩的孩子</p>
+			<p><strong>FORM TEACHER GUIDANCE PERIOD (FTGP)</strong><br>The weekly FTGP is a dedicated period within school hours where teachers focus on building positive relationships with their students while also developing their social and emotional competencies.</p>
+			<p>FTGP (2 periods per week) comprises lessons on</p>
+			<ol>
+				<li>FTGP SEL (Social Emotional Learning)</li>
+				<li>FTGP IT (Interaction Activities Time)</li>
+				<li>Assembly Programme</li>
+				<li>Values in Action (VIA) lessons, Preparation and Implementation</li>
+				<li>Leadership Trainings</li>
+			</ol>
+			
