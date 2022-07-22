@@ -58,4 +58,18 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				<li>Values in Action (VIA) lessons, Preparation and Implementation</li>
 				<li>Leadership Trainings</li>
 			</ol>
+			<p><strong>VALUE IN ACTION (VIA)</strong></p>
+			<p><strong>Mission</strong><br>We inculcate values and build competencies in our students to be active contributors and concerned citizens by providing service learning experiences that foster student ownership over how they contribute to the community. NYPS aims to provide progressive and differentiated VIA programmes to support every student’s development into a socially responsible citizen who contributes meaningfully to self-growth, family, school, community, nation and world.<br><br>The VIA service learning is one of the many CCE department approaches that inculcates an “Outward Mindset” and SEL competencies among the students in alignment with the school motto and values. The VIA programme also forms part of the Life Skill programme and Well-being programme that aim to look into enhancing student well-being in NYPS.</p>
+			<p>Students are encouraged to put values into practice within the context of real-life situations in the family, school, community, nation and the world as shown below:<br>Love for Self - Be an independent Individual  <br>Love for Family - Be kind and compassionate  <br>Love for Others - Be grateful for the good things in your life  <br>Love for Others - Be an active contributor (Outreach Project)  <br>Love for Environment - Be a cleanliness ambassador  <br>Love for Environment - Be a young Environmentalist  <br>Love for Elderly - Be a young caregiver  <br>Love for Animals - Be a young animal ambassador  <br>Love for Nation - Be grateful to those who have played a part in Total Defence & Nation building of Singapore  <br>Love for World - Be a young culture ambassador</p>
+			<p><strong>Approach</strong><br>The school adopts a 4-pronged approach to support the students’ development as socially responsible citizens as shown below:</p>
+			<ol>
+				<li>Staff and parent-focused school VIA</li>
+				<li>Student-focused (level-wide, school-wide) VIA</li>
+				<li>Student-focused (CCA-initiated) VIA</li>
+				<li>Class/ Student initiated School based (class- or student-initiated) VIA</li>
+			</ol>
+
+GRATITUDE PROGRAMME - Be grateful for the good things in your life
+We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.
+
 			
