@@ -21,8 +21,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href = "/programmes/aesthetics" target = "_self"> 
-          <img src="/images/program-aesthetic.jpeg" 
-     style="width:65%">
+          <img src="/images/program-aesthetic.jpeg" >
 </td>
     <td class="tg-0lax">image</td>
     <td class="tg-0lax">image</td>
