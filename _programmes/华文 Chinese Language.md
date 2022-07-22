@@ -70,3 +70,118 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**旗舰项目 – 校本课程**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 240px">
+<colgroup>
+<col style="width: 65px">
+<col style="width: 175px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0lax">P1-P2</th>
+    <th class="tg-0lax">绘本教学</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">P3-P4</td>
+    <td class="tg-0lax">经典赏析 - 《西游记》</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P5-P6</td>
+    <td class="tg-0lax">小小时事评论员</td>
+  </tr>
+</tbody>
+</table>
+
+
+**Vision**  
+To promote and cultivate the love of Chinese language and culture  
+  
+**Mission**  
+
+*   To create an environment where students experience the joy of learning the Chinese Language;
+*   To help students master the Chinese language so that they can communicate effectively and confidently in the language;
+*   To encourage self-directed learning; and
+*   To enable students to acquire 21st century competencies.
+
+  
+**Programme**  
+Through the use of appropriate teaching pedagogies and differentiated programmes, students are able to learn the Chinese language in an authentic and conducive environment. The department also aims to inspire students to learn, appreciate and use the Chinese language effectively.
+
+**Enrichment Activities**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 420px">
+<colgroup>
+<col style="width: 65px">
+<col style="width: 355px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">P1-P2</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Fun Learning Day</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P3-P4</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Poem and Text Recitation Competition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P3-P6</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Creative Writing Competition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P1-P6</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">ZhaoYang Creative Writing Publication</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P1-P6</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Penmanship Competition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P1-P6</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Mother Tongue Fortnight</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P3</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">River Safari Learning Journey</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P4</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Chinese Language and Culture Competition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P1-P2</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Read and Learn Picture Book*</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P3-P4</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Chinese Classics Appreciation – Journey to the West*</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">P5-P6</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Current Affairs*</span></td>
+  </tr>
+</tbody>
+</table>
+
+\*NYPS Chinese Department's Flagship Programmes
