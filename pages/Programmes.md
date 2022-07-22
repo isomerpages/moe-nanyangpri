@@ -28,9 +28,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><p style="text-align: center;">美育<br /><strong>A</strong>esthetics</p></td>
-    <td class="tg-0lax">text</td>
-    <td class="tg-0lax">text</td>
-    <td class="tg-0lax">text</td>
+    <td class="tg-0lax"><p style="text-align: center;">公民与品格教育<br /><strong>C</strong>haracter and Citizenship Education</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">华文<br /><strong>C</strong>hinese Language</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">英文<br /><strong>E</strong>nglish Language</p></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
