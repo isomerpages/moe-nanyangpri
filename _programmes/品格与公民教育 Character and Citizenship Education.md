@@ -104,7 +104,29 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p><strong>成长岁月课程“Curious Minds”（第二版）（小五、小六）学习配套</strong></p>
 		<p>6.  小学高年级学生正处于青春发育初期。随着饮食和医学上的不断进步，很多学生提早开始发育，更早开始面对青春期在身体、情绪和心理上的变化。对于性行为，即使在生理上已经有所变化，但是学生心智还未成熟。“Curious Minds”能够协助学生处理青春期所面对的挑战。</p>
 		<p>7.  小学五、六年级（成长岁月）教学配套——“Curious Minds”主要是为了满足学生的身心发展需求，重视技能和价值观的教育，并着重于帮助学生面对变化，在网上和现实生活中建立健康的关系，并提高自我安全意识。</p>
-		<p>欲知更多有关教育部性教育课程的详情，请<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">点击</a>这里。 <br>“成长岁月”课程配套中的部分单元将在南洋小学进行教学，请点击此<a href="/files/NYPS%20GROWING%20YEARS%20PROGRAMME.pdf" target="_blank" rel="noopener">链接</a>查阅。
+		<p>欲知更多有关教育部性教育课程的详情，请<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">点击</a>这里。 <br>“成长岁月”课程配套中的部分单元将在南洋小学进行教学，请点击此<a href="/files/NYPS%20GROWING%20YEARS%20PROGRAMME.pdf" target="_blank" rel="noopener">链接</a>查阅。</p>
+		<p><strong>THE GROWING YEARS PROGRAMME</strong></p>
+		<ol>
+			<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br /><br /></li>
+			<li>The goals of Sexuality Education are:</li>
+			<ol>
+				<ol type="i">
+					<li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</li>
+					<li>To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
+					<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.</li>
+				</ol>
+			</ol>
+			<li>The key messages of Sexuality Education are:</li>
+			<ol>
+				<ol type="i">
+					<li>Love and respect yourself as you love and respect others;</li>
+					<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+					<li>Make responsible decisions for yourself, your family and society; and</li>
+					<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+				</ol>
+			</ol>
+		</ol>
+		<p>
 		
 			
 				
