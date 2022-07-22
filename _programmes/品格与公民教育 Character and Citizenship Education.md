@@ -138,11 +138,18 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p><strong>INFORMATION FOR PARENTS</strong></p>
 		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
 		<p>Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form using the following link <a href="https://form.gov.sg/#!/61ebe1da67949600149f6b8c" target="_blank" rel="noopener">here</a> by 08 February 2022.</p>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion3">
+		<label for="accordion3"><h5>国民教育课程 Citizenship Education
+</h5></label>
+    <div>
+	
+		
 
 		
 		
 			
 				
 				
- </ol>
- </li>
