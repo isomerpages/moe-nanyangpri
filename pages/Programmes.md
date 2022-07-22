@@ -36,10 +36,10 @@ description: ""
     <td class="tg-0lax"><p style="text-align: center;">英文<br /><strong>E</strong>nglish Language</p></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href = "/programmes/foreign-language-programme" target = "_self"><img src="/images/program-fl.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/gep" target = "_self"><img src="/images/program-gep(new).jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/immersion-programme" target = "_self"><img src="/images/program-Immersion(new).jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/information-communications-and-technology" target = "_self"><img src="/images/program-ict.jpg" ></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
