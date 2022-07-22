@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/体操 Artistic Gymnastics.md
       - Physical Sports/羽毛球 Badminton.md
       - Physical Sports/篮球 Basketball.md
       - Physical Sports/足球 Football.md
