@@ -134,7 +134,11 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p><strong>GROWING YEARS (GY) PROGRAMME:</strong> “Curious Minds”(2nd edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
 		<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</p>
 		<p>7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
-		<p>At Nanyang Primary School, the following lessons from the Growing Years Programme will be taught. You may click <a href="https://nyps.moe.edu.sg/qql/slot/u509/2019/Programmes/Character%20and%20Citizenship%20Education/NYPS%20GROWING%20YEARS%20PROGRAMME.pdf" target="_blank" rel="noopener">here</a> for more information.</p>
+		<p>At Nanyang Primary School, the following lessons from the Growing Years Programme will be taught. You may click <a href="/files/NYPS%20GROWING%20YEARS%20PROGRAMME.pdf" target="_blank" rel="noopener">here</a> for more information.</p>
+		<p><strong>INFORMATION FOR PARENTS</strong></p>
+		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
+		<p>Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form using the following link <a href="https://form.gov.sg/#!/61ebe1da67949600149f6b8c" target="_blank" rel="noopener">here</a> by 08 February 2022.</p>
+
 		
 		
 			
