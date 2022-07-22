@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/田径 Track and Field.md
       - Physical Sports/武术 Wushu.md
       - Physical Sports/.keep
