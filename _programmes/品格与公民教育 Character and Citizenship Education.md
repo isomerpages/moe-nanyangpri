@@ -72,3 +72,8 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		</div>
 	</li>
 	<li>
+    <input type="checkbox" id="accordion2">
+		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5></label>
+    <div>
+		
+		
