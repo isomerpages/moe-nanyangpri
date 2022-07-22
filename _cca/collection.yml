@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/美术协会 Art Club.md
-      - Visual and Performing Arts/合唱团 Choir.md
-      - Visual and Performing Arts/华族舞蹈 Chinese Dance.md
-      - Visual and Performing Arts/古筝团 Guzheng Ensemble.md
-      - Visual and Performing Arts/华乐团 Chinese Orchestra.md
-      - Visual and Performing Arts/弦乐团 String Ensemble.md
       - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/美术协会 Art Club.md
+      - Visual and Performing Arts/华族舞蹈 Chinese Dance.md
+      - Visual and Performing Arts/华乐团 Chinese Orchestra.md
+      - Visual and Performing Arts/合唱团 Choir.md
+      - Visual and Performing Arts/古筝团 Guzheng Ensemble.md
+      - Visual and Performing Arts/弦乐团 String Ensemble.md
       - Uniformed Groups/男少年旅 Boys' Brigade.md
       - Uniformed Groups/幼女童军 Brownies.md
       - Uniformed Groups/女少年旅 Girls' Brigade.md
