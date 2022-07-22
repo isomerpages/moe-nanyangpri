@@ -91,7 +91,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 						<li>在爱与尊重的基础上建立积极关系，作为家庭稳定的根本。</li>
 						<li>为自己、家庭和社会做出负责任的决定。</li>
 						<li>避免婚前性行为是保护自己及他人的最佳方式。</li>
-			</ol>
+					</ol>
 				</li>
 			</ol>
 			<p>您可以点击此<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">链接</a>以获取更多有关于教育部性教育课程的详情。</p>
