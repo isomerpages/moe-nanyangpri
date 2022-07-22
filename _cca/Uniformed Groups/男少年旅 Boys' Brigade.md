@@ -7,8 +7,6 @@ third_nav_title: Uniformed Groups
 <img src="/images/Boys-Brigade.jpeg" 
      style="width:65%">
 
-
-
 <p>&nbsp;&nbsp; &nbsp; &nbsp; &ldquo;Sure and Steadfast&rdquo;是南洋小学男少年旅的座右铭。&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;在督导老师的带领下，南小男少年旅通过各种户外活动，希望把队员培养成品德高尚、忠诚、负责任的公民。 每个星期六早上8点，队员穿上笔挺的蓝色制服准时报到。通过每周的活动，队员们能培养出身份认同感、团队精神、以及对学校的归属感。&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;通过有系统的训练，队员将能够自强、自律与自信，成为国家未来的领导者。</p>
