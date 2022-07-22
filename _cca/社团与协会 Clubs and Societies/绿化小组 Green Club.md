@@ -4,7 +4,9 @@ permalink: /cca/Clubs-and-Societies/green-club
 description: ""
 third_nav_title: 社团与协会 Clubs and Societies
 ---
-![](/images/Green%20Club.jpeg)
+<img src="/images/Green%20Club.jpeg" 
+     style="width:65%">
+
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 绿化小组让学生有机会参与并开展有意义的环保活动。负责老师和学生一同关心环境并采取行动加以改善。&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 绿化小组希望让孩子们对环境保护等问题有所认识。在绿化小组，学生将积极参与种植水培蔬菜、草药和香料等有趣的植物。作为环保倡导者，我们的成员也会走出学校，向学校周围的邻居传播解决环境问题的信息，如预防伊蚊滋生、回收可循环物品、减少食物浪费等。</p>
