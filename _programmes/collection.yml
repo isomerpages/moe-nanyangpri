@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - 高才部 Gifted Education Programme.md
       - 浸濡活动 Immersion Programme.md
       - 资讯科技 Information Communication & Technology.md
       - 创客计划 Maker Programme.md
