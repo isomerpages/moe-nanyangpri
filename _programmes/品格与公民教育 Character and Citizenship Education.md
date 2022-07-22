@@ -68,8 +68,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				<li>Student-focused (CCA-initiated) VIA</li>
 				<li>Class/ Student initiated School based (class- or student-initiated) VIA</li>
 			</ol>
-
-GRATITUDE PROGRAMME - Be grateful for the good things in your life
-We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.
-
-			
+			<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong><br>We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.</p>
+		</div>
+	</li>
+	<li>
