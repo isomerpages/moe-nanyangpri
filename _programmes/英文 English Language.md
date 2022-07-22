@@ -23,8 +23,8 @@ The English Language Programme aims to equip our students with the **learning d
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion2">
-		<label for="accordion2"><h5>课程重点 Programme Highlights</h5></label>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5>课程重点 Programme Highlights</h5></label>
     <div>
 			<ul>
 				<li>共享图书法 - 通过分享大图书强化语文与阅读技能</li>
