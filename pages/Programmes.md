@@ -11,12 +11,12 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1000px">
 <colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
 </colgroup>
 <tbody>
   <tr>
