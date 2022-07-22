@@ -94,7 +94,16 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			</ol>
 				</li>
 			</ol>
-			<p>您可以点击此<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">链接</a>以获取更多有关于教育部性教育课程的详情。
+			<p>您可以点击此<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">链接</a>以获取更多有关于教育部性教育课程的详情。</p>
+			<p><strong>南洋小学性教育概况</strong></p>
+			<p>4. 性教育课程是在教学时间教导学生的一门综合性课程。性育课程大致分为五大主题：人类发展、人际关系、性健康、性行为、文化、社会和法律。欲知更多有关性教育课程的教学内容，请<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">点击</a>这里。</p>
+			<p>5. 其他相关学科:
+			<ol>a. 科学</ol>
+			<ol>b. 级任老师辅导课</ol>
+			<ol>c.公民与品格教育</ol></p>
+		<p>
+		
+			
 				
 				
  </ol>
