@@ -131,6 +131,9 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.</p>
 		<p>5. The subjects that incorporate topics on sexuality include:
 		<ol>a. Science <br>b. Form Teacher Guidance Period (FTGP)<br> c. Character and Citizenship Education (CCE)</ol></p>
+		<p><strong>GROWING YEARS (GY) PROGRAMME:</strong> “Curious Minds”(2nd edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
+		<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</p>
+		<p>7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
 		
 		
 			
