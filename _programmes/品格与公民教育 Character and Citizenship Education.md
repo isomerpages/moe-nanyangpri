@@ -100,8 +100,8 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<p>5. 其他相关学科:
 			<ol>a. 科学</ol>
 			<ol>b. 级任老师辅导课</ol>
-			<ol>c.公民与品格教育</ol></p>
-		<p>
+			<ol>c. 公民与品格教育</ol></p>
+		<p><strong>成长岁月课程“Curious Minds”（第二版）（小五、小六）学习配套</strong></p>
 		
 			
 				
