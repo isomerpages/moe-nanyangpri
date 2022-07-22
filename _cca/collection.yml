@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/乒乓球 Table Tennis.md
       - Physical Sports/网球 Tennis.md
       - Physical Sports/田径 Track and Field.md
       - Physical Sports/武术 Wushu.md
