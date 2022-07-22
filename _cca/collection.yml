@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - 社团与协会 Clubs and Societies/.keep
+      - 体育运动 Physical Sports/.keep
       - 体育运动 Physical Sports/体操 Artistic Gymnastics.md
       - 体育运动 Physical Sports/羽毛球 Badminton.md
       - 体育运动 Physical Sports/篮球 Basketball.md
@@ -11,4 +11,4 @@ collections:
       - 体育运动 Physical Sports/网球 Tennis.md
       - 体育运动 Physical Sports/田径 Track and Field.md
       - 体育运动 Physical Sports/武术 Wushu.md
-      - 体育运动 Physical Sports/.keep
+      - 社团与协会 Clubs and Societies/.keep
