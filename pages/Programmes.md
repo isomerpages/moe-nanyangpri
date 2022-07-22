@@ -67,8 +67,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p style="text-align: center;">科学<br /><strong>S</strong>cience</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">特别辅助计划<br /><strong>S</strong>pecial Assistance Plan (SAP)</p></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
