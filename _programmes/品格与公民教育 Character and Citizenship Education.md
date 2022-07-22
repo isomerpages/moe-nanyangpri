@@ -93,14 +93,9 @@ NYPS aims to develop students who embody the school's motto and values and displ
 						<li>避免婚前性行为是保护自己及他人的最佳方式。</li>
 			</ol>
 				</li>
+			</ol>
+			<p>您可以点击此<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">链接</a>以获取更多有关于教育部性教育课程的详情。
+				
 				
  </ol>
  </li>
-
-    
-
-
-
-  
-		
-		
