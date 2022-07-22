@@ -127,6 +127,11 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			</ol>
 		</ol>
 		<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">here</a> for more information on MOE&rsquo;s Sexuality Education.</p>
+		<p><strong>OVERVIEW OF NANYANG PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME</strong></p>
+		<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.</p>
+		<p>5. The subjects that incorporate topics on sexuality include:
+		<ol>a. Science <br>b. Form Teacher Guidance Period (FTGP)<br> c. Character and Citizenship Education (CCE)</ol></p>
+		
 		
 			
 				
