@@ -3,6 +3,10 @@ title: 英文 English Language
 permalink: /programmes/english-language
 description: ""
 ---
+<img src="/images/program-el-2(new).jpeg" 
+     style="width:65%">
+
+
 本校的英文课程旨在通过**培养学习态度与习惯、教导语文知识与技能，**以达到以下的目标：  
   
 *   通过聆听、阅读和观察，客观地分析信息
