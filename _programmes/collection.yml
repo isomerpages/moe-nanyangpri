@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - 美育 Aesthetics.md
       - 品格与公民教育 Character and Citizenship Education.md
       - 华文 Chinese Language.md
       - 英文 English Language.md
