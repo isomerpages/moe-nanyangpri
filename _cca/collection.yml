@@ -2,18 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/.keep
-      - Visual and Performing Arts/美术协会 Art Club.md
-      - Visual and Performing Arts/华族舞蹈 Chinese Dance.md
-      - Visual and Performing Arts/华乐团 Chinese Orchestra.md
-      - Visual and Performing Arts/合唱团 Choir.md
-      - Visual and Performing Arts/古筝团 Guzheng Ensemble.md
-      - Visual and Performing Arts/弦乐团 String Ensemble.md
-      - Uniformed Groups/男少年旅 Boys' Brigade.md
-      - Uniformed Groups/幼女童军 Brownies.md
-      - Uniformed Groups/女少年旅 Girls' Brigade.md
-      - Uniformed Groups/童军 Cub Scouts.md
-      - Uniformed Groups/.keep
       - 体育运动 Physical Sports/.keep
       - 体育运动 Physical Sports/体操 Artistic Gymnastics.md
       - 体育运动 Physical Sports/羽毛球 Badminton.md
@@ -23,6 +11,7 @@ collections:
       - 体育运动 Physical Sports/网球 Tennis.md
       - 体育运动 Physical Sports/田径 Track and Field.md
       - 体育运动 Physical Sports/武术 Wushu.md
+      - 社团与协会 Clubs and Societies/.keep
       - 社团与协会 Clubs and Societies/国际象棋 Chess Club.md
       - 社团与协会 Clubs and Societies/书法协会 Chinese Calligraphy Club.md
       - 社团与协会 Clubs and Societies/中文协会 Chinese Society.md
@@ -30,4 +19,15 @@ collections:
       - 社团与协会 Clubs and Societies/辩论协会 Debate Club.md
       - 社团与协会 Clubs and Societies/绿化小组 Green Club.md
       - 社团与协会 Clubs and Societies/机器人协会 Robotics Club.md
-      - 社团与协会 Clubs and Societies/.keep
+      - Uniformed Groups/.keep
+      - Uniformed Groups/男少年旅 Boys' Brigade.md
+      - Uniformed Groups/幼女童军 Brownies.md
+      - Uniformed Groups/女少年旅 Girls' Brigade.md
+      - Uniformed Groups/童军 Cub Scouts.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/美术协会 Art Club.md
+      - Visual and Performing Arts/华族舞蹈 Chinese Dance.md
+      - Visual and Performing Arts/华乐团 Chinese Orchestra.md
+      - Visual and Performing Arts/合唱团 Choir.md
+      - Visual and Performing Arts/古筝团 Guzheng Ensemble.md
+      - Visual and Performing Arts/弦乐团 String Ensemble.md
