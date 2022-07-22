@@ -62,7 +62,7 @@ description: ""
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><a href = "/programmes/science" target = "_self"><img src="/images/program-science(new).jpg" ></a></td>
-    <td class="tg-0lax"><a href = "/programmes/special-assistance-programme" target = "_self"><img src="/images/program-sap.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/Special-Assistance-Programme-sap" target = "_self"><img src="/images/program-sap.jpg" ></a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
