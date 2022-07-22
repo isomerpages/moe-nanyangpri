@@ -48,10 +48,10 @@ description: ""
     <td class="tg-0lax"><p style="text-align: center;">资讯科技<br /><strong>I</strong>nformation Communication &amp; Technology</p></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href = "/programmes/maker-programme" target = "_self"><img src="/images/program-maker.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/mathematics" target = "_self"><img src="/images/program-math.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/programmes/physical-and-health-education" target = "_self"><img src="/images/program-physical.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/student-development" target = "_self"><img src="/images/program-pd.jpg" ></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
