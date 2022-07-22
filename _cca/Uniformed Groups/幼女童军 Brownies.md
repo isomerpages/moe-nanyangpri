@@ -4,7 +4,9 @@ permalink: /cca/Uniformed-Groups/brownies
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/Brownies.jpeg)
+<img src="/images/Brownies.jpeg" 
+     style="width:65%">
+
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 幼女童军们通过参加活动，将有机会多去关注周边社会，并培养自身的独立自主能力。同时，她们可以通过不断地学习新技能来获取可佩戴的奖励徽章，以资鼓励。幼女童军领袖会组织各种有趣又富有挑战的露营活动来鼓励幼女童军们勇敢跳出自己的舒适圈，不断成长。在幼女童军总会的指导下，我们致力于培养勇敢、自信的幼女童军，让她们肩负起造福世界的使命。&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 除此之外，幼女童军们还会在学习、玩乐的过程中培养独立及协作能力。而且，我们的幼女童军还会有机会跟其他女童军组织一起合作、一起交流，让她们建立坚固的友谊的同时培养自己的信心及热忱。&nbsp;</p>
