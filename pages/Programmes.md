@@ -11,12 +11,12 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1000px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 250px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <tbody>
   <tr>
@@ -42,10 +42,10 @@ description: ""
     <td class="tg-0lax"><a href = "/programmes/information-communications-and-technology" target = "_self"><img src="/images/program-ict.jpg" ></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p style="text-align: center;">外国语课程<br /><strong>F</strong>oreign Language Programme</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">高才部<br /><strong>G</strong>ifted Education Programme</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">浸濡活动<br /><strong>I</strong>mmersion Programme</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">资讯科技<br /><strong>I</strong>nformation Communication &amp; Technology</p></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
