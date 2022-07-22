@@ -24,9 +24,9 @@ description: ""
 			<img src="/images/program-aesthetic.jpeg" ></a></td>
     <td class="tg-0lax"><a href = "/programmes/character-and-citizenship-education" target = "_self">
 			<img src="/images/program-cce.jpg" ></a></td>
-    <td class="tg-0lax"><a href = "/programmes/chinese" target = "_self">
+    <td class="tg-0lax"><a href = "/programmes/chinese-language" target = "_self">
 			<img src="/images/program-cl.jpg" ></a></td>
-    <td class="tg-0lax"><a href = "/programmes/english" target = "_self">
+    <td class="tg-0lax"><a href = "/programmes/english-language" target = "_self">
 			<img src="/images/program-el(new).jpg" ></a></td>
   </tr>
   <tr>
