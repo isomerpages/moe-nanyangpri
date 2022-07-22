@@ -54,10 +54,10 @@ description: ""
     <td class="tg-0lax"><a href = "/programmes/student-development" target = "_self"><img src="/images/program-pd.jpg" ></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p style="text-align: center;">创客计划<br /><strong>M</strong>aker Programme</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">数学<br /><strong>M</strong>athematics</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">体育与健康教育<br /><strong>P</strong>hysical &amp; Health Education</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">育人<br /><strong>S</strong>tudent Development</p></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
