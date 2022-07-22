@@ -47,11 +47,24 @@ Thinking Leaders, Leading Thinkers
 			</ol>
 			<br>
 			<ol>
-				<li>个性化研习<br>个性化研习课程是为了培养高才学生成为自主学习者，并给予学生机会深入探索特定领域与兴趣。选择以个性化研习（IRS）作为个性化学习选项的学生可根据兴趣选择题材。</li>
-				<li>创新计划<br>创新计划为高才学生提供平台以培养解决问题的能力与创造力。学生需要与同伴合作，运用科学常识与技能进行设计并展示其解决方案。此课程由教育部高才处连同合作机构协办。</li>
-				<li>未来问题解决计划<br>未来问题解决计划的设立是为了让学生习得解决问题的策略，并对未来有所展望。<br>在课程中，高才学生通过释放想像力来尝试探讨现今以及未来的课题。学生将懂得运用习得的技能与多维的视角来预知、理解以及解决问题。学生将以协作的方式群策群力，共同为未来社会谋福利。</li>
+				<li><strong>个性化研习</strong><br>个性化研习课程是为了培养高才学生成为自主学习者，并给予学生机会深入探索特定领域与兴趣。选择以个性化研习（IRS）作为个性化学习选项的学生可根据兴趣选择题材。</li>
+				<li><strong>创新计划</strong><br>创新计划为高才学生提供平台以培养解决问题的能力与创造力。学生需要与同伴合作，运用科学常识与技能进行设计并展示其解决方案。此课程由教育部高才处连同合作机构协办。</li>
+				<li><strong>未来问题解决计划</strong><br>未来问题解决计划的设立是为了让学生习得解决问题的策略，并对未来有所展望。<br>在课程中，高才学生通过释放想像力来尝试探讨现今以及未来的课题。学生将懂得运用习得的技能与多维的视角来预知、理解以及解决问题。学生将以协作的方式群策群力，共同为未来社会谋福利。</li>
 			</ol>
 			<p><strong>部门课程 - 双行教育</strong><br>南洋小学于2007年引入了双行课程以便为发掘高才学生的潜力和发展其社交情感能力之间取得更好的平衡与提供张力。与此同时，也让高才学生与主流学生通过学习互动建立紧密的沟通与联系，可谓是双赢。<br>南小的双行课程从四年级起步，为期三年，通过华文课、体育课、音乐课、美术课、课外活动以及德育课课时展开。</p>
+			<p>Individualised Study Options (ISO) was introduced to the Gifted Education Programme in 2003 as an umbrella term for the range of research work made available to GEP students.</p>
+			<p>In <strong><em>Primary 5</em></strong>, ISO available to GE students in Nanyang Primary School are</p>
+			<ol>
+				<li>IRS: Individualised Research Study;</li>
+				<li>IvP: Innovation Programme; and</li>
+				<li>Future Problem Solving Programme (FPSP).</li>
+			</ol>
+			<br>
+			<ol>
+				<li><strong>Individualised Research Study (IRS)</strong><br>IRS programme aims to prepare GEP students to become independent learners and to give them opportunities to explore specific areas of talent and interest in greater depth. Students who choose IRS as an ISO in P5 will work on a research project based on their personal interests.</li>
+				<li><strong>Innovation Programme</strong><br>The Innovation Programme (IvP) provides an avenue for students to develop their problem-solving and inventive skills. It is a programme jointly organised by the Gifted Education Branch and its partner organisations. In the programme, students need to work with others and apply their scientific knowledge and skills to build prototypes to represent their solutions.</li>
+				<li><strong>Future Problem Solving Programme (FPSP)</strong><br>FPS is an international educational programme that aims to encourage students to develop a vision for the future by teaching them problem solving strategies across the curriculum using critical and creative thinking skills. In FPSP, students are challenged to apply their imagination and thinking skills to some of the significant issues pertaining to both the world of today and the future. Students will be equipped with skills and vision needed to anticipate, comprehend and solve problems associated with current and future issues. Students will also need to work collaboratively with others and synergise their efforts in order to help them to have a positive impact on society in the future.</li>
+			</ol>
 		</div>
 	</li>
 	</ul>
