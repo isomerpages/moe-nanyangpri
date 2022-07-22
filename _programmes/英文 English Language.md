@@ -19,3 +19,11 @@ The English Language Programme aims to equip our students with the **learning d
 *   access and process information critically through listening, reading and viewing so as to enable them to make meaning of the world they live in;
 *   communicate effectively through speaking, writing and representing- to enable them to make a positive impact under different contexts; and
 *   broaden their perspectives and deepen their insights through authentic and diverse learning experiences.
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5>课程重点 Programme Highlights</h5></label>
+    <div>
+			
