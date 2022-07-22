@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/华乐团 Chinese Orchestra.md
       - Visual and Performing Arts/弦乐团 String Ensemble.md
       - Visual and Performing Arts/.keep
       - Uniformed Groups/男少年旅 Boys' Brigade.md
