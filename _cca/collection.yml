@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/美术协会 Art Club.md
       - Visual and Performing Arts/合唱团 Choir.md
       - Visual and Performing Arts/华族舞蹈 Chinese Dance.md
       - Visual and Performing Arts/古筝团 Guzheng Ensemble.md
