@@ -163,6 +163,11 @@ NYPS aims to develop students who embody the school's motto and values and displ
 	<input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>学生领袖课程 Student Leadership Programme</h5></label>
     <div>
+			<p><strong>南洋小学学生领袖课程</strong><br />作为好品德好公民课程的一部分，南小的学生领袖课程专注于培养学生外向型、创造型和成长型思维的能力。<br /><br /><strong>愿景</strong><br />懂得反思并具有为他人服务精神的领袖<br /><br /><strong>使命</strong><br />培养具有分析及创造能力、思想开放、勇于变革、富有同情心，坚强并懂得反思的领袖。<br /><br /><strong>信念</strong></p>
+			<ul>
+				<li>每一个孩子都能够成为一名领袖。</li>
+				<li>每一个孩子都能够在适当的影响下作出正面的改变。</li>
+			</ul>
+			<p><br />请点击<a href="/files/CCE%20Website%20Diagrams%20of%20Framework_StudentLeadershipRoadMap_30Jul.pdf" target="_blank" rel="noopener">此处</a>以参阅南洋小学学生领袖课程概况。<br /><br />请点击<a href="/files/CCE_StudentLeadership_Structure.pdf" target="_blank" rel="noopener">此处</a>以参阅南洋小学学生领袖课程架构。<br /><br />在南小，每一位学生都有机会通过三种途径发展自己的领导才能。其一，班级领袖；其二，课外活动领袖以及学长；其三，学长执行委员会。<br /><br /><strong>学长团</strong><br />南洋小学的学长团由四年级至六年级的学生组成。经过筛选后，学长在一年一度的学长任职仪式上正式接手学长的职务。<br />每年的六月假期，学长团将举办学长营。让学长有机会一起学习和完成任务，联系感情。学长也有机会策划学长营的各项活动。</p>
 	
 </ul>
-
