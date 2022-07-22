@@ -3,7 +3,7 @@ links:
   - title: 南小概况 About Us
     collection: about-us
   - title: 南小课程 Programmes
-    collection: programmes
+    url: /programmes
   - title: 课程辅助活动 CCA
     collection: cca
   - title: 南洋大家庭 Nanyang Family
