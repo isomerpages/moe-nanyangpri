@@ -33,7 +33,6 @@ The English Language Programme aims to equip our students with the **learning d
 				<li>自主学习 - 通过科技来辅助自主学习</li>
 				<li>协作学习 - 通过科技与同侪互相学习</li>
 			</ul>
-			<br>
 			<ul>
 				<li>Shared Book Approach - Strengthening language & reading skills through sharing of big books</li>
 				<li>Modified Language Experience Approach - Learning through experiencing</li>
@@ -72,5 +71,3 @@ The English Language Programme aims to equip our students with the **learning d
 		</div>
 	</li>
 </ul>
-
-
