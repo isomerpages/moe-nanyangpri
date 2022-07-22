@@ -169,5 +169,14 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				<li>每一个孩子都能够在适当的影响下作出正面的改变。</li>
 			</ul>
 			<p><br />请点击<a href="/files/CCE%20Website%20Diagrams%20of%20Framework_StudentLeadershipRoadMap_30Jul.pdf" target="_blank" rel="noopener">此处</a>以参阅南洋小学学生领袖课程概况。<br /><br />请点击<a href="/files/CCE_StudentLeadership_Structure.pdf" target="_blank" rel="noopener">此处</a>以参阅南洋小学学生领袖课程架构。<br /><br />在南小，每一位学生都有机会通过三种途径发展自己的领导才能。其一，班级领袖；其二，课外活动领袖以及学长；其三，学长执行委员会。<br /><br /><strong>学长团</strong><br />南洋小学的学长团由四年级至六年级的学生组成。经过筛选后，学长在一年一度的学长任职仪式上正式接手学长的职务。<br />每年的六月假期，学长团将举办学长营。让学长有机会一起学习和完成任务，联系感情。学长也有机会策划学长营的各项活动。</p>
-	
+			<p><strong>NYPS Student Leadership Programme</strong><br />As part of the Character and Citizenship Education, the NYPS student leadership programme is designed to cultivate students who embody and present an Outward, a Maker and a Growth mindset.<br /><br /><strong>Vision</strong><br />Reflective Leaders with Serving Spirits<br /><br /><strong>Mission</strong><br />To develop all Nanyang students to be empathetic, enterprising, resilient and reflective leaders with analytical, innovative and open minds to serve and bring about positive changes in their communities for the betterment of self and others.<br /><br /><strong>Belief</strong></p>
+			<ul>
+				<li>Every student can be developed as a leader.</li>
+				<li>Every student is able to make a positive difference (change) in his or her own right within their sphere of influence.</li>
+			</ul>
+			<p><br />Click&nbsp;<a href="/files/CCE%20Website%20Diagrams%20of%20Framework_StudentLeadershipRoadMap_30Jul.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the NYPS Student Leadership Roadmap&nbsp;<br /><br />Click&nbsp;<a href="/files/CCE_StudentLeadership_Structure.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the NYPS Student Leadership Structure&nbsp;<br /><br />In NYPS, all our students have opportunities to develop their leadership capacity, readiness and potential through a three-tier approach &ndash; tier 1) Classroom Leaders; tier 2) Co-Curricular Activities Leaders &amp; Prefectorial Board; and tier 3) Prefectorial Board Executive Committee.<br /><br /><strong>Prefectorial Board<br /></strong>The Nanyang Prefectorial Board is made up of Primary 4 to Primary 6 Prefects. After a series of selection processes, the Prefects are sworn in during the annual Prefects&rsquo; Investiture.<br /><br />An annual Prefects Camp which witnessed the Prefects bonding, working and learning together took place during the June School Holidays. These student leaders were also given opportunities to initiate programmes and/or projects to improve the well-being of their peers and/or state of their environment.</p>
+	</div>
+</li>
 </ul>
+
+aaaaaaa
