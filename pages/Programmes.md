@@ -22,9 +22,12 @@ description: ""
   <tr>
     <td class="tg-0lax"><a href = "/programmes/aesthetics" target = "_self">
 			<img src="/images/program-aesthetic.jpeg" ></a></td>
-    <td class="tg-0lax">UFGH</td>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><a href = "/programmes/character-and-citizenship-education" target = "_self">
+			<img src="/images/program-cce.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/chinese" target = "_self">
+			<img src="/images/program-cl.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/english" target = "_self">
+			<img src="/images/program-el(new).jpg" ></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><p style="text-align: center;">美育<br /><strong>A</strong>esthetics</p></td>
