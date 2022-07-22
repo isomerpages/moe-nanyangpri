@@ -129,10 +129,10 @@ Through the use of appropriate teaching pedagogies and differentiated programmes
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 420px">
+<table class="tg" style="undefined;table-layout: fixed; width: 485px">
 <colgroup>
-<col style="width: 65px">
-<col style="width: 355px">
+<col style="width: 85px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
