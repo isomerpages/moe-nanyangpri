@@ -145,11 +145,3 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<label for="accordion3"><h5>国民教育课程 Citizenship Education
 </h5></label>
     <div>
-	
-		
-
-		
-		
-			
-				
-				
