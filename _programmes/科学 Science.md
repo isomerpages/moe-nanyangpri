@@ -3,6 +3,10 @@ title: 科学 Science
 permalink: /programmes/science
 description: ""
 ---
+<img src="/images/program-science-(new)2.jpeg" 
+     style="width:65%">
+
+
 **部门目标**  
 本校科学部旨在教育学生科学知识及技能，激发学生的探究精神，并培育学生终身学习意愿。  
   
