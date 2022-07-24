@@ -196,9 +196,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0pky"><p style="text-align: center;">美术协会<br /><strong>A</strong>rt Club</p></td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0lax">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">华族舞蹈<br /><strong>C</strong>hinese Dance</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">华乐团<br /><strong>C</strong>hinese Orchestra</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">合唱团<br /><strong>C</strong>hoir</p></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -210,8 +210,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p style="text-align: center;">古筝团<br /><strong>G</strong>uzheng Ensemble</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">弦乐队<br /><strong>S</strong>tring Ensemble</p></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
