@@ -18,6 +18,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: Announcements
+      subtitle: Our Latest News
+      button: View More
   - infobar:
       title: Infobar title
       subtitle: Subtitle
