@@ -153,7 +153,7 @@ description: ""
           <img src="/images/uni2.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Uniformed-Groups/cub-scouts" target = "_self"> 
           <img src="/images/uni3.jpg"></a></td>
-    <td class="tg-0lax"><a href = "/cca/Uniformed-Groups/girls-brigade" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Uniformed-Groups/girls-brigade" target = "_self"> 
           <img src="/images/uni4.jpg"></a></td>
   </tr>
   <tr>
