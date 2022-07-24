@@ -110,9 +110,12 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0pky">image</td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/chess-club" target = "_self"> 
+          <img src="/images/club5.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/computer-club" target = "_self"> 
+          <img src="/images/club5.png"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/robotics-club" target = "_self"> 
+          <img src="/images/club7.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">text</td>
