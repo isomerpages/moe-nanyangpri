@@ -195,7 +195,7 @@ description: ""
           <img src="/images/arts4.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">美术协会<br /><strong>A</strong>rt Club</p></td>
     <td class="tg-0pky">text</td>
     <td class="tg-0pky">text</td>
     <td class="tg-0lax">text</td>
