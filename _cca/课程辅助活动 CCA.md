@@ -187,9 +187,12 @@ description: ""
   <tr>
     <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/art-club" target = "_self"> 
           <img src="/images/arts1.jpg"></td>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-dance" target = "_self"> 
+          <img src="/images/arts2.jpg"></td>
+    <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-orchestra" target = "_self"> 
+          <img src="/images/arts3.jpg"></td>
+    <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/choir" target = "_self"> 
+          <img src="/images/arts4.jpg"></td>
   </tr>
   <tr>
     <td class="tg-0pky">text</td>
