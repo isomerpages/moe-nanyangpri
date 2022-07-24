@@ -33,9 +33,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">足球<br /><strong>F</strong>ootball</p></td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href = "/cca/Physical-Sports/table-tennis" target = "_self"> 
