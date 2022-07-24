@@ -95,5 +95,10 @@ description: ""
 </tbody>
 </table>
 		<p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
-		
+		</div>
+		</li>
+		<li>
+    <input type="checkbox" id="accordion3">
+		<label for="accordion3"><h5>其他下载 Other Downloads</h5></label>
+    <div>
 		
