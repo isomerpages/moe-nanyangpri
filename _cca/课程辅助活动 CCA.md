@@ -22,13 +22,13 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
           <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
           <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
           <img src="/images/sports3.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/football" target = "_self"> 
           <img src="/images/sports4.jpg"></a></td>
   </tr>
   <tr>
@@ -38,13 +38,13 @@ description: ""
     <td class="tg-0pky">text</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/table-tennis" target = "_self"> 
           <img src="/images/sports5.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/tennis" target = "_self"> 
           <img src="/images/sports6.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/track-and-field" target = "_self"> 
           <img src="/images/sports7.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Physical-Sports/wushu" target = "_self"> 
           <img src="/images/sports8.jpg"></a></td>
   </tr>
   <tr>
