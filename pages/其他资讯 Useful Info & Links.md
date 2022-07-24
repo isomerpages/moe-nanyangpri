@@ -25,3 +25,5 @@ description: ""
 <p><a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
 			<p><h5>Name Tag</h5></p>
 <p>Supplier: Stitchwerkz Pte Ltd<br />Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />Email: nametags@stitchwerkz.sg<br />To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />Ordering and collection of name tags will be done through the school bookshop.</p>
+		<img src="/images/name%20tag.png" 
+     style="width:25%">
