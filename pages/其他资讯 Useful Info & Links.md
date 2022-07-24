@@ -156,3 +156,10 @@ description: ""
 				<li><a href="/files/Raising%20Confident%20Children%20&%20Setting%20Meaningful%20Goals.pdf" target="_blank" rel="noopener">Raising Confident Children &amp; Setting Meaningful Goals</a></li>
 				<li><a href="/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" target="_blank" rel="noopener">Boosting Your Child Emotional Strength and Self-Management Skills</a></li>
 			</ol>
+	</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+		<label for="accordion4"><h3>其他下载 Other Downloads</h3></label>
+    <div>
+	
