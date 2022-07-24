@@ -118,9 +118,9 @@ description: ""
           <img src="/images/club7.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">国际象棋<br /><strong>I</strong>nternational Chess</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">电脑协会<br /><strong>M</strong>aker Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">机器人协会<br /><strong>R</strong>obotics Club</p></td>
   </tr>
 </tbody>
 </table>
