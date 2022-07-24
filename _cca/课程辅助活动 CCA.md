@@ -48,10 +48,10 @@ description: ""
           <img src="/images/sports8.jpg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><p style="text-align: center;">乒乓球<br /><strong>T</strong>able Tennis</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">网球<br /><strong>T</strong>ennis</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">田径<br /><strong>T</strong>rack and Field</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">武术<br /><strong>W</strong>ushu</p></td>
   </tr>
 </tbody>
 </table>
