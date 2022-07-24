@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - 课程辅助活动 CCA.md
       - 体育运动 Physical Sports/.keep
       - 体育运动 Physical Sports/体操 Artistic Gymnastics.md
       - 体育运动 Physical Sports/羽毛球 Badminton.md
