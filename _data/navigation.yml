@@ -10,3 +10,5 @@ links:
     collection: nanyang-family
   - title: 其他资讯 Useful Info & Links
     collection: useful-info-and-links
+  - title: Menu Title
+    url: /nanyang-family
