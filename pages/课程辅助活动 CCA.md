@@ -160,7 +160,7 @@ description: ""
     <td class="tg-0pky"><p style="text-align: center;">男少年旅<br /><strong>B</strong>oys' Brigade</p></td>
     <td class="tg-0pky"><p style="text-align: center;">幼女童军<br /><strong>B</strong>rownies</p></td>
     <td class="tg-0pky"><p style="text-align: center;">童军<br /><strong>C</strong>ub Scouts</p></td>
-    <td class="tg-0lax"><p style="text-align: center;">女少年旅<br /><strong>G</strong>irls' Brigade</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">女少年旅<br /><strong>G</strong>irls' Brigade</p></td>
   </tr>
 </tbody>
 </table>
@@ -191,14 +191,14 @@ description: ""
           <img src="/images/arts2.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-orchestra" target = "_self"> 
           <img src="/images/arts3.jpg"></a></td>
-    <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/choir" target = "_self"> 
+    <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/choir" target = "_self"> 
           <img src="/images/arts4.jpg"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><p style="text-align: center;">美术协会<br /><strong>A</strong>rt Club</p></td>
     <td class="tg-0pky"><p style="text-align: center;">华族舞蹈<br /><strong>C</strong>hinese Dance</p></td>
     <td class="tg-0pky"><p style="text-align: center;">华乐团<br /><strong>C</strong>hinese Orchestra</p></td>
-    <td class="tg-0lax"><p style="text-align: center;">合唱团<br /><strong>C</strong>hoir</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">合唱团<br /><strong>C</strong>hoir</p></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
