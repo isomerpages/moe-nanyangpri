@@ -109,3 +109,43 @@ description: ""
 			<p>1.&nbsp;<a href="/files/Introducing%20Student%20iCON.pdf" target="_blank" rel="noopener">Introducing Student iCON</a></p>
 			<p>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a></p>
 			<p>3.&nbsp;<a href="/files/Student%20iCON%20-%20Password%20Requirements.pdf" target="_blank" rel="noopener">Student iCON - Password Requirements</a></p>
+			<p><strong>NYPS Book List 2022</strong></p>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8yih{color:#00F;text-align:center;vertical-align:top}
+.tg .tg-dcap{color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-fnrh{color:#00F;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 520px">
+<colgroup>
+<col style="width: 130px">
+<col style="width: 130px">
+<col style="width: 130px">
+<col style="width: 130px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fnrh"><a href="[](/files/P6.pdf)" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 1</span></a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P4.pdf"><span style="font-weight:normal">Primary 4</span></a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P5%20GEP.pdf"><span style="font-weight:normal">Primary 5 GEP</span></a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P6%20FDN.pdf"><span style="font-weight:normal">Primary 6 FDN</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-fnrh"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P2.pdf">Primary 2</a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P4%20GEP.pdf">Primary 4 GEP</a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P6.pdf">Primary 6</a></td>
+    <td class="tg-8yih"></td>
+  </tr>
+  <tr>
+    <td class="tg-fnrh"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P3.pdf">Primary 3</a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P5.pdf">Primary 5</a></td>
+    <td class="tg-dcap"><a href="https://nyps.moe.edu.sg/qql/slot/u509/2022%20BOOKLIST/P6%20GEP.pdf">Primary 6 GEP</a></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
