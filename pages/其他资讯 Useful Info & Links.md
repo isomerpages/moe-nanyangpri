@@ -16,14 +16,84 @@ description: ""
 		<label for="accordion2"><h5>申请表 Forms</h5></label>
     <div>
 			<h5>Student Care Service</h5>
-<p>Ace@Work Schoolcare Pte Ltd</p>
-<p>Nanyang Primary School, 52 King's Road, Singapore 268097<br />Tel: 66109546 / 69968821<br />More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS<br /></a>Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a></p>
-<h5>School BookshopPacific Bookstores Pte Ltd</h5>
-<p>Tel: 6464 0111<br />Operating Hours: 9.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 4.00 p.m.<br />The school bookshop is closed during school holidays unless specified.<br /></p>
-<h5>School Uniforms and PE Attire</h5>
-<p>Supplier: Shanghai School Uniforms Pte Ltd<br />School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;</p>
+			<p>Ace@Work Schoolcare Pte Ltd</p>
+			<p>Nanyang Primary School, 52 King's Road, Singapore 268097<br />Tel: 66109546 / 69968821<br />More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS<br /></a>Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a></p>
+			<h5>School BookshopPacific Bookstores Pte Ltd</h5>
+			<p>Tel: 6464 0111<br />Operating Hours: 9.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 4.00 p.m.<br />The school bookshop is closed during school holidays unless specified.<br /></p>
+			<h5>School Uniforms and PE Attire</h5>
+			<p>Supplier: Shanghai School Uniforms Pte Ltd<br />School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;</p>
 <p><a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
 			<p><h5>Name Tag</h5></p>
-<p>Supplier: Stitchwerkz Pte Ltd<br />Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />Email: nametags@stitchwerkz.sg<br />To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />Ordering and collection of name tags will be done through the school bookshop.</p>
-		<img src="/images/name%20tag.png" 
-     style="width:25%">
+		<p>Supplier: Stitchwerkz Pte Ltd<br />Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />Email: nametags@stitchwerkz.sg<br />To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />Ordering and collection of name tags will be done through the school bookshop.</p>
+		<p><img src="/images/name%20tag.png" 
+						style="width:25%"></p>
+		<h5>School Dental Service</h5>
+		<p><u>Operating Hours:<br /></u>Monday to Thursday: 8.00 a.m. - 5.30 p.m.<br />Friday: 8.00 a.m. - 5.00 p.m.<br />(Closed for Lunch from 1.00 p.m. - 2.00 p.m.)<br />The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br />To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
+		<h5>School Bus Services</h5>
+		<p dir="ltr">The school has appointed the operators listed below to provide the following services:</p>
+		<ol>
+			<li dir="ltr" aria-level="1">
+				<p dir="ltr" role="presentation">Daily School Bus Services (i.e. for sending pupils from home to school and vice-versa); and</p>
+			</li>
+			<li dir="ltr" aria-level="1">
+				<p dir="ltr" role="presentation">Bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs).&nbsp;</p>
+			</li>
+		</ol>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-1wig">Zone</td>
+    <td class="tg-1wig">Bus Operators</td>
+    <td class="tg-1wig">Coordinator</td>
+    <td class="tg-1wig">Contact</td>
+    <td class="tg-1wig">Email Address</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Central</td>
+    <td class="tg-0lax">DKJ Transport Service</td>
+    <td class="tg-0lax">Leo Baiming</td>
+    <td class="tg-0lax">9772 3370</td>
+    <td class="tg-0lax">leodkj@yahoo.com.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">West</td>
+    <td class="tg-0lax">Sky Island Transport &amp; Trading Pte Ltd</td>
+    <td class="tg-0lax">Chia Khee Choon<br>Fong Ling Pio</td>
+    <td class="tg-0lax">9855 4162<br>9009 0569</td>
+    <td class="tg-0lax">kcchia4402@gmail.com<br>skyisland96@hotmail.com</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">North-West</td>
+    <td class="tg-0lax">Swee Seng School Bus</td>
+    <td class="tg-0lax">Jason Yap</td>
+    <td class="tg-0lax">9455 7571</td>
+    <td class="tg-0lax">jasonyap@outlook.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">North &amp; North-East</td>
+    <td class="tg-0lax">Ng Eng Lee Bus Service &amp; Excursion Bus</td>
+    <td class="tg-0lax">Ng Eng Lee<br>Yong Mui Fong</td>
+    <td class="tg-0lax">9747 2973<br>9858 2228</td>
+    <td class="tg-0lax">sales@nelbus.com</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">South &amp; East</td>
+    <td class="tg-0lax">Tong Tar Transport Service Pte Ltd</td>
+    <td class="tg-0lax">Winston Heng</td>
+    <td class="tg-0lax">9150 1041</td>
+    <td class="tg-0lax">nyps@tongtar.com</td>
+  </tr>
+</tbody>
+</table>
+		<p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
+		
+		
