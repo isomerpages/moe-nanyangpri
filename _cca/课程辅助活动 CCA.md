@@ -22,10 +22,14 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0pky">image</td>
-    <td class="tg-0pky">image</td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports1.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports2.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports3.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports4.jpg"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">text</td>
@@ -34,10 +38,14 @@ description: ""
     <td class="tg-0pky">text</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports5.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports6.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports7.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/sports8.jpg"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
