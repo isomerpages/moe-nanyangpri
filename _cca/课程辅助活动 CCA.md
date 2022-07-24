@@ -202,8 +202,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/guzheng-ensemble" target = "_self"> 
+          <img src="/images/arts5.jpg"></td>
+    <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/string-ensemble" target = "_self"> 
+          <img src="/images/arts6.jpg"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
