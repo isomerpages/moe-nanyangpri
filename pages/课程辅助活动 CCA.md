@@ -3,7 +3,6 @@ title: 课程辅助活动 CCA
 permalink: /cca
 description: ""
 ---
-
 <h5><center>体育运动<br>Physical Sports</center></h5>
 
 <style type="text/css">
@@ -187,13 +186,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/art-club" target = "_self"> 
-          <img src="/images/arts1.jpg"></td>
+          <img src="/images/arts1.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-dance" target = "_self"> 
-          <img src="/images/arts2.jpg"></td>
+          <img src="/images/arts2.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-orchestra" target = "_self"> 
-          <img src="/images/arts3.jpg"></td>
+          <img src="/images/arts3.jpg"></a></td>
     <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/choir" target = "_self"> 
-          <img src="/images/arts4.jpg"></td>
+          <img src="/images/arts4.jpg"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><p style="text-align: center;">美术协会<br /><strong>A</strong>rt Club</p></td>
@@ -204,9 +203,9 @@ description: ""
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/guzheng-ensemble" target = "_self"> 
-          <img src="/images/arts5.jpg"></td>
+          <img src="/images/arts5.jpg"></a></td>
     <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/string-ensemble" target = "_self"> 
-          <img src="/images/arts6.jpg"></td>
+          <img src="/images/arts6.jpg"></a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
