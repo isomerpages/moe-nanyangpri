@@ -166,5 +166,3 @@ description: ""
 	</div>
 	</li>
 </ul>
-
-qqqqqqq
