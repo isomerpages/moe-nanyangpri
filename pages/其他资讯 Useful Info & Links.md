@@ -6,14 +6,14 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5>申请表 Forms</h5></label>
+		<label for="accordion1"><h3>申请表 Forms</h3></label>
     <div>
 			<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" target="_blank" rel="noopener">Leave of Absence Application Form</a><br /><br /><a href="https://form.gov.sg/#!/forms/moe/5b07c50e844cb8001a9a2282" target="_blank" rel="noopener">Waiting List Application Form</a><br /><br /><a href="https://form.gov.sg/#!/forms/moe/5b07cdcd844cb8001a9a501f" target="_blank" rel="noopener">Phase 2B Parent Volunteer Application</a></p>
 		</div>
 	</li>
 	<li>
 		<input type="checkbox" id="accordion2">
-		<label for="accordion2"><h5>申请表 Forms</h5></label>
+		<label for="accordion2"><h3>其他相关服务 School Services</h3></label>
     <div>
 			<h5>Student Care Service</h5>
 			<p>Ace@Work Schoolcare Pte Ltd</p>
@@ -99,6 +99,13 @@ description: ""
 		</li>
 		<li>
     <input type="checkbox" id="accordion3">
-		<label for="accordion3"><h5>其他下载 Other Downloads</h5></label>
+		<label for="accordion3"><h3>其他下载 Other Downloads</h3></label>
     <div>
-		
+			<p><strong>Student ICON</strong></p>
+			<p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
+			<p>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.</p>
+			<p>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">https://workspace.google.com/dashboard</a>.</p>
+			<p>The following documents are attached for your reference:</p>
+			<p>1.&nbsp;<a href="/files/Introducing%20Student%20iCON.pdf" target="_blank" rel="noopener">Introducing Student iCON</a></p>
+<p>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a></p>
+<p>3.&nbsp;<a href="/files/Student%20iCON%20-%20Password%20Requirements.pdf" target="_blank" rel="noopener">Student iCON - Password Requirements</a></p>
