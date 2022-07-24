@@ -7,8 +7,6 @@ links:
   - title: 课程辅助活动 CCA
     url: /cca
   - title: 南洋大家庭 Nanyang Family
-    collection: nanyang-family
+    url: /nanyang-family
   - title: 其他资讯 Useful Info & Links
     collection: useful-info-and-links
-  - title: Menu Title
-    url: /nanyang-family
