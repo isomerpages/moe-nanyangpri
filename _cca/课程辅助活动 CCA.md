@@ -157,10 +157,10 @@ description: ""
           <img src="/images/uni4.jpg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0lax">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">男少年旅<br /><strong>B</strong>oys' Brigade</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">幼女童军<br /><strong>B</strong>rownies</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">童军<br /><strong>C</strong>ub Scouts</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">女少年旅<br /><strong>G</strong>irls' Brigade</p></td>
   </tr>
 </tbody>
 </table>
