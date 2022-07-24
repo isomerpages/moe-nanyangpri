@@ -121,12 +121,12 @@ description: ""
 .tg .tg-fnrh{color:#00F;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<table class="tg" style="undefined;table-layout: fixed; width: 680px">
 <colgroup>
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
+<col style="width: 170px">
+<col style="width: 170px">
+<col style="width: 170px">
+<col style="width: 170px">
 </colgroup>
 <tbody>
   <tr>
