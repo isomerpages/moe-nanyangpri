@@ -32,7 +32,7 @@ description: ""
           <img src="/images/sports4.jpg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
     <td class="tg-0pky">text</td>
     <td class="tg-0pky">text</td>
     <td class="tg-0pky">text</td>
