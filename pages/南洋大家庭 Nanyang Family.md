@@ -33,7 +33,7 @@ description: ""
     <td class="tg-0pky"><a href = "http://www.nanyangkindergarten.com/home.html" target = "_self"> 
           <img src="/images/nyk.png"></a>
 </td>
-    <td class="tg-0pky"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0pky"><a href = "https://www.nypspta.com/" target = "_self"> 
           <img src="/images/pta%20logo.jpg"></a>
 </td>
   </tr>
