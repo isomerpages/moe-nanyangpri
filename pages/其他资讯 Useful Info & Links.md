@@ -107,5 +107,5 @@ description: ""
 			<p>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">https://workspace.google.com/dashboard</a>.</p>
 			<p>The following documents are attached for your reference:</p>
 			<p>1.&nbsp;<a href="/files/Introducing%20Student%20iCON.pdf" target="_blank" rel="noopener">Introducing Student iCON</a></p>
-<p>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a></p>
-<p>3.&nbsp;<a href="/files/Student%20iCON%20-%20Password%20Requirements.pdf" target="_blank" rel="noopener">Student iCON - Password Requirements</a></p>
+			<p>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a></p>
+			<p>3.&nbsp;<a href="/files/Student%20iCON%20-%20Password%20Requirements.pdf" target="_blank" rel="noopener">Student iCON - Password Requirements</a></p>
