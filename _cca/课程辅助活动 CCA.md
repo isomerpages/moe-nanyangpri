@@ -85,10 +85,10 @@ description: ""
           <img src="/images/club4.jpg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
-    <td class="tg-0pky">text</td>
+    <td class="tg-0pky"><p style="text-align: center;">书法协会<br /><strong>C</strong>hinese Calligraphy Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">中文协会<br /><strong>C</strong>hinese Society</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">辩论协会<br /><strong>D</strong>ebate Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">绿化小组<br /><strong>G</strong>reen Club</p></td>
   </tr>
 </tbody>
 </table>
