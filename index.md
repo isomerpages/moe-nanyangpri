@@ -25,7 +25,7 @@ sections:
       title: NYPS Online Public Access Catalogue
       subtitle: NYPS School Library
       description: Our Resources Online
-      button: Button Text
+      button: View More
       url: https://schoolibrary.moe.edu.sg/nanyangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/fairytale-concept-with-castle_52683-35171.jpg
       alt: opac-example
