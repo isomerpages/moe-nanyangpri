@@ -16,7 +16,7 @@ sections:
           - title: School Bag
             url: https://www.schoolbag.sg/
           - title: OPAC Login Guide
-            url: ""
+            url: /files/For%20NYPS%20webpage%20OPAC%20login%20guide.pdf
   - resources:
       title: Announcements
       subtitle: Our Latest News
