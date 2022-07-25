@@ -22,11 +22,11 @@ sections:
       subtitle: Our Latest News
       button: View More
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: E-HOMECOMING BOARD 2021
+      subtitle: Teachers' Day
+      description: Words from our Students to our Teachers
+      button: View More
+      url: https://nyps.moe.edu.sg/others/e-homecoming-board
   - infopic:
       title: NYPS Online Public Access Catalogue
       subtitle: NYPS School Library
