@@ -21,12 +21,6 @@ sections:
       title: Announcements
       subtitle: Our Latest News
       button: View More
-  - infobar:
-      title: E-HOMECOMING BOARD 2021
-      subtitle: Teachers' Day
-      description: Words from our Students to our Teachers
-      button: View More
-      url: https://nyps.moe.edu.sg/others/e-homecoming-board
   - infopic:
       title: NYPS Online Public Access Catalogue
       subtitle: NYPS School Library
@@ -35,4 +29,10 @@ sections:
       url: https://schoolibrary.moe.edu.sg/nanyangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/fairytale-concept-with-castle_52683-35171.jpg
       alt: opac-example
+  - infobar:
+      title: E-HOMECOMING BOARD 2021
+      subtitle: Teachers' Day
+      description: Words from our Students to our Teachers
+      button: View More
+      url: https://nyps.moe.edu.sg/others/e-homecoming-board
 ---
