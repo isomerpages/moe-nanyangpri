@@ -66,3 +66,62 @@ permalink: /faq/
     
 3.  我应该如何通知校方有关于更换住址的事宜？  
     请联系学校办公室的文职人员。
+
+
+**Primary 1 Registration / Admissions**  
+
+1.  Where can I find more information on P1 Registration Exercise? Please visit the MOE website for more details on P1 Registration Exercise. [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
+2.  I am interested in registering my child under Phase 2B of the Primary One Registration Exercise. How do I apply for the Parent Volunteer Scheme?  
+    You may submit an application via the following url.  
+    [https://form.gov.sg/#!/forms/moe/5b07cdcd844cb8001a9a501f](https://form.gov.sg/#!/forms/moe/5b07cdcd844cb8001a9a501f)  
+      
+    
+3.  I would like to seek a transfer for my child from another school. How may I do so?  
+    You may submit an application via the following url.  
+    [https://form.gov.sg/#!/forms/moe/5b07c50e844cb8001a9a2282](https://form.gov.sg/#!/forms/moe/5b07c50e844cb8001a9a2282)  
+      
+    
+4.  Is there an appointed Student Care Centre operating in the school?  
+    Yes, the Student Care Centre is run by Ace@Work Schoolcare Pte Ltd. You may call them at 66109546 / 69968821 for more information.  
+    
+5.  Does the school have a Parent Teacher Association (PTA)? Yes, all parents and legal guardians with children enrolled in NYPS are eligible for membership. Please sign up at the following url. [https://www.nypspta.com/membership](https://www.nypspta.com/membership)  
+    
+
+**General Operations**  
+
+1.  What are the office hours for the General Office?
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 497px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 346px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">School Term</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">7.00 a.m. – 6.00 p.m. during weekdays</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">School Holidays</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">7.30 a.m. – 5.30 p.m. during weekdays</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia" colspan="2"><span style="color:#222;background-color:#EAEAEA">General Office is closed on all Saturdays, Sundays and Public Holidays.</span></td>
+  </tr>
+</tbody>
+</table>
+
+2\. How do I enrol in the School’s Student Care Centre?     
+    The Student Care Centre is run by Ace@Work Schoolcare Pte Ltd. You may call them at 66109546 / 69968821.  
+		
+3\. How should I inform school if there is a change of home and mailing address?     
+Please inform the staff at General Office who will advise you on the form(s) and supporting document(s) to submit.
