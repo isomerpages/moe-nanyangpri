@@ -3,7 +3,6 @@ title: 使用条款 Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-  
 ### 使用条款  
 ### Terms of Use
 
@@ -28,7 +27,7 @@ description: ""
 
 ### Privacy Policy
 
-5.  Click [here](/privacy) to review this website Privacy Statement.
+5.  Click [here](/privacy/) to review this website Privacy Statement.
 
   
 
@@ -50,10 +49,8 @@ description: ""
 ### Disclaimer of Warranties and Liability
 
 9.  The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Nanyang Primary School does not warrant and hereby disclaims any warranty:  
-    
-
-1.  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
-2.  that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.  
+    * as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
+    * that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.  
       
     
 
