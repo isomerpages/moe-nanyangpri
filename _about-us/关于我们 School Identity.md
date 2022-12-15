@@ -1,6 +1,6 @@
 ---
 title: 关于我们 School Identity
-permalink: /about-us/school-identity
+permalink: /about-us/school-identity/
 description: ""
 ---
 <img src="/images/nanyang-primary-school.png" 
@@ -34,7 +34,7 @@ do our part to serve our country.
 
 **校歌 School Song**    
 
-(embed youtube video of audio here)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZLU-gLZIwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/images/schoolsong.jpeg" 
      style="width:45%">
