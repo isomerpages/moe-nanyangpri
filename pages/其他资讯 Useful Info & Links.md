@@ -109,7 +109,7 @@ description: ""
 			<p>1.&nbsp;<a href="/files/Introducing%20Student%20iCON.pdf" target="_blank" rel="noopener">Introducing Student iCON</a></p>
 			<p>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a></p>
 			<p>3.&nbsp;<a href="/files/Student%20iCON%20-%20Password%20Requirements.pdf" target="_blank" rel="noopener">Student iCON - Password Requirements</a></p>
-			<p><strong>NYPS Book List 2022</strong></p>
+			<p><strong>NYPS Book List 2023</strong></p>
 			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -130,21 +130,21 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fnrh"><a href="/files/NYP%20P1%202023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 1</span></a></td>
-    <td class="tg-dcap"><a href="/files/P4.pdf"><span style="font-weight:normal">Primary 4</span></a></td>
-    <td class="tg-dcap"><a href="/files/P5.pdf"><span style="font-weight:normal">Primary 5 GEP</span></a></td>
-    <td class="tg-dcap"><a href="/files/P6FDN.pdf"><span style="font-weight:normal">Primary 6 FDN</span></a></td>
+    <td class="tg-fnrh"><a href="/files/P12023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 1</span></a></td>
+    <td class="tg-dcap"><a href="/files/P42023.pdf"><span style="font-weight:normal">Primary 4</span></a></td>
+    <td class="tg-dcap"><a href="/files/P5GEP2023.pdf"><span style="font-weight:normal">Primary 5 GEP</span></a></td>
+    <td class="tg-dcap"><a href="/files/P6FDN2023.pdf"><span style="font-weight:normal">Primary 6 FDN</span></a></td>
   </tr>
   <tr>
-    <td class="tg-fnrh"><a href="/files/P2.pdf">Primary 2</a></td>
-    <td class="tg-dcap"><a href="/files/P4GEP.pdf">Primary 4 GEP</a></td>
-    <td class="tg-dcap"><a href="/files/P6.pdf">Primary 6</a></td>
+    <td class="tg-fnrh"><a href="/files/P22023.pdf">Primary 2</a></td>
+    <td class="tg-dcap"><a href="/files/P4GEP2023.pdf">Primary 4 GEP</a></td>
+    <td class="tg-dcap"><a href="/files/P62023.pdf">Primary 6</a></td>
     <td class="tg-8yih"></td>
   </tr>
   <tr>
-    <td class="tg-fnrh"><a href="/files/P3.pdf">Primary 3</a></td>
-    <td class="tg-dcap"><a href="/files/P5.pdf">Primary 5</a></td>
-    <td class="tg-dcap"><a href="/files/P6GEP.pdf">Primary 6 GEP</a></td>
+    <td class="tg-fnrh"><a href="/files/P32023.pdf">Primary 3</a></td>
+    <td class="tg-dcap"><a href="/files/P52023.pdf">Primary 5</a></td>
+    <td class="tg-dcap"><a href="/files/P6GEP2023.pdf">Primary 6 GEP</a></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
