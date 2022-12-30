@@ -1,6 +1,6 @@
 ---
 title: 学校管理层 School Steering Committee
-permalink: /about-us/school-steering-committee
+permalink: /about-us/school-steering-committee/
 description: ""
 ---
 <style type="text/css">
@@ -21,8 +21,8 @@ description: ""
     <td class="tg-auhb">Name<br>Designation </td>
   </tr>
   <tr>
-    <td class="tg-2w19">吕佳伦<br>校长</td>
-    <td class="tg-2w19">Mdm Ler Jia Luen<br>Principal</td>
+    <td class="tg-2w19">王丽萍<br>校长</td>
+    <td class="tg-2w19">Mdm Wong Li Peng<br>Principal</td>
   </tr>
   <tr>
     <td class="tg-2w19">林佳薇<br>副校长</td>
@@ -81,10 +81,6 @@ description: ""
     <td class="tg-2w19">Mdm Teo Seok Huang, Eliane<br>Subject Head/ English Language</td>
   </tr>
   <tr>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> </span><span style="background-color:#F2F9FF">科主任（英文部）</span></td>
-    <td class="tg-2w19">Mdm S Srija<br>Subject Head/ English Language</td>
-  </tr>
-  <tr>
     <td class="tg-2w19">刘朝<br>主任（华文部）</td>
     <td class="tg-2w19">Mr Liu Zhao<br>Head of Department/ Chinese Language</td>
   </tr>
@@ -109,7 +105,7 @@ description: ""
     <td class="tg-2w19">Ms Ho Choy Fong<br>Subject Head/ Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-2w19">张敏仪<br>科主任（数学部）<br></td>
+    <td class="tg-2w19">施静仪<br>科主任（数学部）<br></td>
     <td class="tg-2w19">Mdm Calissa Sie Jing Yi<br>Subject Head/ Mathematics</td>
   </tr>
   <tr>
@@ -155,10 +151,6 @@ description: ""
   <tr>
     <td class="tg-2w19">陈美每<br>主任（品格与公民教育）</td>
     <td class="tg-2w19">Mdm Tan Bee Bee<br>Head of Department/ Character &amp; Citizenship Education</td>
-  </tr>
-  <tr>
-    <td class="tg-2w19">何秀玉<br>科主任（品格与公民教育）</td>
-    <td class="tg-2w19">Mdm Ho Siew Gek Catherine<br>Subject Head/ Character &amp; Citizenship Education</td>
   </tr>
   <tr>
     <td class="tg-2w19">林淑慧<br>主任（训育及领袖培养）</td>
