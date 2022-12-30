@@ -130,7 +130,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fnrh"><a href="/files/P1.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 1</span></a></td>
+    <td class="tg-fnrh"><a href="/files/NYP%20P1%202023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 1</span></a></td>
     <td class="tg-dcap"><a href="/files/P4.pdf"><span style="font-weight:normal">Primary 4</span></a></td>
     <td class="tg-dcap"><a href="/files/P5.pdf"><span style="font-weight:normal">Primary 5 GEP</span></a></td>
     <td class="tg-dcap"><a href="/files/P6FDN.pdf"><span style="font-weight:normal">Primary 6 FDN</span></a></td>
