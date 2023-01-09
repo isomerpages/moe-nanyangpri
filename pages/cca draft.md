@@ -62,7 +62,6 @@ description: ""
 </tbody>
 </table>
 
-# clubs
 
 <h5><center>社团与协会<br>Clubs and Societies</center></h5>
 
@@ -82,12 +81,12 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
-          <img src="/images/sports3.jpg"></a></td>
+		<td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/chinese-calligraphy-club" target = "_self"> 
+          <img src="/images/club11.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/chinese-society" target = "_self"> 
+          <img src="/images/club2.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/debate-club" target = "_self"> 
+          <img src="/images/club3.jpg"></a></td>
 	</tr>
 	<tr>
 		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
