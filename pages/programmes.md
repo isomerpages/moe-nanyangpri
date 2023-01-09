@@ -63,14 +63,14 @@ description: ""
 		<td class="tg-0lax"><p style="text-align: center;">科学<br /><strong>S</strong>cience</p></td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">pic</td>
-		<td class="tg-0lax">pic</td>
-		<td class="tg-0lax">pic</td>
+    <td class="tg-0lax"><a href = "/programmes/sap" target = "_self"><img src="/images/program-sap.jpg" ></a></td>
+		<td class="tg-0lax"><a href = "/programmes/student-development" target = "_self"><img src="/images/program-pd.jpg" ></a></td>
+		<td class="tg-0lax"></td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
+    <td class="tg-0lax"><p style="text-align: center;">特别辅助计划<br /><strong>S</strong>pecial Assistance Plan (SAP)</p></td>
+		<td class="tg-0lax"><p style="text-align: center;">育人<br /><strong>S</strong>tudent Development</p></td>
+		<td class="tg-0lax"></td>
 	</tr>
 </tbody>
 </table>
