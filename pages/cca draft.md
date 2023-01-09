@@ -89,20 +89,20 @@ description: ""
           <img src="/images/club3.jpg"></a></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+		<td class="tg-0pky"><p style="text-align: center;">书法协会<br /><strong>C</strong>hinese Calligraphy Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">中文协会<br /><strong>C</strong>hinese Society</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">辩论协会<br /><strong>D</strong>ebate Club</p></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
+		<td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/green-club" target = "_self"> 
+          <img src="/images/club4.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
           <img src="/images/sports2.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
           <img src="/images/sports3.jpg"></a></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
+		<td class="tg-0pky"><p style="text-align: center;">绿化小组<br /><strong>G</strong>reen Club</p></td>
     <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
     <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
 	</tr>
