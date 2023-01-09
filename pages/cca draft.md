@@ -96,27 +96,26 @@ description: ""
 	<tr>
 		<td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/green-club" target = "_self"> 
           <img src="/images/club4.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
-          <img src="/images/sports3.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/chess-club" target = "_self"> 
+          <img src="/images/club5.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/computer-club" target = "_self"> 
+          <img src="/images/club5.png"></a></td>
 	</tr>
 	<tr>
 		<td class="tg-0pky"><p style="text-align: center;">绿化小组<br /><strong>G</strong>reen Club</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">国际象棋<br /><strong>I</strong>nternational Chess</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">电脑协会<br /><strong>M</strong>aker Club</p></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky">empty</td>
+		<td class="tg-0pky"><a href = "/cca/Clubs-and-Societies/robotics-club" target = "_self"> 
+          <img src="/images/club7.png"></a></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky">empty</td>
+		<td class="tg-0pky"><p style="text-align: center;">机器人协会<br /><strong>R</strong>obotics Club</p></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
 	</tr>
 </tbody>
 </table>
