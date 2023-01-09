@@ -43,13 +43,13 @@ description: ""
     <td class="tg-0lax"><p style="text-align: center;">高才部<br /><strong>G</strong>ifted Education Programme</p></td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">pic</td>
-		<td class="tg-0lax">pic</td>
+    <td class="tg-0lax"><a href = "/programmes/immersion-programme" target = "_self"><img src="/images/program-Immersion(new).jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/information-communications-and-technology" target = "_self"><img src="/images/program-ict.jpg" ></a></td>
 		<td class="tg-0lax">pic</td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
+    <td class="tg-0lax"><p style="text-align: center;">浸濡活动<br /><strong>I</strong>mmersion Programme</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">资讯科技<br /><strong>I</strong>nformation Communication &amp; Technology</p></td>
 		<td class="tg-0lax">hello</td>
 	</tr>
 	<tr>
