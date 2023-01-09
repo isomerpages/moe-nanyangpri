@@ -52,12 +52,12 @@ description: ""
           <img src="/images/sports7.jpg"></a></td>
     <td class="tg-0pky"><a href = "/cca/Physical-Sports/wushu" target = "_self"> 
           <img src="/images/sports8.jpg"></a></td>
-    <td class="tg-0pky">empty</td>
+    <td class="tg-0pky"></td>
 	</tr>
 	<tr>
 		<td class="tg-0pky"><p style="text-align: center;">田径<br /><strong>T</strong>rack and Field</p></td>
     <td class="tg-0pky"><p style="text-align: center;">武术<br /><strong>W</strong>ushu</p></td>
-    <td class="tg-0pky">empty</td>
+    <td class="tg-0pky"></td>
 	</tr>
 </tbody>
 </table>
