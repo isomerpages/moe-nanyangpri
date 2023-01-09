@@ -34,13 +34,13 @@ description: ""
 	<tr>
     <td class="tg-0lax"><a href = "/programmes/english-language" target = "_self">
 			<img src="/images/program-el(new).jpg" ></a></td>
-		<td class="tg-0lax">pic</td>
-		<td class="tg-0lax">pic</td>
+		<td class="tg-0lax"><a href = "/programmes/foreign-language-programme" target = "_self"><img src="/images/program-fl.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/gep" target = "_self"><img src="/images/program-gep(new).jpg" ></a></td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
+    <td class="tg-0lax"><p style="text-align: center;">英文<br /><strong>E</strong>nglish Language</p></td>
+		<td class="tg-0lax"><p style="text-align: center;">外国语课程<br /><strong>F</strong>oreign Language Programme</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">高才部<br /><strong>G</strong>ifted Education Programme</p></td>
 	</tr>
 	<tr>
     <td class="tg-0lax">pic</td>
