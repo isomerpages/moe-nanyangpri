@@ -53,14 +53,14 @@ description: ""
 		<td class="tg-0lax"><p style="text-align: center;">创客计划<br /><strong>M</strong>aker Programme</p></td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">pic</td>
-		<td class="tg-0lax">pic</td>
-		<td class="tg-0lax">pic</td>
+    <td class="tg-0lax"><a href = "/programmes/mathematics" target = "_self"><img src="/images/program-math.jpg" ></a></td>
+    <td class="tg-0lax"><a href = "/programmes/physical-and-health-education" target = "_self"><img src="/images/program-physical.jpg" ></a></td>
+		<td class="tg-0lax"><a href = "/programmes/science" target = "_self"><img src="/images/program-science(new).jpg" ></a></td>
 	</tr>
 	<tr>
-    <td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
-		<td class="tg-0lax">hello</td>
+   <td class="tg-0lax"><p style="text-align: center;">数学<br /><strong>M</strong>athematics</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">体育与健康教育<br /><strong>P</strong>hysical &amp; Health Education</p></td>
+		<td class="tg-0lax"><p style="text-align: center;">科学<br /><strong>S</strong>cience</p></td>
 	</tr>
 	<tr>
     <td class="tg-0lax">pic</td>
