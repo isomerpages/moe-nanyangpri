@@ -120,7 +120,6 @@ description: ""
 </tbody>
 </table>
 
-# uniform group
 
 <h5><center>Uniformed Groups</center></h5>
 
@@ -168,7 +167,6 @@ description: ""
 </table>
 
 
-# arts
 
 <h5><center>视觉与表演艺术<br>Visual and Performing Arts</center></h5>
 
@@ -188,30 +186,30 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
-          <img src="/images/sports3.jpg"></a></td>
+		<td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/art-club" target = "_self"> 
+          <img src="/images/arts1.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-dance" target = "_self"> 
+          <img src="/images/arts2.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/chinese-orchestra" target = "_self"> 
+          <img src="/images/arts3.jpg"></a></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+		<td class="tg-0pky"><p style="text-align: center;">美术协会<br /><strong>A</strong>rt Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">华族舞蹈<br /><strong>C</strong>hinese Dance</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">华乐团<br /><strong>C</strong>hinese Orchestra</p></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
-          <img src="/images/sports3.jpg"></a></td>
+		<td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/choir" target = "_self"> 
+          <img src="/images/arts4.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Visual-and-Performing-Arts/guzheng-ensemble" target = "_self"> 
+          <img src="/images/arts5.jpg"></a></td>
+    <td class="tg-0lax"><a href = "/cca/Visual-and-Performing-Arts/string-ensemble" target = "_self"> 
+          <img src="/images/arts6.jpg"></a></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+		<td class="tg-0pky"><p style="text-align: center;">美术协会<br /><strong>A</strong>rt Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">古筝团<br /><strong>G</strong>uzheng Ensemble</p></td>
+    <td class="tg-0lax"><p style="text-align: center;">弦乐队<br /><strong>S</strong>tring Ensemble</p></td>
 	</tr>
 </tbody>
 </table>
