@@ -141,30 +141,28 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
-          <img src="/images/sports3.jpg"></a></td>
+		<td class="tg-0pky"><a href = "/cca/Uniformed-Groups/boys-brigade" target = "_self"> 
+          <img src="/images/uni1.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Uniformed-Groups/brownies" target = "_self"> 
+          <img src="/images/uni2.jpg"></a></td>
+    <td class="tg-0pky"><a href = "/cca/Uniformed-Groups/cub-scouts" target = "_self"> 
+          <img src="/images/uni3.jpg"></a></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+		<td class="tg-0pky"><p style="text-align: center;">男少年旅<br /><strong>B</strong>oys' Brigade</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">幼女童军<br /><strong>B</strong>rownies</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">童军<br /><strong>C</strong>ub Scouts</p></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><a href = "/cca/Physical-Sports/artistic-gymnastics" target = "_self"> 
-          <img src="/images/sports1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/badminton" target = "_self"> 
-          <img src="/images/sports2.jpg"></a></td>
-    <td class="tg-0pky"><a href = "/cca/Physical-Sports/basketball" target = "_self"> 
-          <img src="/images/sports3.jpg"></a></td>
+		<td class="tg-0pky"><a href = "/cca/Uniformed-Groups/girls-brigade" target = "_self"> 
+          <img src="/images/uni4.jpg"></a></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
 	</tr>
 	<tr>
-		<td class="tg-0pky"><p style="text-align: center;">体操<br /><strong>A</strong>rtistic Gymnastics</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">羽毛球<br /><strong>B</strong>adminton</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">篮球<br /><strong>B</strong>asketball</p></td>
+		<td class="tg-0pky"><p style="text-align: center;">女少年旅<br /><strong>G</strong>irls' Brigade</p></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
 	</tr>
 </tbody>
 </table>
