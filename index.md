@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/NYPS_Banner_1200x630.jpg
       dropdown:
         title: Quick Links
         options:
