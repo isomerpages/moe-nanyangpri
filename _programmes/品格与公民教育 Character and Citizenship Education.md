@@ -106,6 +106,10 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. </p>
 		<p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2023:</strong></p>
 		<p><strong>Please Note:</p>**For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong>
+	<p>	![Page 1](/images/CCE/CCE1.jpeg)</p>
+	<p>![Page 2](/images/CCE/CCE2.jpeg)</p>
+	<p>![Page 3](/images/CCE/CCE3.jpeg)</p>
+	<p>![Page 4](/images/CCE/CCE4.jpeg)</p>
 <p><strong>INFORMATION FOR PARENTS</strong></p>
 		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
 		<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to opt out via Parent’s Gateway. **This is to be done and submitted by 15/02/2023.**
