@@ -108,7 +108,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p><strong>Please Note:</p>**For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong>
 <p><strong>INFORMATION FOR PARENTS</strong></p>
 		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
-		<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to opt out via Parent’s Gateway. **This is to be done and submitted by 15/02/2023.**
+		<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to opt out via Parent’s Gateway. This is to be done and submitted by 15/02/2023.
 </p>
 <p>10. Parents can contact the school at 6467 2677 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 <p>
