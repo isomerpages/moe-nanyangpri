@@ -1,6 +1,6 @@
 ---
 title: 品格与公民教育 Character and Citizenship Education
-permalink: /programmes/character-and-citizenship-education
+permalink: /programmes/character-and-citizenship-education/
 description: ""
 ---
 <img src="/images/program-cce-2.jpeg" 
@@ -75,37 +75,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5></label>
     <div>
-			<p><strong>成长岁月课程</strong></p>
-			<ol>
-				<li>性教育课程帮助学生了解他们在成长过程中所经历的生理、社会和情感变化；发展健康和有益的同侪关系，并且对性问题作出明智、理性和负责任的决定。通过将家庭作为社会基本单元，鼓励健康的异性婚姻和稳定的家庭结构。  </li>
-				<li>性教育课程教学目标:
-					<ol>
-						<li>通过提供准确、即时和适龄的相关知识，帮助学生们做出明智、负责的决定。</li>
-						<li>通过习得社会和情感技能，如自我认知，控制自我的想法，学会同理他人，掌握有效沟通，帮助学生们了解自己并建立健康有益的人际关系。</li>
-						<li>通过将家庭作为社会基本单元，灌输积极的价值观和态度， 帮助学生们发展正确的道德观，尊重自己和他人。  </li>
-					</ol>
-				</li>
-				<li>性教育课程的关键信息
-					<ol>
-						<li>爱并尊重他人。</li>
-						<li>在爱与尊重的基础上建立积极关系，作为家庭稳定的根本。</li>
-						<li>为自己、家庭和社会做出负责任的决定。</li>
-						<li>避免婚前性行为是保护自己及他人的最佳方式。</li>
-					</ol>
-				</li>
-			</ol>
-			<p>您可以点击此<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">链接</a>以获取更多有关于教育部性教育课程的详情。</p>
-			<p><strong>南洋小学性教育概况</strong></p>
-			<p>4. 性教育课程是在教学时间教导学生的一门综合性课程。性育课程大致分为五大主题：人类发展、人际关系、性健康、性行为、文化、社会和法律。欲知更多有关性教育课程的教学内容，请<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">点击</a>这里。</p>
-			<p>5. 其他相关学科:
-			<ol>a. 科学</ol>
-			<ol>b. 级任老师辅导课</ol>
-			<ol>c. 公民与品格教育</ol></p>
-		<p><strong>成长岁月课程“Curious Minds”（第二版）（小五、小六）学习配套</strong></p>
-		<p>6.  小学高年级学生正处于青春发育初期。随着饮食和医学上的不断进步，很多学生提早开始发育，更早开始面对青春期在身体、情绪和心理上的变化。对于性行为，即使在生理上已经有所变化，但是学生心智还未成熟。“Curious Minds”能够协助学生处理青春期所面对的挑战。</p>
-		<p>7.  小学五、六年级（成长岁月）教学配套——“Curious Minds”主要是为了满足学生的身心发展需求，重视技能和价值观的教育，并着重于帮助学生面对变化，在网上和现实生活中建立健康的关系，并提高自我安全意识。</p>
-		<p>欲知更多有关教育部性教育课程的详情，请<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">点击</a>这里。 <br>“成长岁月”课程配套中的部分单元将在南洋小学进行教学，请点击此<a href="/files/NYPS%20GROWING%20YEARS%20PROGRAMME.pdf" target="_blank" rel="noopener">链接</a>查阅。</p>
-		<p><strong>THE GROWING YEARS PROGRAMME</strong></p>
+		<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
 		<ol>
 			<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br /><br /></li>
 			<li>The goals of Sexuality Education are:</li>
@@ -116,7 +86,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 					<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.</li>
 				</ol>
 			</ol>
-			<li>The key messages of Sexuality Education are:</li>
+			<li>The **key messages** of Sexuality Education are:</li>
 			<ol>
 				<ol type="i">
 					<li>Love and respect yourself as you love and respect others;</li>
@@ -126,18 +96,22 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				</ol>
 			</ol>
 		</ol>
-		<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">here</a> for more information on MOE&rsquo;s Sexuality Education.</p>
-		<p><strong>OVERVIEW OF NANYANG PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME</strong></p>
-		<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.</p>
+		<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener">here</a> (https://go.gov.sg/moe-sexuality-education) for more information on MOE&rsquo;s Sexuality Education.</p>
+		<p><strong>**OVERVIEW OF NANYANG PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME**</strong></p>
+		<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here (https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener">here</a> (https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum. </p>
 		<p>5. The subjects that incorporate topics on sexuality include:
-		<ol>a. Science <br>b. Form Teacher Guidance Period (FTGP)<br> c. Character and Citizenship Education (CCE)</ol></p>
-		<p><strong>GROWING YEARS (GY) PROGRAMME:</strong> “Curious Minds”(2nd edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
-		<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</p>
-		<p>7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
-		<p>At Nanyang Primary School, the following lessons from the Growing Years Programme will be taught. You may click <a href="/files/NYPS%20GROWING%20YEARS%20PROGRAMME.pdf" target="_blank" rel="noopener">here</a> for more information.</p>
-		<p><strong>INFORMATION FOR PARENTS</strong></p>
+		<ol>a. Science <br>b. Character and Citizenship Education (CCE)<br></ol></p>
+		<p><strong>SEXUALITY EDUCATION LESSONS:</strong><p>
+	 	<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
+		<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. </p>
+		<p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2023:</strong></p>
+		<p><strong>Please Note:</p>**For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong>
+<p><strong>INFORMATION FOR PARENTS</strong></p>
 		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
-		<p>Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form using the following link <a href="https://form.gov.sg/#!/61ebe1da67949600149f6b8c" target="_blank" rel="noopener">here</a> by 08 February 2022.</p>
+		<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to opt out via Parent’s Gateway. **This is to be done and submitted by 15/02/2023.**
+</p>
+<p>10. Parents can contact the school at 6467 2677 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p>
 		</div>
 	</li>
 	<li>
@@ -178,4 +152,3 @@ NYPS aims to develop students who embody the school's motto and values and displ
 	</div>
 </li>
 </ul>
-
