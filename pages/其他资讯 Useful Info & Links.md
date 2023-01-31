@@ -18,8 +18,9 @@ description: ""
 			<h5>Student Care Service</h5>
 			<p>Ace@Work Schoolcare Pte Ltd</p>
 			<p>Nanyang Primary School, 52 King's Road, Singapore 268097<br />Tel: 66109546 / 69968821<br />More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS<br /></a>Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a></p>
-			<h5>School BookshopPacific Bookstores Pte Ltd</h5>
-			<p>Tel: 6464 0111<br />Operating Hours: 9.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 4.00 p.m.<br />The school bookshop is closed during school holidays unless specified.<br /></p>
+			<h5>School Bookshop
+Pacific Bookstores Pte Ltd</h5>
+			<p>Tel: 6464 0111<br />Operating Hours: 8.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 3.00 p.m. during school term.<br>(Closed on Saturdays, Sundays and Public Holidays)<br />The school bookshop is closed during school holidays unless specified.<br /></p>
 			<h5>School Uniforms and PE Attire</h5>
 			<p>Supplier: Shanghai School Uniforms Pte Ltd<br />School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;</p>
 <p><a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
