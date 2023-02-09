@@ -1,6 +1,6 @@
 ---
 title: 联系我们 Contact NYPS
-permalink: /about-us/contact-nyps
+permalink: /about-us/contact-nyps/
 description: ""
 ---
 Nanyang Primary School  
@@ -10,5 +10,3 @@ Singapore 268097
 Email: [nyps@moe.edu.sg](mailto:nyps@moe.edu.sg)  
 Telephone: 6467 2677  
 Fax: 6468 6913
-
-(embed map image)
