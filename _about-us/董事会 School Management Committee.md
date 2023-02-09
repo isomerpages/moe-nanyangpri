@@ -1,6 +1,6 @@
 ---
 title: 董事会 School Management Committee
-permalink: /about-us/school-management-committee
+permalink: /about-us/school-management-committee/
 description: ""
 ---
 #### 现任董事会成员 Office Bearers (2021 to 2023)
@@ -13,8 +13,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-n4qt{background-color:#1F8CE4;color:#222;font-weight:bold;text-align:left;vertical-align:left}
+.tg .tg-ii8k{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:left}
 </style>
 <table class="tg">
 <tbody>
