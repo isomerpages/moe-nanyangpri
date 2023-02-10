@@ -31,7 +31,7 @@ description: ""
 
 The programme is focused on growing the OMG (Outward, Maker and Growth) mind-set through an integrated curriculum, with CCE, ICT, Science and Mathematics as the main drivers. The signature programmes under this umbrella include Design Thinking through Project Work, Makerspace@NYPS, Lego League@NYPS, WEDO@NYPS, and Level-Structured Values in Action (VIA) programmes.
 
-There are activities at each level that are aimed at progressively developing the OMG mind-set. In addition, Project Work provides students with the opportunity to synthesise knowledge and apply it critically as well as creatively to real-life situations. A modified <a href="(/images/Makers_20Pragramme.png)" target="_blank" rel="noopener">[Design Thinking model]</a> is used to help our students grow in these areas.
+There are activities at each level that are aimed at progressively developing the OMG mind-set. In addition, Project Work provides students with the opportunity to synthesise knowledge and apply it critically as well as creatively to real-life situations. A modified <a href="/images/Makers_20Pragramme.png" target="_blank" rel="noopener">[Design Thinking model]</a> is used to help our students grow in these areas.
 
   
 
