@@ -25,15 +25,15 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0pky"><a href = "https://www.nanyang.org.sg/" target = "_self"> 
+    <td class="tg-0pky"><a href = "https://www.nanyang.org.sg/" target = "_blank"> 
           <img src="/images/nsaa1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "https://www.nygh.edu.sg/" target = "_self"> 
+    <td class="tg-0pky"><a href = "https://www.nygh.edu.sg/" target = "_blank"> 
           <img src="/images/nygh%20logo.jpg"></a>
 </td>
-    <td class="tg-0pky"><a href = "http://www.nanyangkindergarten.com/home.html" target = "_self"> 
+    <td class="tg-0pky"><a href = "http://www.nanyangkindergarten.com/home.html" target = "_blank"> 
           <img src="/images/nyk.png"></a>
 </td>
-    <td class="tg-0pky"><a href = "https://www.nypspta.com/" target = "_self"> 
+    <td class="tg-0pky"><a href = "https://www.nypspta.com/" target = "_blank"> 
           <img src="/images/pta%20logo.jpg"></a>
 </td>
   </tr>
