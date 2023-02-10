@@ -1,9 +1,8 @@
 ---
 title: 特别辅助计划 Special Assistance Plan (SAP)
-permalink: /programmes/sap
+permalink: /programmes/sap/
 description: ""
 ---
-
 <img src="/images/program-sap-2.jpeg" 
      style="width:65%">
 
@@ -17,7 +16,7 @@ description: ""
 
   
 
-        此外，我们每年还会举办华人新年、中秋节、本地浸濡、海外浸濡等课程，在文化的体验、价值观的灌输、行为的塑造三个方面，不遗余力地传播华人传统美德与文化。
+此外，我们每年还会举办华人新年、中秋节、本地浸濡、海外浸濡等课程，在文化的体验、价值观的灌输、行为的塑造三个方面，不遗余力地传播华人传统美德与文化。
 
   
 
