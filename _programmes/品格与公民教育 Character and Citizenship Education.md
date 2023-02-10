@@ -105,13 +105,12 @@ NYPS aims to develop students who embody the school's motto and values and displ
 	 	<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
 		<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. </p>
 		<p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2023:</strong></p>
+		<img src="/images/CCE/CCE1.jpeg">
+		<img src="/images/CCE/CCE2.jpeg"style="width:94%">
+			<img src="/images/CCE/CCE3.jpeg"style="width:97%">
+		<img src="/images/CCE/CCE4.jpeg"style="width:96%">
 		
-		![Primary 5 part 1](/images/CCE/CCE1.jpeg)
-		![Primary 5 Part 2](/images/CCE/CCE2.jpeg)
-		![Primary 6 Part 1](/images/CCE/CCE3.jpeg)
-		![Primary 6 Part 2](/images/CCE/CCE4.jpeg)
-		
-Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong></p>
+<strong>Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong></p>
 
 <strong>INFORMATION FOR PARENTS</strong>
 		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
