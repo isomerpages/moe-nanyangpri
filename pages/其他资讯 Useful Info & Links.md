@@ -152,7 +152,7 @@ Pacific Bookstores Pte Ltd</h5>
 </table>
 			<p><strong>Tips To Support Your Child</strong></p>
 			<ol>
-				<li>Providing Social and Emotional Support for your Child (pdf file more than 5mb)</li>
+				<li><a href="/files/Overview%20of%Parent%20Engagement%20ResourcesPosters_i.pdf"target="blank" rel="noopener">Providing Social and Emotional Support for your Child</a></li>
 				<li><a href="/files/Nurturing%20Parent%20Child%20Communication.pdf" target="_blank" rel="noopener">Nurturing Parent-Child Communication</a></li>
 				<li><a href="/files/Raising%20Confident%20Children%20&%20Setting%20Meaningful%20Goals.pdf" target="_blank" rel="noopener">Raising Confident Children &amp; Setting Meaningful Goals</a></li>
 				<li><a href="/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" target="_blank" rel="noopener">Boosting Your Child Emotional Strength and Self-Management Skills</a></li>
