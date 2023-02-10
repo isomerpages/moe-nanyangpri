@@ -1,6 +1,6 @@
 ---
 title: 华文 Chinese Language
-permalink: /programmes/chinese-language
+permalink: /programmes/chinese-language/
 description: ""
 ---
 <img src="/images/program-cl-2.jpeg" 
@@ -31,7 +31,7 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 296px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 196px">
+<col style="width: 250px">
 </colgroup>
 <thead>
   <tr>
