@@ -132,20 +132,20 @@ Pacific Bookstores Pte Ltd</h5>
 <tbody>
   <tr>
     <td class="tg-fnrh"><a href="/files/P12023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 1</span></a></td>
-    <td class="tg-dcap"><a href="/files/P42023.pdf"><span style="font-weight:normal">Primary 4</span></a></td>
-    <td class="tg-dcap"><a href="/files/P5GEP2023.pdf"><span style="font-weight:normal">Primary 5 GEP</span></a></td>
-    <td class="tg-dcap"><a href="/files/P6FDN2023.pdf"><span style="font-weight:normal">Primary 6 FDN</span></a></td>
+    <td class="tg-dcap"><a href="/files/P42023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 4</span></a></td>
+    <td class="tg-dcap"><a href="/files/P5GEP2023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 5 GEP</span></a></td>
+    <td class="tg-dcap"><a href="/files/P6FDN2023.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:normal">Primary 6 FDN</span></a></td>
   </tr>
   <tr>
-    <td class="tg-fnrh"><a href="/files/P22023.pdf">Primary 2</a></td>
-    <td class="tg-dcap"><a href="/files/P4GEP2023.pdf">Primary 4 GEP</a></td>
-    <td class="tg-dcap"><a href="/files/P62023.pdf">Primary 6</a></td>
+    <td class="tg-fnrh"><a href="/files/P22023.pdf" target="_blank" rel="noopener noreferrer">Primary 2</a></td>
+    <td class="tg-dcap"><a href="/files/P4GEP2023.pdf" target="_blank" rel="noopener noreferrer">Primary 4 GEP</a></td>
+    <td class="tg-dcap"><a href="/files/P62023.pdf" target="_blank" rel="noopener noreferrer">Primary 6</a></td>
     <td class="tg-8yih"></td>
   </tr>
   <tr>
-    <td class="tg-fnrh"><a href="/files/P32023.pdf">Primary 3</a></td>
-    <td class="tg-dcap"><a href="/files/P52023.pdf">Primary 5</a></td>
-    <td class="tg-dcap"><a href="/files/P6GEP2023.pdf">Primary 6 GEP</a></td>
+    <td class="tg-fnrh"><a href="/files/P32023.pdf" target="_blank" rel="noopener noreferrer">Primary 3</a></td>
+    <td class="tg-dcap"><a href="/files/P52023.pdf" target="_blank" rel="noopener noreferrer">Primary 5</a></td>
+    <td class="tg-dcap"><a href="/files/P6GEP2023.pdf" target="_blank" rel="noopener noreferrer">Primary 6 GEP</a></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
