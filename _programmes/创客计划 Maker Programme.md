@@ -1,13 +1,13 @@
 ---
 title: 创客计划 Maker Programme
-permalink: /programmes/maker-programme
+permalink: /programmes/maker-programme/
 description: ""
 ---
 <img src="/images/program-maker-2.jpeg" 
      style="width:65%">
 		 
-**栽培明日的创造者  
-**  
+<strong>栽培明日的创造者 </strong>
+
 通过以好品德好公民、资讯科技、科学、数学为主的综合课程，这项计划专注于培养学生外向型、创新型和成长型思维（OMG）。设计思维专题作业、创客南洋、南洋乐高联盟、WEDO南洋及全年级的“德育在于行动”活动都是本计划的招牌活动项目。  
   
 不同年级所进行的这些活动旨在渐进式地发展孩子们OMG思维。除此之外，专题作业也提供学生学以致用的机会。我们通过[修改后的设计思维模式](/images/Makers%20Pragramme.png)来帮助学生在这些领域取得发展。  
