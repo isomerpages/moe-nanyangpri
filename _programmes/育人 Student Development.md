@@ -1,6 +1,6 @@
 ---
 title: 育人 Student Development
-permalink: /programmes/student-development
+permalink: /programmes/student-development/
 description: ""
 ---
 <img src="/images/program-pd-2.jpeg" 
@@ -9,9 +9,9 @@ description: ""
 
 **学生培育小组**    
 小组通过3层支援模式向学生提供适切的支援。   
-第1层 - 任课教师    
-第2层 - 年级主任、副年级主任和训导老师    
-第3层 - 协作教育工作者（学习及行为支援）、辅导员、教育心理学顾问和学校领导
+* 第1层 - 任课教师    
+* 第2层 - 年级主任、副年级主任和训导老师    
+* 第3层 - 协作教育工作者（学习及行为支援）、辅导员、教育心理学顾问和学校领导
 
 **部门愿景**    
 建立关爱文化   
