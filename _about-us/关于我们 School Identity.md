@@ -36,7 +36,6 @@ do our part to serve our country.
 
 
 ## 校歌 School Song
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZLU-gLZIwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zxxHOVn84b8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <img src="/images/schoolsong.jpeg" style="width:45%">
