@@ -11,7 +11,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:left}
 .tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:left}
-.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
