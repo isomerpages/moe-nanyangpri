@@ -133,10 +133,6 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				</ul>
 			</ul>
 			<p><br /><strong>SOCIAL STUDIES (SS)</strong><br /><strong>Inquiry Approach to Learning Social Studies</strong><br />The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in the Past and Present (P3 &amp; P4) and Appreciating the World and Region We Live In (P5 &amp; P6).</p>
-	</div>
-</li>
-<li>
-	<input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>学生领袖课程 Student Leadership Programme</h5></label>
     <div>
 			<p><strong>南洋小学学生领袖课程</strong><br />作为好品德好公民课程的一部分，南小的学生领袖课程专注于培养学生外向型、创造型和成长型思维的能力。<br /><br /><strong>愿景</strong><br />懂得反思并具有为他人服务精神的领袖<br /><br /><strong>使命</strong><br />培养具有分析及创造能力、思想开放、勇于变革、富有同情心，坚强并懂得反思的领袖。<br /><br /><strong>信念</strong></p>
