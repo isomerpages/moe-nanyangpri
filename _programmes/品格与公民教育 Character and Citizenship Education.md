@@ -71,9 +71,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong><br>We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.</p>
 		</div>
 	</li>
-	<li>
-    <input type="checkbox" id="accordion2">
-		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5></label>
+		<h5>性教育课程 Sexuality Education</h5></label>
     <div>
 		<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
 		<ol>
@@ -81,9 +79,9 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<li>The goals of Sexuality Education are:</li>
 			<ol>
 				<ol type="i">
-					<li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</li>
-					<li>To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-					<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.</li>
+					<li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;</li>
+					<li>To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
+					<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</li>
 				</ol>
 			</ol>
 			<li>The key messages of Sexuality Education are:</li>
