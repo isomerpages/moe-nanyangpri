@@ -4,28 +4,26 @@ permalink: /useful-info-n-links/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h3>申请表 Forms</h3></label>
     <div>
 			<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" target="_blank" rel="noopener">Leave of Absence Application Form</a><br /><br /><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" target="_blank" rel="noopener">Waiting List Application Form</a><br /><br /><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" target="_blank" rel="noopener">Phase 2B Parent Volunteer Application</a></p>
 		</div>
-	</li>
-	<li>
-		<input type="checkbox" id="accordion2">
-		<label for="accordion2"><h3>其他相关服务 School Services</h3></label>
+	</li><p>
+			<label for="accordion2"><h3>其他相关服务 School Services</h3></label>
     <div>
 			<h5>Student Care Service</h5>
-			<p>Ace@Work Schoolcare Pte Ltd</p>
-			<p>Nanyang Primary School, 52 King's Road, Singapore 268097<br />Tel: 66109546 / 69968821<br />More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS<br /></a>Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a></p>
+			<br><strong>Ace@Work Schoolcare Pte Ltd</strong>
+			<br>Nanyang Primary School, 52 King's Road, Singapore 268097
+			<br>Tel: 66109546 / 69968821<br />More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS<br /></a>Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a></p>
 			<h5>School Bookshop
-Pacific Bookstores Pte Ltd</h5>
-			<p>Tel: 6464 0111<br />Operating Hours: 8.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 3.00 p.m. during school term.<br>(Closed on Saturdays, Sundays and Public Holidays)<br />The school bookshop is closed during school holidays unless specified.<br /></p>
+Pacific Bookstores Pte Ltd Tel: 6464 0111</h5>
+			Operating Hours: 8.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 3.00 p.m. during school term.<br>(Closed on Saturdays, Sundays and Public Holidays)<br />The school bookshop is closed during school holidays unless specified.<br /></p>
 			<h5>School Uniforms and PE Attire</h5>
-			<p>Supplier: Shanghai School Uniforms Pte Ltd<br />School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;</p>
-<p><a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
-			<p><h5>Name Tag</h5></p>
-		<p>Supplier: Stitchwerkz Pte Ltd<br />Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />Email: nametags@stitchwerkz.sg<br />To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />Ordering and collection of name tags will be done through the school bookshop.</p>
+			Supplier: Shanghai School Uniforms Pte Ltd
+			<br>School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;
+<br><a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a>
+			<h5>Name Tag</h5>
+Supplier: Stitchwerkz Pte Ltd<br />Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />Email: nametags@stitchwerkz.sg<br />To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />Ordering and collection of name tags will be done through the school bookshop.
 		<p><img src="/images/name%20tag.png" 
 						style="width:25%"></p>
 		<h5>School Dental Service</h5>
@@ -98,11 +96,9 @@ Pacific Bookstores Pte Ltd</h5>
 		<p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
 		</div>
 		</li>
-		<li>
-    <input type="checkbox" id="accordion3">
-		<label for="accordion3"><h3>其他下载 Other Downloads</h3></label>
+		<h3>其他下载 Other Downloads</h3></label>
     <div>
-			<p><strong>Student ICON</strong></p>
+			<strong>Student ICON</strong>
 			<p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
 			<p>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.</p>
 			<p>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">https://workspace.google.com/dashboard</a>.</p>
