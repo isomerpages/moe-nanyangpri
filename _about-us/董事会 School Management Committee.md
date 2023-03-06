@@ -19,9 +19,9 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-n4qt">姓名  职衔</td>
-    <td class="tg-n4qt">Name</td>
-    <td class="tg-n4qt">Designation</td>
+		<td class="tg-n4qt" style="color:white;">姓名  职衔</td>
+    <td class="tg-n4qt" style="color:white;">Name</td>
+    <td class="tg-n4qt" style="color:white;">Designation</td>
   </tr>
   <tr>
     <td class="tg-ii8k">洪芳芳女士  主席</td>
