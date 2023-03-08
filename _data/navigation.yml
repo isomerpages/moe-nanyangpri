@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: 南小概况 About Us
+    collection: about-us
+  - title: 南小课程 Programmes
+    url: /programmes
+  - title: 课程辅助活动 CCA
+    url: /cca
+  - title: 南洋大家庭 Nanyang Family
+    url: /nanyang-family
+  - title: 其他资讯 Useful Info & Links
+    url: /useful-info-n-links
