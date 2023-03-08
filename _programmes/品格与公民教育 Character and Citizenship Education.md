@@ -105,7 +105,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2023:</strong></p>
 		<img src="/images/CCE/CCE1.jpeg">
 		<br><img src="/images/CCE/CCE2.jpeg">
-		<br>	<img src="/images/CCE/CCE3.jpeg">
+		<br><img src="/images/CCE/CCE3.jpeg">
 		<br><img src="/images/CCE/CCE4.jpeg">
 		
 <br><strong>Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong></p>
