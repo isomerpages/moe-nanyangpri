@@ -108,7 +108,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<img src="/images/CCE/CCE3.jpeg"style="width:97%">
 		<img src="/images/CCE/CCE4.jpeg"style="width:96%">
 		
-<strong>Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong></p>
+<br><strong>Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong></p>
 
 <strong>INFORMATION FOR PARENTS</strong>
 		<p>8. Parents may opt their children out of the Growing Years Programme, and/or supplementary sexuality education programme by MOE-approved external providers.</p>
