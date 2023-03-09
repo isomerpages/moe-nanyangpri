@@ -71,7 +71,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong><br>We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.</p>
 		</div>
 	</li>
-		<h5>性教育课程 Sexuality Education</h5></label>
+		<h5>性教育课程 Sexuality Education</h5>
     <div>
 		<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
 		<ol>
