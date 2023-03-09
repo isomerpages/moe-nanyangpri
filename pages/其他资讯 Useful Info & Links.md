@@ -116,8 +116,8 @@ Pacific Bookstores Pte Ltd Tel: 6464 0111</strong>
 			<br>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.<br>
 			<br>Student iCON Student iCON is web-based and can be access via&nbsp; <a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">https://workspace.google.com/dashboard</a>. </p>
 			<br>The following documents are attached for your reference:
-			<br>1.&nbsp;<a href="/files/Introducing%20Student%20iCON.pdf" target="_blank" rel="noopener">Introducing Student iCON</a>
-			<br>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a>
+			<br>1.&nbsp;<a href="/files/Introducing%20Student%20iCON.pdf" target="_blank" rel="noopener">Introducing Student iCON</a></br>
+			<br>2.&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide</a></br>
 			<br>3.&nbsp;<a href="/files/Student%20iCON%20-%20Password%20Requirements.pdf" target="_blank" rel="noopener">Student iCON - Password Requirements</a></p>
 			<br><strong>NYPS Book List 2023</strong></p>
 			<style type="text/css">
