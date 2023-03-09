@@ -26,7 +26,7 @@ Pacific Bookstores Pte Ltd Tel: 6464 0111</strong>
 		<br>Supplier: Shanghai School Uniforms Pte Ltd
 	<br>School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;
 <br><a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
-			<strong>Name Tag</strong>
+			<p><strong>Name Tag</strong>
 			<br>Supplier: Stitchwerkz Pte Ltd
 			<br>Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838
 			<br>Email: nametags@stitchwerkz.sg
