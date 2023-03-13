@@ -71,12 +71,11 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong><br>We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.</p>
 		</div>
 	</li>
-		<h5>性教育课程 Sexuality Education</h5>
-    <div>
-			<ul class="jekyllcodex_accordion">
+		<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1">
+		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5>
+    <div>
 		<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
 		<ol>
 			<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br /><br /></li>
@@ -120,7 +119,10 @@ NYPS aims to develop students who embody the school's motto and values and displ
 </p>
 <p>10. Parents can contact the school at 6467 2677 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 <p>
-	<label for="accordion3"><h5>国民教育课程 Citizenship Education
+	<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion3"><h5>国民教育课程 Citizenship Education
 </h5></label>
     <div>
 			<p><strong>国民教育<br /></strong><br /><strong>四项纪念性的国民教育活动<br /></strong><br /><strong>全面防卫日</strong><br />我校每年在2月份纪念全面防卫日，提醒学生必须依靠自己的力量捍卫新加坡。学生也在当天对保卫国家的英雄所作出的贡献进行反思。在感恩活动中，学生会写感谢卡向这些英雄致敬。<br /><br /><strong>国际友谊日<br /></strong>国际友谊日的目的是要让学生了解新加坡与其他国家，尤其是附近国家的关系；同时培养学生国际主义精神，并且学会珍惜多元文化，接受不同的视角和观点。这一天，南小学生也会在感恩卡上写感谢词送给朋友，表示珍惜彼此的友情。<br /><br /><strong>种族和谐日</strong><br />种族和谐日主要提醒学生维持种族和宗教和谐的重要性，学会珍惜我国多元种族、多元文化的社会结构。<br /><br /><strong>国庆日</strong><br />国庆日庆祝会让学生对新加坡的建国历程有深一层的了解。新加坡有今天的成就，少不了富有远见、毅力坚定的政府以及团结一致的人民。<br /><br /><strong>国庆预演（五年级）<br /></strong>自1997年开始，为了培养学生的爱国主义精神，小学五年级的学生将有机会观看国庆庆典预演。<br /><br /><strong>跨年级实地学习体验</strong><br />实地学习体验让学生跨出教室，到真实的环境中学习。<br /><br />请点击此<a href="/files/NYPS%20FieldBased%20Learning.pdf" target="_blank" rel="noopener">链接</a>以参阅为不同年级以及学习重点所设立的户外学习体验。<br /><br /><strong>文化浸濡课程</strong><br />校内所推出的文化浸濡课程的宗旨在于提高学生对社会文化的意识和敏感度。让学生能够接受并与异族朋友交流和建立友谊，让学生明白维持种族和宗教和谐的重要。学校也推出一套教学配套，老师将会在社会科学课上进行教学。<br /><br /><strong>国民教育当代课题</strong><br />国民教育以提升学生的公民意识为主轴，进一步引导他们探讨国家身份认同和身为新加坡人的责任。教学的目的在于培育学生的公民意识，包括对新加坡的归属感；对我国面对的现实环境和局限有清晰的了解；让学生对国家的未来抱有希望。</p>
