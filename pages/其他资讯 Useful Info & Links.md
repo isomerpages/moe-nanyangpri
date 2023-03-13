@@ -46,7 +46,7 @@ Email: nametags@stitchwerkz.sg<br />
 To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />
 Ordering and collection of name tags will be done through the school bookshop.</p>
 
-<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png" /></p>
+<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png"style="width:50%"/></p>
 
 <p><br />
 <strong>School Dental Service</strong><br />
