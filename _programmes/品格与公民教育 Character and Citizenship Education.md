@@ -71,7 +71,6 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong><br>We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.</p>
 		</div>
 	</li>
-		<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5>
@@ -119,7 +118,6 @@ NYPS aims to develop students who embody the school's motto and values and displ
 </p>
 <p>10. Parents can contact the school at 6467 2677 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 <p>
-	<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion3">
 		<label for="accordion3"><h5>国民教育课程 Citizenship Education
@@ -137,7 +135,6 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				</ul>
 			</ul>
 			<p><br /><strong>SOCIAL STUDIES (SS)</strong><br /><strong>Inquiry Approach to Learning Social Studies</strong><br />The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in the Past and Present (P3 &amp; P4) and Appreciating the World and Region We Live In (P5 &amp; P6).</p></ul>
-		<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>学生领袖课程 Student Leadership Programme</h5></label>
