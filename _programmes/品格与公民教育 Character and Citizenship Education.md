@@ -136,7 +136,7 @@ NYPS aims to develop students who embody the school's motto and values and displ
 					<li>A professional community engaged in pedagogical innovation</li>
 				</ul>
 			</ul>
-			<p><br /><strong>SOCIAL STUDIES (SS)</strong><br /><strong>Inquiry Approach to Learning Social Studies</strong><br />The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in the Past and Present (P3 &amp; P4) and Appreciating the World and Region We Live In (P5 &amp; P6).</p>
+			<p><br /><strong>SOCIAL STUDIES (SS)</strong><br /><strong>Inquiry Approach to Learning Social Studies</strong><br />The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in the Past and Present (P3 &amp; P4) and Appreciating the World and Region We Live In (P5 &amp; P6).</p></ul>
 		<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion4">
