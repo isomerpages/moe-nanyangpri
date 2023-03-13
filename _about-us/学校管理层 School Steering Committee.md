@@ -49,7 +49,7 @@ description: ""
     <td class="tg-2w19">Mdm Lai Ling Lee<br>Year Head</td>
   </tr>
   <tr>
-    <td class="tg-2w19">曾素群<br>副年级主任</td>
+    <td class="tg-2w19">曾素群<br>年级主任</td>
     <td class="tg-2w19">Mdm Steff Chan Su Qin<br>Year Head</td>
   </tr>
   <tr>
