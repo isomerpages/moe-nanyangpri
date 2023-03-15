@@ -8,7 +8,7 @@ description: ""
 
 <b>愿景</b><br>
 培育品格正直、有环球意识和心系祖国的学生。  
- <br><br>
+<br>
 <b>品格与公民教育框架</b><br>    
 请参考<a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">附件</a>
  <br><br>
