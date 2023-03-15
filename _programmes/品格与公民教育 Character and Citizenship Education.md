@@ -3,6 +3,32 @@ title: 品格与公民教育 Character and Citizenship Education
 permalink: /programmes/character-and-citizenship-education/
 description: ""
 ---
+<ul class="jekyllcodex_accordion">
+
+<li><input id="accordion1" type="checkbox">
+<label for="accordion1">级任老师辅导课 Form Teacher Guidance Period (FTGP)</label><div>
+<p>Insert content here</p>
+</div></li>
+
+<li><input id="accordion2" type="checkbox">
+<label for="accordion2">性教育课程 Sexuality Education</label><div>
+<p>Insert content here</p>
+</div></li>
+
+<li><input id="accordion3" type="checkbox">
+<label for="accordion3">国民教育课程 Citizenship Education</label><div>
+<p>Insert content here</p>
+</div></li>
+
+<li><input id="accordion4" type="checkbox">
+<label for="accordion4">学生领袖课程 Student Leadership Programme</label><div>
+<p>Insert content here</p>
+</div></li>
+	
+</ul>
+
+
+
 <img src="/images/program-cce-2.jpeg" 
      style="width:65%">
 
