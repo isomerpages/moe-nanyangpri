@@ -212,6 +212,7 @@ The school has appointed the operators listed below to provide the following ser
 	<p><a href="https://www.nyps.moe.edu.sg/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
 	</li>
 </ol>
+</p>
 </div></li>
 <p>&nbsp;</p>
 <li><input id="accordion4" type="checkbox">
