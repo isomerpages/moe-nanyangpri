@@ -21,7 +21,6 @@ To develop morally upright students who are globally relevant and locally rooted
 Click <a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">here</a> for attachment. <br><br>
 NYPS aims to develop students who embody the school's motto and values and display the <b>Outward</b>, <b>Maker and Growth Mindset</b> as well as social emotional competencies.
 
-
 <ul class="jekyllcodex_accordion">
 
 <li><input id="accordion1" type="checkbox">
@@ -146,5 +145,4 @@ NYPS aims to develop students who embody the school's motto and values and displ
 			</ul>
 			<p><br />Click&nbsp;<a href="/files/CCE%20Website%20Diagrams%20of%20Framework_StudentLeadershipRoadMap_30Jul.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the NYPS Student Leadership Roadmap&nbsp;<br /><br />Click&nbsp;<a href="/files/CCE_StudentLeadership_Structure.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the NYPS Student Leadership Structure&nbsp;<br /><br />In NYPS, all our students have opportunities to develop their leadership capacity, readiness and potential through a three-tier approach &ndash; tier 1) Classroom Leaders; tier 2) Co-Curricular Activities Leaders &amp; Prefectorial Board; and tier 3) Prefectorial Board Executive Committee.<br /><br /><strong>Prefectorial Board<br /></strong>The Nanyang Prefectorial Board is made up of Primary 4 to Primary 6 Prefects. After a series of selection processes, the Prefects are sworn in during the annual Prefects&rsquo; Investiture.<br /><br />An annual Prefects Camp which witnessed the Prefects bonding, working and learning together took place during the June School Holidays. These student leaders were also given opportunities to initiate programmes and/or projects to improve the well-being of their peers and/or state of their environment.</p>
 </div></li>
-	
 </ul>
