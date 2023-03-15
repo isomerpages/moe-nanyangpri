@@ -6,54 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 
 <li><input id="accordion1" type="checkbox">
-<label for="accordion1">级任老师辅导课 Form Teacher Guidance Period (FTGP)</label><div>
-<p>Insert content here</p>
-</div></li>
-
-<li><input id="accordion2" type="checkbox">
-<label for="accordion2">性教育课程 Sexuality Education</label><div>
-<p>Insert content here</p>
-</div></li>
-
-<li><input id="accordion3" type="checkbox">
-<label for="accordion3">国民教育课程 Citizenship Education</label><div>
-<p>Insert content here</p>
-</div></li>
-
-<li><input id="accordion4" type="checkbox">
-<label for="accordion4">学生领袖课程 Student Leadership Programme</label><div>
-<p>Insert content here</p>
-</div></li>
-	
-</ul>
-
-
-
-<img src="/images/program-cce-2.jpeg" 
-     style="width:65%">
-
-**愿景**  
-培育品格正直、有环球意识和心系祖国的学生。  
-  
-**品格与公民教育框架**    
-请参考<a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">附件</a>
-  
-南洋小学培育学生秉承校训和核心价值观，培养他们**外向型、创造型和成长型**思维的能力，同时掌握社交与情绪管理技能。  
-  
-**VISION**  
-To develop morally upright students who are globally relevant and locally rooted.  
-  
-**CCE Framework**  
-Click <a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">here</a> for attachment.  
-  
-NYPS aims to develop students who embody the school's motto and values and display the **Outward**, **Maker and Growth Mindset** as well as social emotional competencies.
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5>级任老师辅导课 Form Teacher Guidance Period (FTGP)</h5></label>
-    <div>
-			<p><strong>级任老师辅导课</strong><br>每周将利用上课时间进行级任老师辅导课，教导社交与情绪管理技能，并建立师生良好的关系。</p>
+<label for="accordion1">级任老师辅导课 Form Teacher Guidance Period (FTGP)</label><div><p><strong>级任老师辅导课</strong><br>每周将利用上课时间进行级任老师辅导课，教导社交与情绪管理技能，并建立师生良好的关系。</p>
 			<p>级任老师辅导课（每周2节课）课程包括</p>
 			<ol>
 				<li>社交与情绪管理技能学习</li>
@@ -95,13 +48,11 @@ NYPS aims to develop students who embody the school's motto and values and displ
 				<li>Class/ Student initiated School based (class- or student-initiated) VIA</li>
 			</ol>
 			<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong><br>We hope that our students are able to develop sense of empathy and gratitude through counting their blessings and showing their appreciation to others through our Gratitude Programme.</p>
-		</div>
-	</li>
-  <li>
-    <input type="checkbox" id="accordion2">
-		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5>
-    <div>
-		<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
+</div></li>
+
+<li><input id="accordion2" type="checkbox">
+<label for="accordion2">性教育课程 Sexuality Education</label><div>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
 		<ol>
 			<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br /><br /></li>
 			<li>The goals of Sexuality Education are:</li>
@@ -143,7 +94,54 @@ NYPS aims to develop students who embody the school's motto and values and displ
 		<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to opt out via Parent’s Gateway. This is to be done and submitted by 15/02/2023.
 </p>
 <p>10. Parents can contact the school at 6467 2677 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
-<p>
+</div></li>
+
+<li><input id="accordion3" type="checkbox">
+<label for="accordion3">国民教育课程 Citizenship Education</label><div>
+<p>Insert content here</p>
+</div></li>
+
+<li><input id="accordion4" type="checkbox">
+<label for="accordion4">学生领袖课程 Student Leadership Programme</label><div>
+<p>Insert content here</p>
+</div></li>
+	
+</ul>
+
+
+
+<img src="/images/program-cce-2.jpeg" 
+     style="width:65%">
+
+**愿景**  
+培育品格正直、有环球意识和心系祖国的学生。  
+  
+**品格与公民教育框架**    
+请参考<a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">附件</a>
+  
+南洋小学培育学生秉承校训和核心价值观，培养他们**外向型、创造型和成长型**思维的能力，同时掌握社交与情绪管理技能。  
+  
+**VISION**  
+To develop morally upright students who are globally relevant and locally rooted.  
+  
+**CCE Framework**  
+Click <a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">here</a> for attachment.  
+  
+NYPS aims to develop students who embody the school's motto and values and display the **Outward**, **Maker and Growth Mindset** as well as social emotional competencies.
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5>级任老师辅导课 Form Teacher Guidance Period (FTGP)</h5></label>
+    <div>
+			
+		</div>
+	</li>
+  <li>
+    <input type="checkbox" id="accordion2">
+		<label for="accordion2"><h5>性教育课程 Sexuality Education</h5>
+    <div>
+		
   <li>
     <input type="checkbox" id="accordion3">
 		<label for="accordion3"><h5>国民教育课程 Citizenship Education
