@@ -3,9 +3,11 @@ title: 其他资讯 Useful Info & Links
 permalink: /useful-info-n-links/
 description: ""
 ---
-<h3>申请表 Forms</h3>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox">
+<label for="accordion1"><h3>申请表 Forms</h3></label><div>
 
-<ul>
+<p><ul>
 	<li>
 	<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
 	</li>
@@ -15,12 +17,12 @@ description: ""
 	<li>
 	<p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
 	</li>
-</ul>
-
+</ul></p>
+</div></li>
 <p>&nbsp;</p>
-
-<h3>其他相关服务 School Services</h3>
-
+<li><input id="accordion2" type="checkbox">
+<label for="accordion2"><h3>其他相关服务 School Services</h3></label><div>
+<p>
 <p><strong>Student Care Service</strong><br />
 <strong>Ace@Work Schoolcare Pte Ltd</strong><br />
 Nanyang Primary School, 52 King&#39;s Road, Singapore 268097<br />
@@ -115,11 +117,13 @@ The school has appointed the operators listed below to provide the following ser
 </table>
 
 <p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
-
+</p>
+</div></li>
 <p>&nbsp;</p>
 
-<h3>其他下载 Other Downloads</h3>
-
+<li><input id="accordion3" type="checkbox">
+<label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
+<p>
 <p><strong>Student ICON</strong></p>
 
 <p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
@@ -244,11 +248,13 @@ The school has appointed the operators listed below to provide the following ser
 	<p><a href="https://www.nyps.moe.edu.sg/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
 	</li>
 </ol>
-
+</p>
+</div></li>
 <p>&nbsp;</p>
 
-<h3>财政 Financial Matters</h3>
-
+<li><input id="accordion4" type="checkbox">
+<label for="accordion4"><h3>财政 Financial Matters</h3></label><div>
+<p>
 <ul>
 	<li>
 	<p><a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener" target="_blank">Financial Summary of Government-Aided Schools&#39; &amp; Independent Schools&rsquo; Donation Funds</a></p>
@@ -260,3 +266,5 @@ The school has appointed the operators listed below to provide the following ser
 	<p><a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_blank">Group/Personal Accident Insurance for Students Form</a></p>
 	</li>
 </ul>
+</p>
+</div></li>
