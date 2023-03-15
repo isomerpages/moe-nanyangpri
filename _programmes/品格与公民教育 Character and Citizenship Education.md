@@ -20,7 +20,7 @@ To develop morally upright students who are globally relevant and locally rooted
 <u><b>CCE Framework</b></u><br> 
 Click <a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">here</a> for attachment. <br><br>
 NYPS aims to develop students who embody the school's motto and values and display the <b>Outward</b>, <b>Maker and Growth Mindset</b> as well as social emotional competencies.
-<br>
+<br><br>
 <ul class="jekyllcodex_accordion">
 
 <li><input id="accordion1" type="checkbox">
