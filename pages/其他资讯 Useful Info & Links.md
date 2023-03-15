@@ -7,18 +7,13 @@ description: ""
 <li><input id="accordion1" type="checkbox">
 <label for="accordion1"><h3>申请表 Forms</h3></label><div>
 	<ul>
-	<li>
-	<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
-	</li>
-	<li>
-	<p><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" rel="noopener" target="_blank">Waiting List Application Form</a></p>
-	</li>
-	<li>
-	<p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
-	</li>
+		<li><p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p></li>
+		<li><p><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" rel="noopener" target="_blank">Waiting List Application Form</a></p>
+		</li>
+		<li><p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
+		</li>
 </ul>
 </div></li>
-<p>&nbsp;</p>
 <li><input id="accordion2" type="checkbox">
 <label for="accordion2"><h3>其他相关服务 School Services</h3></label><div>
 <p><strong>Student Care Service</strong><br />
@@ -42,7 +37,7 @@ Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />
 Email: nametags@stitchwerkz.sg<br />
 To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />
 Ordering and collection of name tags will be done through the school bookshop.</p>
-<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png"style="width:50%"/></p>
+	<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png"style="width:50%"/></p>
 <p><br />
 <strong>School Dental Service</strong><br />
 <u><strong>Operating Hours:</strong></u><br />
@@ -107,26 +102,25 @@ The school has appointed the operators listed below to provide the following ser
 </table>
 <p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
 </div></li>
-<p>&nbsp;</p>
-<li><input id="accordion3" type="checkbox">
-<label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
-<p><strong>Student ICON</strong></p>
-<p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
-<p>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.</p>
-<p>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">https://workspace.google.com/dashboard</a>.</p>
-<p>The following documents are attached for your reference:</p>
-<ol>
-	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Introducing%20Student%20iCON.pdf" rel="noopener" target="_blank">Introducing Student iCON</a></p>
+	<li><input id="accordion3" type="checkbox">
+		<label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
+		<p><strong>Student ICON</strong></p>
+		<p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
+		<p>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.</p>
+		<p>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">https://workspace.google.com/dashboard</a>.</p>
+		<p>The following documents are attached for your reference:</p>
+		<ol>
+			<li>
+				<p><a href="https://www.nyps.moe.edu.sg/files/Introducing%20Student%20iCON.pdf" rel="noopener" target="_blank">Introducing Student iCON</a>
+				</p>
+			</li>
+			<li>
+				<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></p>
-	</li>
-	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20-%20Password%20Requirements.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></p>
+				<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20-%20Password%20Requirements.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></p>
 	</li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>NYPS Book List 2023</strong></p>
 <table style="width:393.333px">
 	<tbody>
@@ -150,7 +144,6 @@ The school has appointed the operators listed below to provide the following ser
 		</tr>
 	</tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Tips To Support Your Child</strong></p>
 <ol>
 	<li>
