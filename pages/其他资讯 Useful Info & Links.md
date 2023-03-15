@@ -6,13 +6,11 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">
 <label for="accordion1"><h3>申请表 Forms</h3></label><div>
-	<ul>
-		<li><p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p></li>
-		<li><p><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" rel="noopener" target="_blank">Waiting List Application Form</a></p>
-		</li>
-		<li><p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
-		</li>
-</ul>
+	<ul><p>
+		<br><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a><br />
+		<br><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" rel="noopener" target="_blank">Waiting List Application Form</a><br />
+		<br><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a><br />
+		</p>
 </div></li>
 <li><input id="accordion2" type="checkbox">
 <label for="accordion2"><h3>其他相关服务 School Services</h3></label><div>
@@ -46,7 +44,6 @@ Friday: 8.00 a.m. - 5.00 p.m.<br />
 (Closed for Lunch from 1.00 p.m. - 2.00 p.m.)<br />
 The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br />
 To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
-<p>&nbsp;</p>
 <p><strong>School Bus Services</strong><br />
 The school has appointed the operators listed below to provide the following services:</p>
 <table style="width:783.333px">
@@ -100,20 +97,19 @@ The school has appointed the operators listed below to provide the following ser
 		</tr>
 	</tbody>
 </table>
-<p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
+<br>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a><br />
 </div></li>
 	<li><input id="accordion3" type="checkbox">
 		<label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
-		<p><strong>Student ICON</strong></p>
-		<p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
-		<p>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.</p>
-		<p>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">https://workspace.google.com/dashboard</a>.</p>
-		<p>The following documents are attached for your reference:</p>
+		<p><strong>Student ICON</strong>
+		<br>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;<br />
+		<br>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.<br />
+		<br>Student iCON Student iCON is web-based and can be access via&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">https://workspace.google.com/dashboard</a>.<br />
+		<br>The following documents are attached for your reference:<br />
 		<ol>
 			<li>
 				<p><a href="https://www.nyps.moe.edu.sg/files/Introducing%20Student%20iCON.pdf" rel="noopener" target="_blank">Introducing Student iCON</a>
 				</p>
-			</li>
 			<li>
 				<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></p>
 	</li>
@@ -121,7 +117,7 @@ The school has appointed the operators listed below to provide the following ser
 				<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20-%20Password%20Requirements.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></p>
 	</li>
 </ol>
-<p><strong>NYPS Book List 2023</strong></p>
+<br><strong>NYPS Book List 2023</strong><br />
 <table style="width:393.333px">
 	<tbody>
 		<tr>
@@ -144,7 +140,7 @@ The school has appointed the operators listed below to provide the following ser
 		</tr>
 	</tbody>
 </table>
-<p><strong>Tips To Support Your Child</strong></p>
+<br><strong>Tips To Support Your Child</strong><br />
 <ol>
 	<li>
 	<p>Daily School Bus Services (i.e. for sending pupils from home to school and vice-versa); and</p>
