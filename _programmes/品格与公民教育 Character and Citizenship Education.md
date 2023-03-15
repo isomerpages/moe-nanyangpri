@@ -6,18 +6,18 @@ description: ""
 <img src="/images/program-cce-2.jpeg" 
      style="width:65%"><br>
 
-<b>愿景</b><br>
+<u><b>愿景</b></u><br>
 培育品格正直、有环球意识和心系祖国的学生。  
 <br>
-<b>品格与公民教育框架</b>  
+<u><b>品格与公民教育框架</b></u><br>
 请参考<a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">附件</a>
  <br>
 南洋小学培育学生秉承校训和核心价值观，培养他们<b>外向型、创造型和成长型</b>思维的能力，同时掌握社交与情绪管理技能。  
   
-<b>VISION</b><br>
+<u><b>VISION</b></u><br>
 To develop morally upright students who are globally relevant and locally rooted.  
 <br><br>
-<b>CCE Framework</b><br> 
+<u><b>CCE Framework</b></u><br> 
 Click <a href="/images/CCE%20Framework.jpeg" target="_blank" rel="noopener">here</a> for attachment. <br><br>
 NYPS aims to develop students who embody the school's motto and values and display the <b>Outward</b>, <b>Maker and Growth Mindset</b> as well as social emotional competencies.
 
