@@ -227,5 +227,6 @@ The school has appointed the operators listed below to provide the following ser
 	<li>
 	<p><a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_blank">Group/Personal Accident Insurance for Students Form</a></p>
 	</li>
+	</div></li>
 </ul>
 </div></li>
