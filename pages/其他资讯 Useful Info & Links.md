@@ -7,7 +7,7 @@ description: ""
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1"><h3>申请表 Forms</h3></label><div>
 <p>
-<ul>
+</p><ul>
 	<li>
 	<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
 	</li>
@@ -17,49 +17,49 @@ description: ""
 	<li>
 	<p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
 	</li>
-</ul></p></div></li>
+</ul><p></p></div></li>
 <li><input id="accordion2" type="checkbox">  
 <label for="accordion2">
 <h3>其他相关服务 School Services</h3></label><div>
-<p><strong>Student Care Service</strong><br />
-<strong>Ace@Work Schoolcare Pte Ltd</strong><br />
-Nanyang Primary School, 52 King&#39;s Road, Singapore 268097<br />
-Tel: 66109546 / 69968821<br />
-More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS</a><br />
-Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a><br />
+<p><strong>Student Care Service</strong><br>
+<strong>Ace@Work Schoolcare Pte Ltd</strong><br>
+Nanyang Primary School, 52 King's Road, Singapore 268097<br>
+Tel: 66109546 / 69968821<br>
+More Information about&nbsp;<a href="https://www.aceatwork.com.sg/ace268097">Student Care@NYPS</a><br>
+Email:&nbsp;<a href="mailto:feedbacknyps@aceatwork.com.sg">feedbacknyps@aceatwork.com.sg</a><br>
 
-<p><strong>School Bookshop</strong><br />
-<strong>Pacific Bookstores Pte Ltd Tel: 6464 0111</strong><br />
-Operating Hours: 8.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 3.00 p.m. during school term.<br />
-(Closed on Saturdays, Sundays and Public Holidays)<br />
+</p><p><strong>School Bookshop</strong><br>
+<strong>Pacific Bookstores Pte Ltd Tel: 6464 0111</strong><br>
+Operating Hours: 8.00 a.m. to 12.00 p.m. &amp; 2.00 p.m. to 3.00 p.m. during school term.<br>
+(Closed on Saturdays, Sundays and Public Holidays)<br>
 The school bookshop is closed during school holidays unless specified.</p>
 
-<p><strong>School Uniforms and PE Attire</strong><br />
-<strong>Shanghai School Uniforms Pte Ltd</strong><br />
-School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;<br />
+<p><strong>School Uniforms and PE Attire</strong><br>
+<strong>Shanghai School Uniforms Pte Ltd</strong><br>
+School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;<br>
 <a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
 
-<p><strong>Name Tag</strong><br />
-<strong>Stitchwerkz Pte Ltd</strong><br />
-Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br />
-Email: nametags@stitchwerkz.sg<br />
-To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br />
+<p><strong>Name Tag</strong><br>
+<strong>Stitchwerkz Pte Ltd</strong><br>
+Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br>
+Email: nametags@stitchwerkz.sg<br>
+To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br>
 Ordering and collection of name tags will be done through the school bookshop.</p>
 
-<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png"style="width:50%"></p>
+<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png" style="width:50%"></p>
 
-<p><br />
-<strong>School Dental Service</strong><br />
-<u><strong>Operating Hours:</strong></u><br />
-Monday to Thursday: 8.00 a.m. - 5.30 p.m.<br />
-Friday: 8.00 a.m. - 5.00 p.m.<br />
-(Closed for Lunch from 1.00 p.m. - 2.00 p.m.)<br />
-The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br />
+<p><br>
+<strong>School Dental Service</strong><br>
+<u><strong>Operating Hours:</strong></u><br>
+Monday to Thursday: 8.00 a.m. - 5.30 p.m.<br>
+Friday: 8.00 a.m. - 5.00 p.m.<br>
+(Closed for Lunch from 1.00 p.m. - 2.00 p.m.)<br>
+The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br>
 To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
 
 <p>&nbsp;</p>
 
-<p><strong>School Bus Services</strong><br />
+<p><strong>School Bus Services</strong><br>
 The school has appointed the operators listed below to provide the following services:</p>
 
 <table style="width:783.333px">
@@ -81,11 +81,11 @@ The school has appointed the operators listed below to provide the following ser
 		<tr>
 			<td style="width:130px">West</td>
 			<td style="width:242px">Sky Island Transport &amp; Trading Pte Ltd</td>
-			<td style="width:115px">Chia Khee Choon<br />
+			<td style="width:115px">Chia Khee Choon<br>
 			Fong Ling Pio</td>
-			<td style="width:81px">9855 4162<br />
+			<td style="width:81px">9855 4162<br>
 			9009 0569</td>
-			<td style="width:185px">kcchia4402@gmail.com<br />
+			<td style="width:185px">kcchia4402@gmail.com<br>
 			skyisland96@hotmail.com</td>
 		</tr>
 		<tr>
@@ -98,9 +98,9 @@ The school has appointed the operators listed below to provide the following ser
 		<tr>
 			<td style="width:130px">North &amp; North-East</td>
 			<td style="width:242px">Ng Eng Lee Bus Service &amp; Excursion Bus</td>
-			<td style="width:115px">Ng Eng Lee<br />
+			<td style="width:115px">Ng Eng Lee<br>
 			Yong Mui Fong</td>
-			<td style="width:81px">9747 2973<br />
+			<td style="width:81px">9747 2973<br>
 			9858 2228</td>
 			<td style="width:185px">sales@nelbus.com</td>
 		</tr>
@@ -115,13 +115,13 @@ The school has appointed the operators listed below to provide the following ser
 </table>
 
 <p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
-</p></div></li>
+<p></p></div></li>
 <li><input id="accordion3" type="checkbox">  
 <label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
 <p>
-<p><strong>Student ICON</strong></p>
+</p><p><strong>Student ICON</strong></p>
 
-<p>Student iCON is a suite of Google apps that helps to better support your child&rsquo;s learning and collaboration with others.&nbsp;</p>
+<p>Student iCON is a suite of Google apps that helps to better support your child’s learning and collaboration with others.&nbsp;</p>
 
 <p>It will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.</p>
 
@@ -197,11 +197,11 @@ The school has appointed the operators listed below to provide the following ser
 			<tr>
 				<td style="width:116px">West</td>
 				<td style="width:232px">Sky Island Transport &amp; Trading Pte Ltd</td>
-				<td style="width:108px">Chia Khee Choon<br />
+				<td style="width:108px">Chia Khee Choon<br>
 				Fong Ling Pio</td>
-				<td style="width:71px">9855 4162<br />
+				<td style="width:71px">9855 4162<br>
 				9009 0569</td>
-				<td style="width:168px">kcchia4402@gmail.com<br />
+				<td style="width:168px">kcchia4402@gmail.com<br>
 				skyisland96@hotmail.com</td>
 			</tr>
 			<tr>
@@ -214,9 +214,9 @@ The school has appointed the operators listed below to provide the following ser
 			<tr>
 				<td style="width:116px">North &amp; North-East</td>
 				<td style="width:232px">Ng Eng Lee Bus Service &amp; Excursion Bus</td>
-				<td style="width:108px">Ng Eng Lee<br />
+				<td style="width:108px">Ng Eng Lee<br>
 				Yong Mui Fong</td>
-				<td style="width:71px">9747 2973<br />
+				<td style="width:71px">9747 2973<br>
 				9858 2228</td>
 				<td style="width:168px">sales@nelbus.com</td>
 			</tr>
@@ -243,18 +243,18 @@ The school has appointed the operators listed below to provide the following ser
 	<p><a href="https://www.nyps.moe.edu.sg/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
 	</li>
 </ol>
-</p></div></li>
+<p></p></div></li>
 <li><input id="accordion4" type="checkbox">  
 <label for="accordion4"><h3>财政 Financial Matters</h3></label><div>
 <p>
-<ul>
+</p><ul>
 	<li>
-	<p><a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener" target="_blank">Financial Summary of Government-Aided Schools&#39; &amp; Independent Schools&rsquo; Donation Funds</a></p>
+	<p><a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener" target="_blank">Financial Summary of Government-Aided Schools' &amp; Independent Schools’ Donation Funds</a></p>
 	</li>
 	<li>
 	<p><a href="https://www.nyps.moe.edu.sg/files/Application%20Form%20for%20Interbank%20Giro%20(for%20Payment%20&amp;%20Refund%20of%20School%20Fees%20and%20Charges).pdf" rel="noopener" target="_blank">Interbank Giro Form for Payment &amp; Refund of School Fees and Charges</a></p>
 	</li>
 	<li>
 	<p><a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_blank">Group/Personal Accident Insurance for Students Form</a></p>
-	</li></p></div></li>
+	</li><p></p></ul></div></li>
 </ul>
