@@ -1,11 +1,12 @@
 ---
 title: NYPS Virtual Tour 南洋小学线上导览
-permalink: /resources/announcements/nyps-virtual-tour/
 date: 2022-02-01
-layout: post
+layout: link
 description: ""
 image: ""
+external: https://go.gov.sg/nyps-virtualtour
 ---
+
 
 
 <img src="/images/virtualtour.png" 
