@@ -56,9 +56,9 @@ Friday: 8.00 a.m. - 5.00 p.m.<br>
 (Closed for Lunch from 1.00 p.m. - 2.00 p.m.)<br>
 The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br>
 To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
-	
+
 <p><strong>School Bus Services</strong><br>
-1. <a href="https://www.nyps.moe.edu.sg/files/nyps%20-%20school%20bus%20services.pdf" rel="noopener" target="_blank">NYPS School Bus Service</a></p>
+1. <a href="/files/nyps%20-%20school%20bus%20services.pdf" rel="noopener" target="_blank">NYPS School Bus Service</a></p>
 <p></p></div></li>
 <li><input id="accordion3" type="checkbox">  
 <label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
