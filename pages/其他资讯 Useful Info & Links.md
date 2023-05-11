@@ -121,58 +121,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p>Daily School Bus Services (i.e. for sending pupils from home to school and vice-versa); and</p>
 	</li>
 	<li>
-	<p>Bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs).</p>
-	<table style="width:725.333px">
-		<tbody>
-			<tr>
-				<td style="width:116px">Zone</td>
-				<td style="width:232px">Bus Operators</td>
-				<td style="width:108px">Coordinator</td>
-				<td style="width:71px">Contact</td>
-				<td style="width:168px">Email Address</td>
-			</tr>
-			<tr>
-				<td style="width:116px">Central</td>
-				<td style="width:232px">DKJ Transport Service</td>
-				<td style="width:108px">Leo Baiming</td>
-				<td style="width:71px">9772 3370</td>
-				<td style="width:168px">leodkj@yahoo.com.sg</td>
-			</tr>
-			<tr>
-				<td style="width:116px">West</td>
-				<td style="width:232px">Sky Island Transport &amp; Trading Pte Ltd</td>
-				<td style="width:108px">Chia Khee Choon<br>
-				Fong Ling Pio</td>
-				<td style="width:71px">9855 4162<br>
-				9009 0569</td>
-				<td style="width:168px">kcchia4402@gmail.com<br>
-				skyisland96@hotmail.com</td>
-			</tr>
-			<tr>
-				<td style="width:116px">North-West</td>
-				<td style="width:232px">Swee Seng School Bus</td>
-				<td style="width:108px">Jason Yap</td>
-				<td style="width:71px">9455 7571</td>
-				<td style="width:168px">jasonyap@outlook.sg</td>
-			</tr>
-			<tr>
-				<td style="width:116px">North &amp; North-East</td>
-				<td style="width:232px">Ng Eng Lee Bus Service &amp; Excursion Bus</td>
-				<td style="width:108px">Ng Eng Lee<br>
-				Yong Mui Fong</td>
-				<td style="width:71px">9747 2973<br>
-				9858 2228</td>
-				<td style="width:168px">sales@nelbus.com</td>
-			</tr>
-			<tr>
-				<td style="width:116px">South &amp; East</td>
-				<td style="width:232px">Tong Tar Transport Service Pte Ltd</td>
-				<td style="width:108px">Winston Heng</td>
-				<td style="width:71px">9150 1041</td>
-				<td style="width:168px">nyps@tongtar.com</td>
-			</tr>
-		</tbody>
-	</table>
+	<p>Bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs). <br><a href="/files/nyps%20-%20school%20bus%20services.pdf" rel="noopener" target="_blank">NYPS School Bus Service<br></a></p>
 	</li>
 	<li>
 	<p><a href="https://www.nyps.moe.edu.sg/files/Overview%20of%Parent%20Engagement%20ResourcesPosters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
