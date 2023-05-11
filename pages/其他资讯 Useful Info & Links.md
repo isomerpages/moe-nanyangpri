@@ -57,64 +57,8 @@ Friday: 8.00 a.m. - 5.00 p.m.<br>
 The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br>
 To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
 
-<p>&nbsp;</p>
-
 <p><strong>School Bus Services</strong><br>
-The school has appointed the operators listed below to provide the following services:</p>
-
-<table style="width:783.333px">
-	<tbody>
-		<tr>
-			<td style="width:130px">Zone</td>
-			<td style="width:242px">Bus Operators</td>
-			<td style="width:115px">Coordinator</td>
-			<td style="width:81px">Contact</td>
-			<td style="width:185px">Email Address</td>
-		</tr>
-		<tr>
-			<td style="width:130px">Central</td>
-			<td style="width:242px">DKJ Transport Service</td>
-			<td style="width:115px">Leo Baiming</td>
-			<td style="width:81px">9772 3370</td>
-			<td style="width:185px">leodkj@yahoo.com.sg</td>
-		</tr>
-		<tr>
-			<td style="width:130px">West</td>
-			<td style="width:242px">Sky Island Transport &amp; Trading Pte Ltd</td>
-			<td style="width:115px">Chia Khee Choon<br>
-			Fong Ling Pio</td>
-			<td style="width:81px">9855 4162<br>
-			9009 0569</td>
-			<td style="width:185px">kcchia4402@gmail.com<br>
-			skyisland96@hotmail.com</td>
-		</tr>
-		<tr>
-			<td style="width:130px">North-West</td>
-			<td style="width:242px">Swee Seng School Bus</td>
-			<td style="width:115px">Jason Yap</td>
-			<td style="width:81px">9455 7571</td>
-			<td style="width:185px">jasonyap@outlook.sg</td>
-		</tr>
-		<tr>
-			<td style="width:130px">North &amp; North-East</td>
-			<td style="width:242px">Ng Eng Lee Bus Service &amp; Excursion Bus</td>
-			<td style="width:115px">Ng Eng Lee<br>
-			Yong Mui Fong</td>
-			<td style="width:81px">9747 2973<br>
-			9858 2228</td>
-			<td style="width:185px">sales@nelbus.com</td>
-		</tr>
-		<tr>
-			<td style="width:130px">South &amp; East</td>
-			<td style="width:242px">Tong Tar Transport Service Pte Ltd</td>
-			<td style="width:115px">Winston Heng</td>
-			<td style="width:81px">9150 1041</td>
-			<td style="width:185px">nyps@tongtar.com</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>The school bus fares listed by the respective school bus operators can be viewed at the MOE Information Notice Board for School Bus Services (IBSB) website at&nbsp;<a href="https://schadmsvc.moe.gov.sg/moeibsb/">https://schadmsvc.moe.gov.sg/moeibsb/</a></p>
+1. <a href="/files/nyps%20-%20school%20bus%20services.pdf" rel="noopener" target="_blank">NYPS School Bus Service</a></p>
 <p></p></div></li>
 <li><input id="accordion3" type="checkbox">  
 <label for="accordion3"><h3>其他下载 Other Downloads</h3></label><div>
