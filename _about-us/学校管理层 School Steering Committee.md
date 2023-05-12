@@ -64,11 +64,7 @@ description: ""
     <td class="tg-2w19">何文莉<br>副年级主任</td>
     <td class="tg-2w19">Mdm Vinette Ho<br>Assistant Year Head </td>
   </tr>
-  <tr>
-    <td class="tg-2w19">黄宝凤 <br>科主任/学生健康与福利</td>
-    <td class="tg-2w19">Ms Ng Poh Hong May<br>Subject Head/ Student Well-Being</td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-2w19">曾素芳<br>主任（英文部）</td>
     <td class="tg-2w19">Mdm Zeng Sufang Jaclyn<br>Head of Department/ English Language</td>
   </tr>
