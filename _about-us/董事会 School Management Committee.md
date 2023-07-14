@@ -3,7 +3,7 @@ title: 董事会 School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-#### 现任董事会成员 Office Bearers (2021 to 2023)
+#### 现任董事会成员 Office Bearers (2023 to 2025)
 
 <br>
 
@@ -44,23 +44,23 @@ description: ""
     <td class="tg-ii8k">Vice-Chairman</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">莫洵德女士  秘书</td>
-    <td class="tg-ii8k">Ms Mok Shoon Terk</td>
+    <td class="tg-ii8k">陈瑜欣女士&nbsp; 秘书</td>
+    <td class="tg-ii8k">Ms Tan Joo Hymn</td>
     <td class="tg-ii8k">Honorary Secretary</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">陈瑜欣女士  副秘书</td>
-    <td class="tg-ii8k">Ms Tan Joo Hymn</td>
+    <td class="tg-ii8k">张薇莉小姐&nbsp; 副秘书</td>
+    <td class="tg-ii8k">Ms Tea Wei Li</td>
     <td class="tg-ii8k">Asst. Honorary Secretary</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">王秀芳女士  财政</td>
-    <td class="tg-ii8k">Mdm Ong Sioe Hong</td>
+    <td class="tg-ii8k">林文彬先生&nbsp; 财政</td>
+    <td class="tg-ii8k">Mr Lim Wenbin Darren</td>
     <td class="tg-ii8k">Honorary Treasurer</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">林文彬先生  副财政</td>
-    <td class="tg-ii8k">Mr Lim Wenbin Darren</td>
+    <td class="tg-ii8k">刘智弘先生&nbsp; 副财政</td>
+    <td class="tg-ii8k">Mr Lau Tze Hon</td>
     <td class="tg-ii8k">Asst. Honorary Treasurer</td>
   </tr>
   <tr>
@@ -69,33 +69,33 @@ description: ""
     <td class="tg-ii8k">Supervisor</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">李润瑛女士  副监理员</td>
-    <td class="tg-ii8k">Mdm Amy Lee Yuen Ying</td>
+    <td class="tg-ii8k">刘慧贞女士 &nbsp;副监理员</td>
+    <td class="tg-ii8k">Ms Lau Wai Cheng</td>
     <td class="tg-ii8k">Asst. Supervisor</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">傅绕月医生  董事</td>
-    <td class="tg-ii8k">Dr Esther Fu Raw Yueh</td>
-    <td class="tg-ii8k">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">李淑端女士  董事</td>
+    <td class="tg-ii8k">李淑端女士&nbsp; 董事</td>
     <td class="tg-ii8k">Mdm Lee Siok Tuan</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">翁慧芳女士  董事</td>
-    <td class="tg-ii8k">Mdm Wong Huey Fang </td>
+    <td class="tg-ii8k">李润瑛女士&nbsp; 董事</td>
+    <td class="tg-ii8k">Mdm Amy Lee Yuen Ying</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">黄玮玲女士  董事</td>
-    <td class="tg-ii8k">Mdm Wee Wei Ling</td>
+    <td class="tg-ii8k">王秀芳女士 &nbsp;董事</td>
+    <td class="tg-ii8k">Mdm Ong Sioe Hong</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">赖傑勇先生  董事</td>
+    <td class="tg-ii8k">赖傑勇先生&nbsp; 董事</td>
     <td class="tg-ii8k">Mr Vincent Lai Kiat Yeong</td>
+    <td class="tg-ii8k">Member</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">黄玮玲女士&nbsp; 董事</td>
+    <td class="tg-ii8k">Mdm Wee Wei Ling</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
@@ -104,43 +104,43 @@ description: ""
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">刘慧贞女士  董事</td>
-    <td class="tg-ii8k">Ms Lau Wai Cheng</td>
+    <td class="tg-ii8k">傅绕月医生&nbsp; 董事</td>
+    <td class="tg-ii8k">Dr Esther Fu Raw Yueh</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">周家茵女士  董事</td>
+    <td class="tg-ii8k">翁慧芳女士&nbsp; 董事</td>
+    <td class="tg-ii8k">Mdm Wong Huey Fang</td>
+    <td class="tg-ii8k">Member</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">莫洵德女士&nbsp; 董事</td>
+    <td class="tg-ii8k">Ms Mok Shoon Terk</td>
+    <td class="tg-ii8k">Member</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">周家茵女士&nbsp; 董事</td>
     <td class="tg-ii8k">Mdm Tjioe Ka In</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">林泳琪女士  董事</td>
+    <td class="tg-ii8k">林泳琪女士&nbsp; 董事</td>
     <td class="tg-ii8k">Mdm Marilyn Lum Wen Kay</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">刘錦纬先生  董事</td>
+    <td class="tg-ii8k">刘錦纬先生&nbsp; 董事</td>
     <td class="tg-ii8k">Mr Lau Kam Wai</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">何崇杰先生  董事</td>
+    <td class="tg-ii8k">何崇杰先生&nbsp; 董事</td>
     <td class="tg-ii8k">Mr Ho Chung Kiat Sydney</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">张薇莉小姐  董事</td>
-    <td class="tg-ii8k">Ms Tea Wei Li</td>
-    <td class="tg-ii8k">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">麦傑俊先生  董事</td>
+    <td class="tg-ii8k">麦傑俊先生&nbsp; 董事</td>
     <td class="tg-ii8k">Mr Dennis Mak</td>
-    <td class="tg-ii8k">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">刘智弘先生  董事</td>
-    <td class="tg-ii8k">Mr Lau Tze Hon</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
