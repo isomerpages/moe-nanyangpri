@@ -1,8 +1,0 @@
----
-title: Inviting Applications To Operate A Food Kios
-date: 2023-10-25
-layout: file
-description: ""
-image: ""
-file_url: /files/2023_website_cr_014_annex.pdf
----
