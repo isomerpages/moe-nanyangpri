@@ -2,6 +2,7 @@
 title: 其他资讯 Useful Info & Links
 permalink: /useful-info-n-links/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">  
@@ -94,26 +95,26 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 
 <p>&nbsp;</p>
 
-<p><strong>NYPS Book List 2023</strong></p>
+<p><strong>NYPS Book List 2024</strong></p>
 
 <table style="width:393.333px">
 	<tbody>
 		<tr>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P12023.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P42023.pdf" rel="noopener noreferrer" target="_blank">Primary 4</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P5GEP2023.pdf" rel="noopener noreferrer" target="_blank">Primary 5 GEP</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P6FDN2023.pdf" rel="noopener noreferrer" target="_blank">Primary 6 FDN</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P1.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P4.pdf" rel="noopener noreferrer" target="_blank">Primary 4</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P5GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 5 GEP</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P6FDN.pdf" rel="noopener noreferrer" target="_blank">Primary 6 FDN</a></td>
 		</tr>
 		<tr>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P22023.pdf" rel="noopener noreferrer" target="_blank">Primary 2</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P4GEP2023.pdf" rel="noopener noreferrer" target="_blank">Primary 4 GEP</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P62023.pdf" rel="noopener noreferrer" target="_blank">Primary 6</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P2.pdf" rel="noopener noreferrer" target="_blank">Primary 2</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P4GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 4 GEP</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P6.pdf" rel="noopener noreferrer" target="_blank">Primary 6</a></td>
 			<td style="width:170px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P32023.pdf" rel="noopener noreferrer" target="_blank">Primary 3</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P52023.pdf" rel="noopener noreferrer" target="_blank">Primary 5</a></td>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P6GEP2023.pdf" rel="noopener noreferrer" target="_blank">Primary 6 GEP</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P3.pdf" rel="noopener noreferrer" target="_blank">Primary 3</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P5.pdf" rel="noopener noreferrer" target="_blank">Primary 5</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P6GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 6 GEP</a></td>
 			<td style="width:170px">&nbsp;</td>
 		</tr>
 	</tbody>

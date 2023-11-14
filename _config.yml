@@ -1,5 +1,5 @@
 title: Nanyang Primary School
-url: ""
+url: https://nyps.moe.edu.sg
 favicon: /images/nanyang-primary-school.png
 colors:
   primary-color: "#1a6eb6"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: resources
+google_analytics_ga4: ""
