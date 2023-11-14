@@ -95,7 +95,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 
 <p>&nbsp;</p>
 
-<p><strong>NYPS Book List 2023</strong></p>
+<p><strong>NYPS Book List 2024</strong></p>
 
 <table style="width:393.333px">
 	<tbody>
