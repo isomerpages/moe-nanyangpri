@@ -2,6 +2,7 @@
 title: 其他资讯 Useful Info & Links
 permalink: /useful-info-n-links/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">  
@@ -99,7 +100,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 <table style="width:393.333px">
 	<tbody>
 		<tr>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P12023.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
+			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2024P1.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
 			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P42023.pdf" rel="noopener noreferrer" target="_blank">Primary 4</a></td>
 			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P5GEP2023.pdf" rel="noopener noreferrer" target="_blank">Primary 5 GEP</a></td>
 			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/P6FDN2023.pdf" rel="noopener noreferrer" target="_blank">Primary 6 FDN</a></td>
