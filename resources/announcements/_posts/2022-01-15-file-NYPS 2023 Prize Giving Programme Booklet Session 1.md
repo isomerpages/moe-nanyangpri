@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/2023_ProgrammeBooklet_Session1.pdf
+file_url: /files/2023_ProgrammeBooklet_Session1_16Nov.pdf
 ---
