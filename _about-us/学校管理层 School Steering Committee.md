@@ -70,10 +70,8 @@ variant: markdown
     <td class="tg-2w19">Ms Tan Li Wan<br>Head of Department/ English Language</td>
   </tr>
   <tr>
-    <td class="tg-2w19">陈丽婉<br>科主任（英文部）</td>
-    <td class="tg-2w19">Ms Tan Li Wan<br>Subject Head/ English Language</td>
-  </tr>
-  <tr>
+  
+  </tr><tr>
     <td class="tg-2w19">张淑芳<br>科主任（英文部）</td>
     <td class="tg-2w19">Mdm Teo Seok Huang, Eliane<br>Subject Head/ English Language</td>
   </tr>
@@ -145,13 +143,13 @@ variant: markdown
     <td class="tg-2w19">陈美每<br>主任（品格与公民教育）</td>
     <td class="tg-2w19">Mdm Tan Sze Wei Joanne<br>Head of Department/ Character &amp; Citizenship Education</td>
   </tr>
-  <tr>
-    <td class="tg-2w19">林淑慧<br>主任（训育及领袖培养）</td>
-    <td class="tg-2w19">Ms Lim Shuhui Esther <br>Head of Department/ Discipline and Student Leadership</td>
-  </tr>
 	<tr>
     <td class="tg-2w19">苏湧水<br>科主任（品格与公民教育）</td>
     <td class="tg-2w19">Mr Su Yongshui<br>Subject Head/ Character &amp; Citizenship Education</td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">林淑慧<br>主任（训育及领袖培养）</td>
+    <td class="tg-2w19">Ms Lim Shuhui Esther <br>Head of Department/ Discipline and Student Leadership</td>
   </tr>
   <tr>
     <td class="tg-2w19">陈若湘<br>主任（美育部）</td>
