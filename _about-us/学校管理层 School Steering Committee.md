@@ -2,6 +2,7 @@
 title: 学校管理层 School Steering Committee
 permalink: /about-us/school-steering-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -37,8 +38,8 @@ description: ""
     <td class="tg-2w19">Mr James Chong Kok Chiang<br>Vice-Principal, Administration</td>
   </tr>
   <tr>
-    <td class="tg-2w19">周加胜<br>教师指导员</td>
-    <td class="tg-2w19">Mr Chew Kia Sheng<br>School Staff Developer</td>
+    <td class="tg-2w19">柯慧盈<br>教师指导员</td>
+    <td class="tg-2w19">Mdm Kuah Hui Yeng<br>School Staff Developer</td>
   </tr>
   <tr>
     <td class="tg-2w19">赵洁霞<br>年级主任</td>
@@ -61,18 +62,16 @@ description: ""
     <td class="tg-2w19">Ms Jolene Teo Jia Ling<br>Assistant Year Head</td>
   </tr>
   <tr>
-    <td class="tg-2w19">何文莉<br>副年级主任</td>
-    <td class="tg-2w19">Mdm Vinette Ho<br>Assistant Year Head </td>
+    <td class="tg-2w19">林可欣<br>副年级主任</td>
+    <td class="tg-2w19">Ms Lim Ke Xin<br>Assistant Year Head </td>
   </tr>
    <tr>
-    <td class="tg-2w19">曾素芳<br>主任（英文部）</td>
-    <td class="tg-2w19">Mdm Zeng Sufang Jaclyn<br>Head of Department/ English Language</td>
+    <td class="tg-2w19">陈丽婉<br>主任（英文部）</td>
+    <td class="tg-2w19">Ms Tan Li Wan<br>Head of Department/ English Language</td>
   </tr>
   <tr>
-    <td class="tg-2w19">陈丽婉<br>科主任（英文部）</td>
-    <td class="tg-2w19">Ms Tan Li Wan<br>Subject Head/ English Language</td>
-  </tr>
-  <tr>
+  
+  </tr><tr>
     <td class="tg-2w19">张淑芳<br>科主任（英文部）</td>
     <td class="tg-2w19">Mdm Teo Seok Huang, Eliane<br>Subject Head/ English Language</td>
   </tr>
@@ -110,7 +109,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2w19">陈思玮<br>科主任（科学部）</td>
-    <td class="tg-2w19">Mdm Tan Sze Wei Joanne<br>Subject Head/ Science</td>
+    <td class="tg-2w19">Mdm Vinette Ho<br>Subject Head/ Science</td>
   </tr>
   <tr>
     <td class="tg-2w19">郭珮蓉<br>科主任（科学部）</td>
@@ -129,14 +128,10 @@ description: ""
     <td class="tg-2w19">Mr Weng Soo Koon Raymond<br>Subject Head/ Gifted Education (Mathematics)</td>
   </tr>
   <tr>
-    <td class="tg-2w19">林立勋<br>主任（课程与创新部）</td>
-    <td class="tg-2w19">Mr Lin Lixun<br>Head of Department/ Curriculum &amp; Innovation </td>
+    <td class="tg-2w19">课程<br>创新与资讯科技部</td>
+    <td class="tg-2w19">Mr Lin Lixun<br>Head of Department/ Curriculum,&nbsp; Innovation&nbsp; &amp; Information Communication Technology</td>
   </tr>
-  <tr>
-    <td class="tg-2w19">柯慧盈<br>主任（资讯科技部）</td>
-    <td class="tg-2w19">Mdm Kuah Hui Yeng<br>Head of Department/ Information Communication Technology</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-2w19">李嘉敏<br>科主任  (资讯科技部)</td>
     <td class="tg-2w19">Ms Lee Kah Min Jaime<br>Subject Head/ Information Communication Technology</td>
   </tr>
@@ -146,7 +141,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2w19">陈美每<br>主任（品格与公民教育）</td>
-    <td class="tg-2w19">Mdm Tan Bee Bee<br>Head of Department/ Character &amp; Citizenship Education</td>
+    <td class="tg-2w19">Mdm Tan Sze Wei Joanne<br>Head of Department/ Character &amp; Citizenship Education</td>
+  </tr>
+	<tr>
+    <td class="tg-2w19">苏湧水<br>科主任（品格与公民教育）</td>
+    <td class="tg-2w19">Mr Su Yongshui<br>Subject Head/ Character &amp; Citizenship Education</td>
   </tr>
   <tr>
     <td class="tg-2w19">林淑慧<br>主任（训育及领袖培养）</td>
@@ -160,11 +159,7 @@ description: ""
     <td class="tg-2w19">杨裕湄<br>主任（课程辅助活动及体育部）</td>
     <td class="tg-2w19">Ms Mae Yang Yumei<br>Head of Department/ Co-Curricular Activities &amp; Physical Education</td>
   </tr>
-  <tr>
-    <td class="tg-2w19">蔡村芳<br>科主任 (课程辅助活动) </td>
-    <td class="tg-2w19">Ms Chua Cunfang<br>Subject Head/ Co-Curricular Activities </td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-2w19">唐丽萍<br>科主任（体育部及全面保健）</td>
     <td class="tg-2w19">Mdm Tang Lee Ping<br>Subject Head/ Physical Education &amp; Holistic Health</td>
   </tr>
