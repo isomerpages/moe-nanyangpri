@@ -128,7 +128,7 @@ variant: markdown
     <td class="tg-2w19">Mr Weng Soo Koon Raymond<br>Subject Head/ Gifted Education (Mathematics)</td>
   </tr>
   <tr>
-    <td class="tg-2w19">课程<br>创新与资讯科技部</td>
+    <td class="tg-2w19">林立勋<br>科主任 (课程,创新与资讯科技部)</td>
     <td class="tg-2w19">Mr Lin Lixun<br>Head of Department/ Curriculum,&nbsp; Innovation&nbsp; &amp; Information Communication Technology</td>
   </tr>
     <tr>
