@@ -1,0 +1,18 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - 美育 Aesthetics.md
+      - 品格与公民教育 Character and Citizenship Education.md
+      - 华文 Chinese Language.md
+      - 英文 English Language.md
+      - 外语课程 Foreign Language Programme.md
+      - 高才部 Gifted Education Programme.md
+      - 浸濡活动 Immersion Programme.md
+      - 资讯科技 Information Communication & Technology.md
+      - 创客计划 Maker Programme.md
+      - 数学 Mathematics.md
+      - 体育健康教育 Physical & Health Education.md
+      - 育人 Student Development.md
+      - 科学 Science.md
+      - 特别辅助计划 Special Assistance Plan (SAP).md
