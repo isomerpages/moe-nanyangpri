@@ -141,6 +141,9 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p><a href="https://www.nyps.moe.edu.sg/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
 	</li>
 </ol>
+	<br>
+	<strong>Swim Meet 2024</strong>
+<br>1) <a href="/files/2024_Swim_Meet_Start_List.pdf" rel="noopener" target="_blank">Download the Swim Meet Start List here</a><p></p>	
 <p></p></div></li>
 <li><input id="accordion4" type="checkbox">  
 <label for="accordion4"><h3>财政 Financial Matters</h3></label><div>
