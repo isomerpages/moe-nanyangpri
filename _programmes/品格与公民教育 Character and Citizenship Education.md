@@ -7,9 +7,6 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/program-cce-2.jpeg">
 </div>
-<p>
-<br>
-</p>
 <p><strong><u>愿景</u></strong> 
 <br>培育品格正直、有环球意识和心系祖国的学生。
 <br>
@@ -28,11 +25,14 @@ attachment.
 and display the&nbsp;<strong>Outward</strong>,&nbsp;<strong>Maker and Growth Mindset</strong>&nbsp;as
 well as social emotional competencies.
 <br>
-<br>
 </p>
+
 <ul>
 <li>
-<p>级任老师辅导课&nbsp;Form Teacher Guidance Period (FTGP)</p>
+	<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">级任老师辅导课&nbsp;Form Teacher Guidance Period (FTGP)<p></p>
 <p><strong>级任老师辅导课</strong> 
 <br>每周将利用上课时间进行级任老师辅导课，教导社交与情绪管理技能，并建立师生良好的关系。</p>
 <p>级任老师辅导课（每周2节课）课程包括</p>
@@ -159,9 +159,9 @@ as socially responsible citizens as shown below:</p>
 <br>We hope that our students are able to develop a sense of empathy and gratitude
 through counting their blessings and showing their appreciation to others
 through our Gratitude Programme.</p>
-</li>
-<li>
-<p>性教育课程&nbsp;Sexuality Education</p>
+</label></li>
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">性教育课程&nbsp;Sexuality Education<p></p>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -227,7 +227,7 @@ more information on MOE Sexuality Education.</p>
 <p>
 <br>
 </p>
-</li>
+</label></li>
 </ul>
 <p><strong>Overview of NANYANG Primary School’s Sexuality Education Programme for 2024</strong>
 </p>
@@ -339,8 +339,8 @@ clarification about the school’s Sexuality Education programme.
 </li>
 </ol>
 <ul>
-<li>
-<p>国民教育课程&nbsp;Citizenship Education</p>
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">国民教育课程&nbsp;Citizenship Education<p></p>
 <p><strong>国民教育<br></strong> 
 <br><strong>四项纪念性的国民教育活动<br></strong> 
 <br><strong>全面防卫日</strong> 
@@ -450,9 +450,9 @@ are</p>
 Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in
 the Past and Present (P3 &amp; P4) and Appreciating the World and Region
 We Live In (P5 &amp; P6).</p>
-</li>
-<li>
-<p>学生领袖课程&nbsp;Student Leadership Programme</p>
+</label></li>
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">学生领袖课程&nbsp;Student Leadership Programme<p></p>
 <p><strong>南洋小学学生领袖课程</strong> 
 <br>作为好品德好公民课程的一部分，南小的学生领袖课程专注于培养学生外向型、创造型和成长型思维的能力。
 <br>
@@ -528,6 +528,6 @@ and learning together took place during the June School Holidays. These
 student leaders were also given opportunities to initiate programmes and/or
 projects to improve the well-being of their peers and/or state of their
 environment.</p>
-</li>
+</label></li>
 </ul>
-<p></p>
+<p></p></li></ul>
