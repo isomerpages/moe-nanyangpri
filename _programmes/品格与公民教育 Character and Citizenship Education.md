@@ -10,17 +10,17 @@ variant: tiptap
 <p>
 <br>
 </p>
-<p><strong><u>愿景</u></strong>
+<p><strong><u>愿景</u></strong> 
 <br>培育品格正直、有环球意识和心系祖国的学生。
 <br>
-<br><strong><u>品格与公民教育框架</u></strong>
+<br><strong><u>品格与公民教育框架</u></strong> 
 <br>请参考<a href="/images/CCE%20Framework.jpeg" rel="noopener" target="_blank">附件</a> 
 <br>南洋小学培育学生秉承校训和核心价值观，培养他们<strong>外向型、创造型和成长型</strong>思维的能力，同时掌握社交与情绪管理技能。</p>
-<p><strong><u>VISION</u></strong>
+<p><strong><u>VISION</u></strong> 
 <br>To develop morally upright students who are globally relevant and locally
 rooted.
 <br>
-<br><strong><u>CCE Framework</u></strong>
+<br><strong><u>CCE Framework</u></strong> 
 <br>Click&nbsp;<a href="/images/CCE%20Framework.jpeg" rel="noopener" target="_blank">here</a>&nbsp;for
 attachment.
 <br>
@@ -33,7 +33,7 @@ well as social emotional competencies.
 <ul>
 <li>
 <p>级任老师辅导课&nbsp;Form Teacher Guidance Period (FTGP)</p>
-<p><strong>级任老师辅导课</strong>
+<p><strong>级任老师辅导课</strong> 
 <br>每周将利用上课时间进行级任老师辅导课，教导社交与情绪管理技能，并建立师生良好的关系。</p>
 <p>级任老师辅导课（每周2节课）课程包括</p>
 <ol data-tight="true" class="tight">
@@ -55,7 +55,7 @@ well as social emotional competencies.
 </ol>
 <p><strong>德育在于行动</strong>
 </p>
-<p><strong>使命</strong>
+<p><strong>使命</strong> 
 <br>我校通过社区服务灌输学生良好价值观并提高学生的社交技能，培养学生成为一个为国家做出积极贡献并关心国家的好公民。学校推行有持续性的“德育在于行动”项目，引导学生从自我、家庭、学校、社会乃至世界的层面作出有意义的贡献，以培养学生成为负责任的好公民。</p>
 <p>"德育在于行动"与我校校训和核心价值观挂钩，以培养学生的外向型思维和社交与情绪管理技能，同时提升学生的生活技能。</p>
 <p>教师鼓励学生在现实生活中把在学校所学的价值观付诸行动。</p>
@@ -68,7 +68,7 @@ well as social emotional competencies.
 <br>关爱动物 - 爱护动物大使
 <br>关爱国家 - 对建设与守护国家的人心存感激
 <br>关爱世界 - 文化大使</p>
-<p><strong>途径</strong>
+<p><strong>途径</strong> 
 <br>为了培养学生成为负责任的公民，学校在开展“德育在于行动”活动时采用了四管齐下的策略：</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -84,9 +84,9 @@ well as social emotional competencies.
 <p>由校内的班级或学生倡导的“德育在于行动”活动</p>
 </li>
 </ol>
-<p><strong>“感恩计划” - 感恩发生在生活中的好事</strong>
+<p><strong>“感恩计划” - 感恩发生在生活中的好事</strong> 
 <br>通过这项活动，我校希望学生学会感恩，具有同理心，成为一个知足、感恩的孩子</p>
-<p><strong>FORM TEACHER GUIDANCE PERIOD (FTGP)</strong>
+<p><strong>FORM TEACHER GUIDANCE PERIOD (FTGP)</strong> 
 <br>The weekly FTGP is a dedicated period within school hours where teachers
 focus on building positive relationships with their students while also
 developing their social and emotional competencies.</p>
@@ -110,7 +110,7 @@ developing their social and emotional competencies.</p>
 </ol>
 <p><strong>VALUE IN ACTION (VIA)</strong>
 </p>
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>We inculcate values and build competencies in our students to be active
 contributors and concerned citizens by providing service learning experiences
 that foster student ownership over how they contribute to the community.
@@ -138,7 +138,7 @@ world as shown below:
 <br>Love for Nation - Be grateful to those who have played a part in Total
 Defence &amp; Nation building of Singapore
 <br>Love for World - Be a young culture ambassador</p>
-<p><strong>Approach</strong>
+<p><strong>Approach</strong> 
 <br>The school adopts a 4-pronged approach to support the students’ development
 as socially responsible citizens as shown below:</p>
 <ol data-tight="true" class="tight">
@@ -155,7 +155,7 @@ as socially responsible citizens as shown below:</p>
 <p>Class / Student-initiated School based VIA</p>
 </li>
 </ol>
-<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong>
+<p><strong>GRATITUDE PROGRAMME - Be grateful for the good things in your life</strong> 
 <br>We hope that our students are able to develop a sense of empathy and gratitude
 through counting their blessings and showing their appreciation to others
 through our Gratitude Programme.</p>
@@ -166,90 +166,68 @@ through our Gratitude Programme.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Sexuality Education (SEd) in schools is about enabling students to understand
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships including those with
-members of the opposite sex, and make wise, informed and responsible decisions
-on sexuality matters. SEd is premised on the importance of the family as
-the basic unit of society. This means encouraging healthy, heterosexual
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.
-<br>
+on sexuality issues.</p>
+<p></p>
+</li>
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</a>
 <br>
 </p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">(b) Guide students to make wise, informed and responsible decisions on sexuality matters.</a>
+<br>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">(c)Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</a>
+</p>
+<p></p>
 </li>
 <li>
-<p>The goals of Sexuality Education are:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate <u>knowledge</u> on
-human sexuality and the consequences of sexual activity;</p>
-</li>
-<li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of <u>social and emotional skills</u> of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and</p>
-</li>
-<li>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of <u>positive mainstream values and attitudes</u> about
-sexuality.</p>
-</li>
-</ol>
-</li>
-<li>
-<p>The key messages of Sexuality Education are:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Love and respect yourself as you love and respect others;</p>
-</li>
-<li>
-<p>Build positive relationships based on love and respect (which are the
-foundation for strong families);</p>
-</li>
-<li>
-<p>Make responsible decisions for yourself, your family and society; and</p>
-</li>
-<li>
-<p>Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;Build positive relationships based on love and respect (which
+are the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-</li>
-</ol>
-</li>
-</ol>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener" target="_blank">here</a> (https://go.gov.sg/moe-sexuality-education)
-for more information on MOE’s Sexuality Education.</p>
-<p><strong>OVERVIEW OF NANYANG PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME</strong>
+<p>&nbsp;</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong><br></strong>
 </p>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
+<p><strong>Overview of NANYANG Primary School’s Sexuality Education Programme for 2024</strong>
+</p>
+<p></p>
+</li>
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click here (https://go.gov.sg/moe-sexuality-education-scope)
-for more information on the scope of Sexuality Education in the school
-curriculum. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener" target="_blank">here</a> (https://go.gov.sg/moe-sexuality-education-scope)
-for more information on the scope of Sexuality Education in the school
-curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
-<ol data-tight="true" class="tight">
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
+</li>
 <li>
-<p>a. Science
-<br>b. Character and Citizenship Education (CCE)
+<p>The subjects that incorporate topics on sexuality include:</p>
+<p>a. Science</p>
+<p>b.&nbsp;Character and Citizenship Education (CCE)</p>
+<p></p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:
 <br>
 </p>
 </li>
-</ol>
-<p></p>
-<p><strong>SEXUALITY EDUCATION LESSONS:</strong>
-</p>
-<p></p>
-<p>6. The upper primary years mark the onset of puberty. With better nutrition
+<li>
+<p>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
 in themselves. The implication is that our children are becoming biologically
@@ -257,67 +235,91 @@ ready for sexual activity sooner without necessarily having the corresponding
 cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
-guidance so that they can respond with discernment to the sexual messages
-in the media and other sources.</p>
-<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
-at Primary 5 and 6. In SEd, students learn to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
+<p></p>
+</li>
+<li>
+<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+Primary 5 and 6. Through these lessons, students will learn healthy ways
+to manage the physiological, social and emotional changes in their growing
+years. They learn to build healthy and rewarding relationships with others,
+including those with members of the opposite sex. Students are also guided
+to make wise, informed and responsible decisions to keep themselves safe
+from sexuality-related risks.</p>
+<p>&nbsp;</p>
+<p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Sexuality_Education_Growing_Years_Updates_Page_1__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_P5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Sexuality_Education_Growing_Years_Updates_Page_2__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_P5_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_P6.png">
 </div>
 <p>
-<br><strong>INFORMATION FOR PARENTS</strong>
+<br><strong>Information for Parents</strong>
 </p>
-<p>8. Parents may opt their children out of the Growing Years Programme,
-and/or supplementary sexuality education programme by MOE-approved external
-providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to opt out via Parent’s Gateway. This is to be done and submitted
-by 7/02/2024.</p>
-<p>10. Parents can contact the school at 6467 2677 for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.
+<br>
+</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete the opt-out form via Parents Gateway by 20/02/2024.
+<br>
+</p>
+</li>
+<li>
+<p>Parents can contact the school at 6467 2677 for discussion or to seek
+clarification about the school’s Sexuality Education programme.
+<br>
+</p>
+</li>
+</ol>
 </li>
 <li>
 <p>国民教育课程&nbsp;Citizenship Education</p>
-<p><strong>国民教育<br></strong>
-<br><strong>四项纪念性的国民教育活动<br></strong>
-<br><strong>全面防卫日</strong>
+<p><strong>国民教育<br></strong> 
+<br><strong>四项纪念性的国民教育活动<br></strong> 
+<br><strong>全面防卫日</strong> 
 <br>我校每年在2月份纪念全面防卫日，提醒学生必须依靠自己的力量捍卫新加坡。学生也在当天对保卫国家的英雄所作出的贡献进行反思。在感恩活动中，学生会写感谢卡向这些英雄致敬。
 <br>
 <br><strong>国际友谊日<br></strong>国际友谊日的目的是要让学生了解新加坡与其他国家，尤其是附近国家的关系；同时培养学生国际主义精神，并且学会珍惜多元文化，接受不同的视角和观点。这一天，南小学生也会在感恩卡上写感谢词送给朋友，表示珍惜彼此的友情。
 <br>
-<br><strong>种族和谐日</strong>
+<br><strong>种族和谐日</strong> 
 <br>种族和谐日主要提醒学生维持种族和宗教和谐的重要性，学会珍惜我国多元种族、多元文化的社会结构。
 <br>
-<br><strong>国庆日</strong>
+<br><strong>国庆日</strong> 
 <br>国庆日庆祝会让学生对新加坡的建国历程有深一层的了解。新加坡有今天的成就，少不了富有远见、毅力坚定的政府以及团结一致的人民。
 <br>
 <br><strong>国庆预演（五年级）<br></strong>自1997年开始，为了培养学生的爱国主义精神，小学五年级的学生将有机会观看国庆庆典预演。
 <br>
-<br><strong>跨年级实地学习体验</strong>
+<br><strong>跨年级实地学习体验</strong> 
 <br>实地学习体验让学生跨出教室，到真实的环境中学习。
 <br>
 <br>请点击此<a href="/files/NYPS%20FieldBased%20Learning.pdf" rel="noopener" target="_blank">链接</a>以参阅为不同年级以及学习重点所设立的户外学习体验。
 <br>
-<br><strong>文化浸濡课程</strong>
+<br><strong>文化浸濡课程</strong> 
 <br>校内所推出的文化浸濡课程的宗旨在于提高学生对社会文化的意识和敏感度。让学生能够接受并与异族朋友交流和建立友谊，让学生明白维持种族和宗教和谐的重要。学校也推出一套教学配套，老师将会在社会科学课上进行教学。
 <br>
-<br><strong>国民教育当代课题</strong>
+<br><strong>国民教育当代课题</strong> 
 <br>国民教育以提升学生的公民意识为主轴，进一步引导他们探讨国家身份认同和身为新加坡人的责任。教学的目的在于培育学生的公民意识，包括对新加坡的归属感；对我国面对的现实环境和局限有清晰的了解；让学生对国家的未来抱有希望。</p>
-<p><strong>社会科学<br>探究性学习</strong>
+<p><strong>社会科学<br>探究性学习</strong> 
 <br>社会科学课程大纲分为3大板块：认识自我与周遭环境（小一、小二）、认识新加坡的过去与现在（小三、小四）和珍惜我们所处的世界（小五、小六）。</p>
-<p><strong>NATIONAL EDUCATION (NE)<br></strong>
-<br><strong>Commemorating of 4 NE events</strong>
-<br><strong><br>1. Total Defence Day (TDD)</strong>
+<p><strong>NATIONAL EDUCATION (NE)<br></strong> 
+<br><strong>Commemorating of 4 NE events</strong> 
+<br><strong><br>1. Total Defence Day (TDD)</strong> 
 <br>TDD is commemorated in February (Term 1) every year to remind us that
 we must defend Singapore ourselves. On this day, NYPS students will reflect
 on the contributions of the various groups of unsung heroes in Singapore.
@@ -333,7 +335,7 @@ appreciate diverse cultures, different perspectives and ideas. On this
 day, our students will also write thank you notes on the NYPS Gratitude
 cards to their friends to show appreciation of their friendship.
 <br>
-<br><strong>3. Racial Harmony Day (RHD)</strong>
+<br><strong>3. Racial Harmony Day (RHD)</strong> 
 <br>Students are reminded of the importance of maintaining racial and religious
 harmony in the country on this day. Our students learn the importance of
 making choices that promote and advocate inter-cultural understanding,
@@ -341,19 +343,19 @@ which build strong relationships between people of all races, cultures
 and nationalities, and strengthen our distinctive identity as Singaporeans
 living in multicultural Singapore.
 <br>
-<br><strong>4. National Day</strong>
+<br><strong>4. National Day</strong> 
 <br>The National Day celebration provides a good opportunity for our students
 to reflect on how far Singapore has come since our independence in 1965
 and understand that none of this would have been possible without sheer
 grit and determination, a forward- looking government and unity among Singaporeans.
 <br>
-<br><strong>P5 NE Show</strong>
+<br><strong>P5 NE Show</strong> 
 <br>Since 1997, the National Education (NE) Show has been organised to instil
 a sense of patriotism in students and to bring across the significance
 of our National Day. Every year, the Primary 5 students will have to privilege
 to participate in this event which aims to inculcate NE values in our students.
 <br>
-<br><strong>FIELD-BASED LEARNING EXPERIENCES ACROSS LEVELS</strong>
+<br><strong>FIELD-BASED LEARNING EXPERIENCES ACROSS LEVELS</strong> 
 <br>Field-based learning experiences (FbL) extend beyond the walls of the
 classroom as students are exposed to learning in real-world settings.
 <br>
@@ -363,7 +365,7 @@ levels and its learning focus.
 <br>
 <br>
 </p>
-<p><strong>CULTURAL INFUSION PROGRAMME</strong>
+<p><strong>CULTURAL INFUSION PROGRAMME</strong> 
 <br>Our school-based Cultural Infusion Programme aims to heighten the socio-cultural
 awareness and sensitivity among our students. We aim to enable our students
 to be active citizens where they can appreciate, connect and relate to
@@ -371,7 +373,7 @@ friends of other races and culture. Young as they are, we want to prepare
 them to embrace diversity while staying socially cohesive. A lesson package
 for each level was designed and carried out during SS periods.
 <br>
-<br><strong>NE CONTEMPORARY ISSUES</strong>
+<br><strong>NE CONTEMPORARY ISSUES</strong> 
 <br>NE is anchored on citizenship dispositions to guide our students in exploring
 and examining their Singapore identity, and in helping them realise that
 all Singaporeans have an important role to play for the country to thrive.
@@ -391,8 +393,8 @@ are</p>
 </li>
 </ul>
 <p>
-<br><strong>SOCIAL STUDIES (SS)</strong>
-<br><strong>Inquiry Approach to Learning Social Studies</strong>
+<br><strong>SOCIAL STUDIES (SS)</strong> 
+<br><strong>Inquiry Approach to Learning Social Studies</strong> 
 <br>The SS syllabus is designed in three broad clusters entitled Discovering
 Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in
 the Past and Present (P3 &amp; P4) and Appreciating the World and Region
@@ -400,13 +402,13 @@ We Live In (P5 &amp; P6).</p>
 </li>
 <li>
 <p>学生领袖课程&nbsp;Student Leadership Programme</p>
-<p><strong>南洋小学学生领袖课程</strong>
+<p><strong>南洋小学学生领袖课程</strong> 
 <br>作为好品德好公民课程的一部分，南小的学生领袖课程专注于培养学生外向型、创造型和成长型思维的能力。
 <br>
-<br><strong>愿景</strong>
+<br><strong>愿景</strong> 
 <br>懂得反思并具有为他人服务精神的领袖
 <br>
-<br><strong>使命</strong>
+<br><strong>使命</strong> 
 <br>培养具有分析及创造能力、思想开放、勇于变革、富有同情心，坚强并懂得反思的领袖。
 <br>
 <br><strong>信念</strong>
@@ -426,18 +428,18 @@ We Live In (P5 &amp; P6).</p>
 <br>
 <br>在南小，每一位学生都有机会通过三种途径发展自己的领导才能。其一，班级领袖；其二，课外活动领袖以及学长；其三，学长执行委员会。
 <br>
-<br><strong>学长团</strong>
+<br><strong>学长团</strong> 
 <br>南洋小学的学长团由四年级至六年级的学生组成。经过筛选后，学长在一年一度的学长任职仪式上正式接手学长的职务。
 <br>每年的六月假期，学长团将举办学长营。让学长有机会一起学习和完成任务，联系感情。学长也有机会策划学长营的各项活动。</p>
-<p><strong>NYPS Student Leadership Programme</strong>
+<p><strong>NYPS Student Leadership Programme</strong> 
 <br>As part of the Character and Citizenship Education, the NYPS student leadership
 programme is designed to cultivate students who embody and present an Outward,
 a Maker and a Growth mindset.
 <br>
-<br><strong>Vision</strong>
+<br><strong>Vision</strong> 
 <br>Reflective Leaders with Serving Spirits
 <br>
-<br><strong>Mission</strong>
+<br><strong>Mission</strong> 
 <br>To develop all Nanyang students to be empathetic, enterprising, resilient
 and reflective leaders with analytical, innovative and open minds to serve
 and bring about positive changes in their communities for the betterment
