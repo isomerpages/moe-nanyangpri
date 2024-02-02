@@ -258,7 +258,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 </ol>
 <p></p>
-<p><strong>Sexuality Education Lessons: </strong>
+<p><strong>Sexuality Education Lessons:</strong>
 </p>
 <ol start="6" data-tight="true" class="tight">
 <li>
