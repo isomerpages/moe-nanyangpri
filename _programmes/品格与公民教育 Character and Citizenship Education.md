@@ -26,11 +26,7 @@ and display the&nbsp;<strong>Outward</strong>,&nbsp;<strong>Maker and Growth Min
 well as social emotional competencies.
 <br>
 </p>
-
-<ul>
-<li>
-	<ul class="jekyllcodex_accordion">
-
+<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">级任老师辅导课&nbsp;Form Teacher Guidance Period (FTGP)<p></p>
 <p><strong>级任老师辅导课</strong> 
@@ -530,4 +526,4 @@ projects to improve the well-being of their peers and/or state of their
 environment.</p>
 </label></li>
 </ul>
-<p></p></li></ul>
+<p></p>
