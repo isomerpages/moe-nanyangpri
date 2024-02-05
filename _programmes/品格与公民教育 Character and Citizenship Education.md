@@ -215,6 +215,7 @@ clarification about the school’s Sexuality Education programme.<p></p></li>
 </ol></div></li>
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">国民教育课程&nbsp;Citizenship Education</label>
+<div>
 <p>
 <br><strong>国民教育</strong>
 <br><strong>四项纪念性的国民教育活动</strong>
@@ -306,10 +307,10 @@ are
 Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in
 the Past and Present (P3 &amp; P4) and Appreciating the World and Region
 We Live In (P5 &amp; P6).<p></p>
-</li>
+</div></li>
 <li><input type="checkbox" id="accordion4">
 <label for="accordion4">学生领袖课程&nbsp;Student Leadership Programme</label>
-<p>
+&lt;<p>
 <br><strong>南洋小学学生领袖课程</strong>
 <br>作为好品德好公民课程的一部分，南小的学生领袖课程专注于培养学生外向型、创造型和成长型思维的能力。
 <br>
