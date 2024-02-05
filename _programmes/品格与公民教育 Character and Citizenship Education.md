@@ -240,10 +240,10 @@ clarification about the school’s Sexuality Education programme.<p></p></li>
 <br>校内所推出的文化浸濡课程的宗旨在于提高学生对社会文化的意识和敏感度。让学生能够接受并与异族朋友交流和建立友谊，让学生明白维持种族和宗教和谐的重要。学校也推出一套教学配套，老师将会在社会科学课上进行教学。
 <br>
 <br><strong>国民教育当代课题</strong>
-<br>国民教育以提升学生的公民意识为主轴，进一步引导他们探讨国家身份认同和身为新加坡人的责任。教学的目的在于培育学生的公民意识，包括对新加坡的归属感；对我国面对的现实环境和局限有清晰的了解；让学生对国家的未来抱有希望。</p>
-<p><strong>社会科学<br>探究性学习</strong> 
-<br>社会科学课程大纲分为3大板块：认识自我与周遭环境（小一、小二）、认识新加坡的过去与现在（小三、小四）和珍惜我们所处的世界（小五、小六）。</p>
-<p><strong>NATIONAL EDUCATION (NE)</strong>
+<br>国民教育以提升学生的公民意识为主轴，进一步引导他们探讨国家身份认同和身为新加坡人的责任。教学的目的在于培育学生的公民意识，包括对新加坡的归属感；对我国面对的现实环境和局限有清晰的了解；让学生对国家的未来抱有希望。
+<br><strong>社会科学<br>探究性学习</strong> 
+<br>社会科学课程大纲分为3大板块：认识自我与周遭环境（小一、小二）、认识新加坡的过去与现在（小三、小四）和珍惜我们所处的世界（小五、小六）。
+<br><strong>NATIONAL EDUCATION (NE)</strong>
 <br><strong>Commemorating of 4 NE events</strong>
 <br><strong><br>1. Total Defence Day (TDD)</strong>
 <br>TDD is commemorated in February (Term 1) every year to remind us that
@@ -305,8 +305,7 @@ are
 <br>The SS syllabus is designed in three broad clusters entitled Discovering
 Self and Immediate Environment (P1 &amp; P2), Understanding Singapore in
 the Past and Present (P3 &amp; P4) and Appreciating the World and Region
-We Live In (P5 &amp; P6).
-<p></p>
+We Live In (P5 &amp; P6).<p></p>
 </li>
 <li><input type="checkbox" id="accordion4">
 <label for="accordion4">学生领袖课程&nbsp;Student Leadership Programme</label>
