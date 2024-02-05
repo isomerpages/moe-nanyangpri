@@ -365,9 +365,8 @@ capacity, readiness and potential through a three-tier approach – tier
 1) Classroom Leaders; tier 2) Co-Curricular Activities Leaders &amp; Prefectorial
 Board; and tier 3) Prefectorial Board Executive Committee.
 <br>
-<br><strong>Prefectorial Board<br></strong>The Nanyang Prefectorial Board
-is made up of Primary 4 to Primary 6 Prefects. After a series of selection
-processes, the Prefects are sworn in during the annual Prefects’ Investiture.
+<br><strong>Prefectorial Board</strong>
+<br>The Nanyang Prefectorial Board is made up of Primary 4 to Primary 6 Prefects. After a series of selection processes, the Prefects are sworn in during the annual Prefects’ Investiture.
 <br>
 <br>An annual Prefects Camp which witnessed the Prefects bonding, working
 and learning together took place during the June School Holidays. These
