@@ -310,7 +310,8 @@ We Live In (P5 &amp; P6).
 </li>
 <li><input type="checkbox" id="accordion4">
 <label for="accordion4">学生领袖课程&nbsp;Student Leadership Programme</label>
-<p><strong>南洋小学学生领袖课程</strong>
+<p>
+<br><strong>南洋小学学生领袖课程</strong>
 <br>作为好品德好公民课程的一部分，南小的学生领袖课程专注于培养学生外向型、创造型和成长型思维的能力。
 <br>
 <br><strong>愿景</strong>
