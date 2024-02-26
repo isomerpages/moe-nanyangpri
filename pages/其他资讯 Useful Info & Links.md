@@ -143,9 +143,13 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 </ol>
 	<br>
 	<strong>Swim Meet 2024</strong>
-<br>1) <a href="/files/2024_Swim_Meet_Start_List.pdf" rel="noopener" target="_blank">Download the Swim Meet Start List here</a><p></p>	
-<p></p></div></li>
-<li><input id="accordion4" type="checkbox">  
+<br>1) <a href="/files/2024_Swim_Meet_Start_List.pdf" rel="noopener" target="_blank">Download the Swim Meet Start List here</a><br>
+	<br>
+		<strong>NYPS Library OPAC</strong>
+	<br>1) <a href="/files/For%20NYPS%20webpage%20OPAC%20login%20guide.pdf" rel="noopener" target="_blank">OPAC Login Guide</a><br>
+2) <a href="https://schoolibrary.moe.edu.sg/nanyangpri" rel="noopener" target="_blank">NYPS OPAC Website</a><br>
+<p></p></div>
+</li><li><input id="accordion4" type="checkbox">  
 <label for="accordion4"><h3>财政 Financial Matters</h3></label><div>
 <p>
 </p><ul>
