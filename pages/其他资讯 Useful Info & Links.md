@@ -116,11 +116,8 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 		</tr>
 	</tbody>
 </table>
-
 <p>&nbsp;</p>
-
 <p><strong>Tips To Support Your Child</strong></p>
-
 <ol>
 	<li>
 	<p>Daily School Bus Services (i.e. for sending pupils from home to school and vice-versa); and</p>
@@ -141,13 +138,15 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p><a href="https://www.nyps.moe.edu.sg/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
 	</li>
 </ol>
-	<br>
-	<strong>Swim Meet 2024</strong>
-<br>1) <a href="/files/2024_Swim_Meet_Start_List.pdf" rel="noopener" target="_blank">Download the Swim Meet Start List here</a><br>
-	<br>
+<br>
 		<strong>NYPS Library OPAC</strong>
 	<br>1) <a href="/files/For%20NYPS%20webpage%20OPAC%20login%20guide.pdf" rel="noopener" target="_blank">OPAC Login Guide</a><br>
-2) <a href="https://schoolibrary.moe.edu.sg/nanyangpri" rel="noopener" target="_blank">NYPS OPAC Website</a><br>
+2) <a href="https://schoolibrary.moe.edu.sg/nanyangpri" rel="noopener" target="_blank">NYPS OPAC Website</a>
+	<br>
+	<br>
+	<strong>Nanyang Wencui</strong>
+<br><a href="https://go.gov.sg/nanyang-wencui-2024" rel="noopener" target="_blank">Click here to access our Nanyang Literary Collection&nbsp;2024 </a><br>
+	<br>
 <p></p></div>
 </li><li><input id="accordion4" type="checkbox">  
 <label for="accordion4"><h3>财政 Financial Matters</h3></label><div>
