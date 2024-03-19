@@ -108,7 +108,7 @@ variant: markdown
     <td class="tg-2w19">Mdm Yasmeen Bte Mohamad<br>Head of Department/ Science</td>
   </tr>
   <tr>
-    <td class="tg-2w19">陈思玮<br>科主任（科学部）</td>
+    <td class="tg-2w19">何文莉<br>科主任（科学部）</td>
     <td class="tg-2w19">Mdm Vinette Ho<br>Subject Head/ Science</td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ variant: markdown
     <td class="tg-2w19">Ms Vanessa Koh Huan Kun<br>Subject Head/ Strategic Partnership</td>
   </tr>
   <tr>
-    <td class="tg-2w19">陈美每<br>主任（品格与公民教育）</td>
+    <td class="tg-2w19">陈思玮<br>主任（品格与公民教育）</td>
     <td class="tg-2w19">Mdm Tan Sze Wei Joanne<br>Head of Department/ Character &amp; Citizenship Education</td>
   </tr>
 	<tr>
