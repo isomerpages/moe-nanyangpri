@@ -191,15 +191,15 @@ from sexuality-related risks.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_P5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_primary5_CCE.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_P5_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_primary5_CCE_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_P6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_primary6_CCE.jpg">
 </div>
 <br>
 <strong>Information for Parents</strong>
