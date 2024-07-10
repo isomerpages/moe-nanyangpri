@@ -4,6 +4,7 @@ permalink: /nanyang-107/
 variant: markdown
 description: ""
 ---
+<p><img src="" style="width:50%"></p>
 <p></p>
 <p><strong>Nanyang is turning 107! Let's celebrate together!</strong>
 </p>
