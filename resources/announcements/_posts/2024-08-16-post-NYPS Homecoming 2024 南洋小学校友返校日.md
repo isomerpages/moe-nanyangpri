@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+![](/images/Homecoming_Poster_SMALLSIZE.jpg)
