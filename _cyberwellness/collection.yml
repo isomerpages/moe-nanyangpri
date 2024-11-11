@@ -1,4 +1,5 @@
 collections:
   cyberwellness:
     output: true
-    order: []
+    order:
+      - MIMS.md
