@@ -1,0 +1,5 @@
+collections:
+  cyberwellness:
+    output: true
+    order:
+      - MIMS.md
