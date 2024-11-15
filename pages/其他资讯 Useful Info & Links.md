@@ -98,7 +98,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 <table style="width:393.333px">
 	<tbody>
 		<tr>
-			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2025P1.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
+			<td style="width:170px"><a href="/files/2025P1.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
 			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2025P4.pdf" rel="noopener noreferrer" target="_blank">Primary 4</a></td>
 			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2025P5GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 5 GEP</a></td>
 			<td style="width:170px"><a href="https://www.nyps.moe.edu.sg/files/2025P6FDN.pdf" rel="noopener noreferrer" target="_blank">Primary 6 FDN</a></td>
