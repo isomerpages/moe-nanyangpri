@@ -30,8 +30,8 @@ variant: markdown
     <td class="tg-2w19">Ms Lim Kar Wae Fiona<br>Vice-Principal</td>
   </tr>
   <tr>
-    <td class="tg-2w19">陈祥祥<br>副校长</td>
-    <td class="tg-2w19">Mr Chan Cheong Cheong<br>Vice-Principal</td>
+    <td class="tg-2w19">蔡慧婷<br>副校长</td>
+    <td class="tg-2w19">Ms Sharlene Chye Hui Ting <br>Vice-Principal</td>
   </tr>
   <tr>
     <td class="tg-2w19">张国青<br>副校长（校务）</td>
