@@ -44,7 +44,7 @@ Address: 63 Ubi Avenue 1 #04-09 63@Ubi<br>
 Singapore 408937<br>
 Tel: 6747 8037<br>
 <br>
-Please note that school uniforms and PE attire will not be available for purchase at the school. You may visit the store or place your order online at: http://shanghai-uniforms.com</p>
+Please note that school uniforms and PE attire will not be available for purchase at the school. You may visit the store or place your order online at: <a href="http://shanghai-uniforms.com" rel="noopener" target="_blank">http://shanghai-uniforms.com</a></p> 
 
 <p><strong>Name Tag</strong><br>
 <strong>Stitchwerkz Pte Ltd</strong><br>
