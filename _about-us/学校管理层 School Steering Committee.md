@@ -88,10 +88,6 @@ variant: markdown
     <td class="tg-2w19">Mdm Sow Fun Yee<br>Subject Head/ Chinese Language</td>
   </tr>
   <tr>
-    <td class="tg-2w19">王银霞<br>科主任（华文部）</td>
-    <td class="tg-2w19">Ms Wang Yinxia<br>Subject Head/ Chinese Language</td>
-  </tr>
-  <tr>
     <td class="tg-2w19">麦珮诗<br>主任 （数学部）</td>
     <td class="tg-2w19">Mdm Mak Pui Zee<br>Head of Department/ Mathematics</td>
   </tr>
@@ -128,12 +124,16 @@ variant: markdown
     <td class="tg-2w19">Mr Weng Soo Koon Raymond<br>Subject Head/ Gifted Education (Mathematics)</td>
   </tr>
   <tr>
-    <td class="tg-2w19">林立勋<br>主任 (课程, 创新与资讯科技部)</td>
-    <td class="tg-2w19">Mr Lin Lixun<br>Head of Department/ Curriculum,&nbsp; Innovation&nbsp; &amp; Information Communication Technology</td>
+    <td class="tg-2w19">林立勋<br>主任 (课程与创新部))</td>
+    <td class="tg-2w19">Mr Lin Lixun<br>Head of Department/ Curriculum &amp; Innovation</td>
   </tr>
     <tr>
-    <td class="tg-2w19">李嘉敏<br>科主任  (资讯科技部)</td>
-    <td class="tg-2w19">Ms Lee Kah Min Jaime<br>Subject Head/ Information Communication Technology</td>
+    <td class="tg-2w19">李嘉敏<br>主任 (资讯科技部)</td>
+    <td class="tg-2w19">Ms Lee Kah Min Jaime<br>Head of Department/ Information Communication Technology</td>
+  </tr>
+	 <tr>
+    <td class="tg-2w19">符传亮<br>科主任（资讯科技部）</td>
+    <td class="tg-2w19">Mr Foo Suan Liang Isaac<br>Subject Head/ Information Communication Technology</td>
   </tr>
   <tr>
     <td class="tg-2w19">许焕堃<br>科主任（对外合作） </td>
