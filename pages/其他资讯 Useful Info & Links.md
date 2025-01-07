@@ -40,15 +40,17 @@ The school bookshop is closed during school holidays unless specified.</p>
 
 <p><strong>School Uniforms and PE Attire</strong><br>
 <strong>Shanghai School Uniforms Pte Ltd</strong><br>
-School uniforms and PE attire will also be sold at the school bookshop during term time. Please refer to the School Bookshop for operating hours.&nbsp;<br>
-<a href="http://shanghai-uniforms.com/">http://shanghai-uniforms.com</a></p>
+Address: 63 Ubi Avenue 1 #04-09 63@Ubi<br>
+Singapore 408937<br>
+Tel: 6747 8037<br>
+<br>
+Please note that school uniforms and PE attire will not be available for purchase at the school. You may visit the store or place your order online at: http://shanghai-uniforms.com</p>
 
 <p><strong>Name Tag</strong><br>
 <strong>Stitchwerkz Pte Ltd</strong><br>
 Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br>
 Email: nametags@stitchwerkz.sg<br>
-To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a><br>
-Ordering and collection of name tags will be done through the school bookshop.</p>
+To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a></p>
 
 <p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png" style="width:50%"></p>
 
