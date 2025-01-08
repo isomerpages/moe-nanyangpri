@@ -2,6 +2,7 @@
 title: 南洋大家庭 Nanyang Family
 permalink: /nanyang-family/
 description: ""
+variant: markdown
 ---
 <center>共同的传统和价值观将我们凝聚于南洋大家庭的绿荫下，<br>我们期望世世代代的南洋人不仅无私地回馈母校，<br>同时也在社会乃至世界范围内发挥积极的作用。</center>
 
@@ -25,17 +26,58 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0pky"><a href = "https://www.nanyang.org.sg/" target = "_blank"> 
+    <td class="tg-0pky"><a href="https://www.nanyang.org.sg/" target="_blank"> 
           <img src="/images/nsaa1.jpg"></a></td>
-    <td class="tg-0pky"><a href = "https://www.nygh.edu.sg/" target = "_blank"> 
+    <td class="tg-0pky"><a href="https://www.nygh.edu.sg/" target="_blank"> 
           <img src="/images/nygh%20logo.jpg"></a>
 </td>
-    <td class="tg-0pky"><a href = "http://www.nanyangkindergarten.com/home.html" target = "_blank"> 
+    <td class="tg-0pky"><a href="http://www.nanyangkindergarten.com/home.html" target="_blank"> 
           <img src="/images/nyk.png"></a>
 </td>
-    <td class="tg-0pky"><a href = "https://www.nypspta.com/" target = "_blank"> 
+    <td class="tg-0pky"><a href="https://www.nypspta.com/" target="_blank"> 
           <img src="/images/pta%20logo.jpg"></a>
 </td>
   </tr>
 </tbody>
 </table>
+
+<p>
+
+</p><h5>NY 105 History Book</h5>
+<a href="https://apps.nygh.edu.sg/NY105/en">  
+    <img alt="Clickable Image" src="/images/nanyang_glory.png">  
+</a>
+<br>
+https://apps.nygh.edu.sg/NY105/en
+
+<center><h4> 
+璀璨南洋
+
+南洋中小幼三校 | 2018年至2022年校史</h4></center>
+
+<table>
+    <tbody><tr>
+    <td><a href="https://apps.nygh.edu.sg/NY105/zh/1">第一部</a></td>
+    <td><a href="https://apps.nygh.edu.sg/NY105/zh/2">第二部</a></td>
+    <td><a href="https://apps.nygh.edu.sg/NY105/zh/3">第三部</a></td>
+    <td><a href="https://apps.nygh.edu.sg/NY105/zh/4">第四部</a></td>
+  </tr>
+  <tr>
+    <td>董事主席献词校友会会长献词南洋女中校史</td>
+    <td>南洋小学校史</td>
+    <td>南洋幼稚园校史</td>
+    <td>南洋中小幼董事会历届校友会理事</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
