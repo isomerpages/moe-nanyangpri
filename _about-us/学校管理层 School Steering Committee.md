@@ -136,10 +136,6 @@ variant: markdown
     <td class="tg-2w19">Mr Foo Suan Liang Isaac<br>Subject Head/ Information Communication Technology</td>
   </tr>
   <tr>
-    <td class="tg-2w19">许焕堃<br>科主任（对外合作） </td>
-    <td class="tg-2w19">Ms Vanessa Koh Huan Kun<br>Subject Head/ Strategic Partnership</td>
-  </tr>
-  <tr>
     <td class="tg-2w19">陈思玮<br>主任（品格与公民教育）</td>
     <td class="tg-2w19">Mdm Tan Sze Wei Joanne<br>Head of Department/ Character &amp; Citizenship Education</td>
   </tr>
