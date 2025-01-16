@@ -51,9 +51,12 @@ Please note that school uniforms and PE attire will not be available for purchas
 Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br>
 Email: nametags@stitchwerkz.sg<br>
 To order:&nbsp;<a href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a></p>
-
-<p><img src="https://www.nyps.moe.edu.sg/images/name%20tag.png" style="width:50%"></p>
-
+<br>
+<img src="https://www.nyps.moe.edu.sg/images/name%20tag.png" style="width:30%" align="left"><p></p>
+<br>
+<br>
+<br>
+<br>
 <p><br>
 <strong>School Dental Service</strong><br>
 <u><strong>Operating Hours:</strong></u><br>
