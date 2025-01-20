@@ -43,18 +43,15 @@ variant: markdown
 
 <p>
 
-</p><h5>NY 105 History Book</h5>
+</p><h4 align="center">NY 105 History Book</h4>
 <a href="https://apps.nygh.edu.sg/NY105/en">  
-    <img alt="Clickable Image" src="/images/nanyang_glory.png">  
+    <img alt="Clickable Image" src="/images/nanyang_glory.png" style="width:50%" align="center"> 
 </a>
 <br>
-https://apps.nygh.edu.sg/NY105/en
-
-<center><h4> 
+<center><b>
 璀璨南洋
-
-南洋中小幼三校 | 2018年至2022年校史</h4></center>
-
+<br>
+南洋中小幼三校 | 2018年至2022年校史</b></center>
 <table>
     <tbody><tr>
     <td><a href="https://apps.nygh.edu.sg/NY105/zh/1">第一部</a></td>
@@ -69,15 +66,3 @@ https://apps.nygh.edu.sg/NY105/en
     <td>南洋中小幼董事会历届校友会理事</td>
   </tr>
 </tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
