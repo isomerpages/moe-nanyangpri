@@ -45,7 +45,7 @@ variant: markdown
 
 </p><h4 align="center">NY 105 History Book</h4>
 <a href="https://apps.nygh.edu.sg/NY105/en">  
-    <img alt="Clickable Image" src="/images/nanyang_glory.png" style="width:50%" align="center"> 
+    <img alt="Clickable Image" src="/images/nanyang_glory.png" style="width:25%" align="center"> 
 </a>
 <br>
 <center><b>
