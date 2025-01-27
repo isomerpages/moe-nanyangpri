@@ -11,7 +11,4 @@ variant: markdown
 </li><li>
 <p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
 </p>
-</li><li><a href="files/2025_NYPS_Swimming_Meet_Start_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Swim Meet 2025</a>
-<p></p>
-</li>
-</ul>
+</li></ul>
