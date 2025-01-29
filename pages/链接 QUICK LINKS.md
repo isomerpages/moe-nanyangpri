@@ -8,10 +8,7 @@ variant: markdown
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
 </p>
-</li>
-<li>
+</li><li>
 <p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
 </p>
-</li>
-</ul>
-<p></p>
+</li></ul>
