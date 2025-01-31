@@ -187,19 +187,19 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p>&nbsp;</p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p>&nbsp;</p><strong>At Nanyang Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_primary5_CCE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Primary_5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_primary5_CCE_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Primary_5_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_primary6_CCE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Primary_6.png">
 </div>
 <br>
 <strong>Information for Parents</strong>
@@ -207,7 +207,7 @@ from sexuality-related risks.</p>
 <li><p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p></li>
 <li><p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete the opt-out form via Parents Gateway by 20/02/2024.</p></li>
+lessons need to complete the opt-out form via Parents Gateway by 21/02/2025.</p></li>
 <li>Parents can contact the school at 6467 2677 for discussion or to seek
 clarification about the school’s Sexuality Education programme.<p></p></li>
 </ol>
