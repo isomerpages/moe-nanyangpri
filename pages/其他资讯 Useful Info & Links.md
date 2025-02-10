@@ -150,7 +150,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<br>
 	<br>
 	<strong>Nanyang Wencui</strong>
-<br><a href="https://go.gov.sg/nanyang-wencui-2024" rel="noopener" target="_blank">Click here to access our Nanyang Literary Collection&nbsp;2024 </a><br>
+<br><a href="https://sites.google.com/moe.edu.sg/wencui/2025%E5%B9%B4?authuser=0" rel="noopener" target="_blank">Click here to access our Nanyang Literary Collection&nbsp;2024 </a><br>
 	<br>
 	<strong>Swim Meet 2025</strong>
 <br><a href="/files/2025_NYPS_Swimming_Meet_Start_List__1_.pdf" rel="noopener" target="_blank">Click here to download Swim Meet Start List</a><br>
