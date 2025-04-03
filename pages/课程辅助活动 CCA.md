@@ -105,7 +105,7 @@ variant: markdown
 	<tr>
 		<td class="tg-0pky"><p style="text-align: center;">绿化小组<br><strong>G</strong>reen Club</p></td>
     <td class="tg-0pky"><p style="text-align: center;">国际象棋<br><strong>I</strong>nternational Chess</p></td>
-    <td class="tg-0pky"><p style="text-align: center;">电脑协会<br><strong>M</strong>aker Club</p></td>
+    <td class="tg-0pky"><p style="text-align: center;">创客协会<br><strong>M</strong>aker Club</p></td>
 	</tr>
 	<tr>
 		<td class="tg-0pky"><a href="/cca/Clubs-and-Societies/robotics-club" target="_self"> 
