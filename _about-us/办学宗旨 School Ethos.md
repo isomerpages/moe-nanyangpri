@@ -108,12 +108,20 @@ variant: markdown
 </table>
 
 <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
   <tbody><tr>
-    <td style="font-size: 14px; font-weight: bold; border: none;" colspan="4">
-      G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy.
+    <td style="border: none;" colspan="2"></td>
+    <td style="border: none;" colspan="2">
+      <strong>Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy</strong>
     </td>
   </tr>
 </tbody></table>
+
 
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
 
