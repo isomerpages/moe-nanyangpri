@@ -167,23 +167,9 @@ variant: markdown
     <td class="tg-2w19">林树泉<br>科主任（知识管理）</td>
     <td class="tg-2w19">Mr Lum Sui Choon<br>Subject Head/ Knowledge Management</td>
   </tr>
-</tbody>
-</table>
-<table class="tg">
-<tbody>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:left}
-.tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:left}
-.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-</tbody></table><table class="tg">
-<tbody>
+<tr>
+  <td style="height: 20px; background-color: transparent;" colspan="2"></td>
+</tr>
   <tr>
     <td class="tg-2w19">何秀玉<br>主导教师 （高能力学生）</td>
     <td class="tg-2w19">Ho Siew Gek Catherine<br>Lead Teacher / High-Ability Learners</td>
