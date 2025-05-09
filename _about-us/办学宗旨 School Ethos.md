@@ -98,18 +98,10 @@ variant: markdown
       </td>
       <td style="border: none;" colspan="2">
         Entrench and proliferate the Nanyang culture and heritage.
-      </td>
-    </tr>
-		<tr>
-      <td style="border: none;" colspan="2">
-      </td>
-      <td style="border: none;" colspan="2">
-        <strong>G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy.
-      </strong></td>
-    </tr>
-  </tbody>
+      </td>  </tr></tbody>
 </table>
-
+    <strong>G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy.
+      </strong>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <colgroup>
     <col style="width: 25%;">
