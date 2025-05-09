@@ -23,6 +23,8 @@ variant: markdown
   </tbody>
 </table>
 
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <colgroup>
     <col style="width: 25%;">
@@ -47,6 +49,8 @@ variant: markdown
     </tr>
   </tbody>
 </table>
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
 
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <colgroup>
@@ -98,18 +102,17 @@ variant: markdown
       </td>
       <td style="border: none;" colspan="2">
         Entrench and proliferate the Nanyang culture and heritage.
-      </td>  </tr></tbody>
+      </td>
+    </tr>
+  </tbody>
 </table>
-    <strong>G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy.
-      </strong>
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-		</table><table style="width: 100%; border-collapse: collapse;">
+
+  <strong>G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy.</strong>
+
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+<table style="width: 100%; border-collapse: collapse;">
   <colgroup>
     <col style="width: 25%;">
     <col style="width: 25%;">
@@ -127,7 +130,10 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-	<table style="width: 100%; border-collapse: collapse;">
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+<table style="width: 100%; border-collapse: collapse;">
   <colgroup>
     <col style="width: 25%;">
     <col style="width: 25%;">
@@ -140,10 +146,8 @@ variant: markdown
       <th style="border: none;" colspan="2"><strong>Values</strong></th>
     </tr>
     <tr>
-      <td style="border: none;" colspan="2">尊重、责任感、坚毅不屈、  
-正直、关爱、和谐</td>
-      <td style="border: none;" colspan="2">Respect, Responsibility, Resilience,  
-Integrity, Care and Harmony</td>
+      <td style="border: none;" colspan="2">尊重、责任感、坚毅不屈、正直、关爱、和谐</td>
+      <td style="border: none;" colspan="2">Respect, Responsibility, Resilience, Integrity, Care and Harmony</td>
     </tr>
   </tbody>
 </table>
