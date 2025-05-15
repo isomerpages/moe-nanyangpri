@@ -4,154 +4,89 @@ permalink: /example-school-ethos/
 variant: markdown
 description: ""
 ---
-<table style="width: 100%; border-collapse: collapse;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th style="border: none;" colspan="2"><strong>学校愿景</strong></th>
-      <th style="border: none;" colspan="2"><strong>School Vision</strong></th>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">睿智仁心，求实力行的学子</td>
-      <td style="border: none;" colspan="2">Learners of Character, Leaders in Action</td>
-    </tr>
-  </tbody>
-</table>
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th style="border: none;" colspan="2"><strong>学校使命</strong></th>
-      <th style="border: none;" colspan="2"><strong>School Mission</strong></th>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">
-        我们秉承校训——勤、慎、端、朴，致力于为学生提供双语双文化的学习环境，激发学生潜能以献身社会。
-      </td>
-      <td style="border: none;" colspan="2">
-        Developing our students to reach their fullest potential within a bicultural
-        environment that is steeped in diligence, prudence, respectability and
-        simplicity, thereby enabling them to contribute to society.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="background-color: #00587c; color: white; padding: 0.5rem 1rem; font-size: 1.75rem; font-weight: bold;">
+  2025
+</div>
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th style="border: none;" colspan="2"><strong>战略重点</strong></th>
-      <th style="border: none;" colspan="2"><strong>Strategic Thrusts</strong></th>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">
-        构建面向未来的课程体系，培养学生成为创造者（Creator）、联结者（Connector）和启发者（Inspirer）。
-      </td>
-      <td style="border: none;" colspan="2">
-        Develop future-oriented curriculum that nurtures every Nanyang student to be a Creator, Connector &amp; Inspirer.
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">
-        培养具备正确价值观的领袖人才，使每位学生在实践中积极推动变革，展现责任担当。
-      </td>
-      <td style="border: none;" colspan="2">
-        Develop every Nanyang student to be a leader who is rooted in values and inspires positive change.
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">
-        赋能教师团队，落实G.L.O.W.（富足心态、终身学习、拓宽思路、协力同心），推动教学创新，增强教师在培养学生思维、建立情感联结及积极行动方面的能力。
-      </td>
-      <td style="border: none;" colspan="2">
-        Empower staff to G.L.O.W. in their practice to ignite minds, connect hearts and inspire action.
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">
-        借力最新科技与合作伙伴关系，建设可持续发展的学校。
-      </td>
-      <td style="border: none;" colspan="2">
-        Harness technology and partnership to build a sustainable school.
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">
-        巩固和传承南洋小学的文化与传统。
-      </td>
-      <td style="border: none;" colspan="2">
-        Entrench and proliferate the Nanyang culture and heritage.
-      </td>
-    </tr>
-		<tr>
-      <td style="border: none;" colspan="2">
-      </td>
-      <td style="border: none;" colspan="2">
-        <strong>G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy.
-      </strong></td>
-    </tr>
-  </tbody>
-</table>
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-		</table><table style="width: 100%; border-collapse: collapse;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th style="border: none;" colspan="2"><strong>校训</strong></th>
-      <th style="border: none;" colspan="2"><strong>Motto</strong></th>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">勤、慎、端、朴</td>
-      <td style="border: none;" colspan="2">Diligence, Prudence, Respectability, Simplicity</td>
-    </tr>
-  </tbody>
-</table>
-	<table style="width: 100%; border-collapse: collapse;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th style="border: none;" colspan="2"><strong>价值观</strong></th>
-      <th style="border: none;" colspan="2"><strong>Values</strong></th>
-    </tr>
-    <tr>
-      <td style="border: none;" colspan="2">尊重、责任感、坚毅不屈、  
-正直、关爱、和谐</td>
-      <td style="border: none;" colspan="2">Respect, Responsibility, Resilience,  
-Integrity, Care and Harmony</td>
-    </tr>
-  </tbody>
-</table>
+<div style="background-color: #e0e0e0; color: #333; padding: 0.4rem 0.8rem; font-weight: 600;">
+  Current Issue
+</div>
+
+
+<div style="height: 200px; background-color: #dbe3ea; padding: 1rem; display: flex; align-items: center; justify-content: center;">
+  <a style="display: inline-block;" target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue1">
+    <img style="max-height: 180px; max-width: 100%; border: 2px solid #00587c;" alt="Kaleidoscope 2025 Issue 1 Cover" src="/images/kaleidoscope-2025-cover.jpg">
+  </a>
+</div>
+
+
+
+<div style="background-color: #00587c; color: white; padding: 0.5rem 1rem; font-size: 1.75rem; font-weight: bold;">
+  Past 2025 Issues
+</div>
+
+
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+  <div style="height: 100px; background-color: #e0e0e0;"></div>
+  <div style="height: 100px; background-color: #e0e0e0;"></div>
+  <div style="height: 100px; background-color: #e0e0e0;"></div>
+  <div style="height: 100px; background-color: #e0e0e0;"></div>
+</div>
+
+<br>
+
+<div style="background-color: #00587c; color: white; padding: 0.5rem 1rem; font-size: 1.75rem; font-weight: bold;">
+  Archived Issues
+</div> 
+<div style="background-color: #00587c; color: white; padding: 1.25rem; border-radius: 0px; margin-bottom: 2rem;">
+  <p>Please note that these are static PDF versions of previous Kaleidoscope issues. These archives do not include the interactive elements — such as videos, photo albums and clickable links — that were available in their original digital formats.</p>
+  <p>For the complete interactive experience, we encourage you to explore our current-year editions of Kaleidoscope.</p>
+</div>
+
+
+<div style="background-color: #e0e0e0; color: #333; padding: 0.4rem 0.8rem; font-weight: 600;">
+2024
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: flex-start;">
+
+  <div style="flex: 1 1 45%; max-width: 45%; background-color: #f3f3f3; padding: 1rem; border-radius: 4px; box-sizing: border-box;">
+    <a style="display: block;" target="_blank" href="/files/kaleidoscope-2024-issue1.pdf">
+      <img style="width: 100%; height: auto; border-radius: 4px;" alt="Issue 1 Cover" src="/images/kaleidoscope-2024-issue1.jpg">
+    </a>
+    <div style="margin-top: 0.5rem; font-weight: bold; text-align: center;">
+      Issue 1
+    </div>
+  </div>
+
+  <div style="flex: 1 1 45%; max-width: 45%; background-color: #f3f3f3; padding: 1rem; border-radius: 4px; box-sizing: border-box;">
+    <a style="display: block;" target="_blank" href="/files/kaleidoscope-2024-issue2.pdf">
+      <img style="width: 100%; height: auto; border-radius: 4px;" alt="Issue 2 Cover" src="/images/kaleidoscope-2024-issue2.jpg">
+    </a>
+    <div style="margin-top: 0.5rem; font-weight: bold; text-align: center;">
+      Issue 2
+    </div>
+  </div>
+
+  <div style="flex: 1 1 45%; max-width: 45%; background-color: #f3f3f3; padding: 1rem; border-radius: 4px; box-sizing: border-box;">
+    <a style="display: block;" target="_blank" href="/files/kaleidoscope-2024-issue3.pdf">
+      <img style="width: 100%; height: auto; border-radius: 4px;" alt="Issue 3 Cover" src="/images/kaleidoscope-2024-issue3.jpg">
+    </a>
+    <div style="margin-top: 0.5rem; font-weight: bold; text-align: center;">
+      Issue 3
+    </div>
+  </div>
+
+  <div style="flex: 1 1 45%; max-width: 45%; background-color: #f3f3f3; padding: 1rem; border-radius: 4px; box-sizing: border-box;">
+    <a style="display: block;" target="_blank" href="/files/kaleidoscope-2024-issue4.pdf">
+      <img style="width: 100%; height: auto; border-radius: 4px;" alt="Issue 4 Cover" src="/images/kaleidoscope-2024-issue4.jpg">
+    </a>
+    <div style="margin-top: 0.5rem; font-weight: bold; text-align: center;">
+      Issue 4
+    </div>
+  </div>
+
+</div>
+
