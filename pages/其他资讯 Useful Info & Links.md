@@ -131,7 +131,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p>Bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs). </p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Overview%20of%Parent%20Engagement%20ResourcesPosters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
+	<p><a href="/files/Tips%20to%20support%20your%20child/Overview%20of%20Parent%20Engagement%20Resources%20Posters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
 	</li>
 	<li>
 	<p><a href="https://www.nyps.moe.edu.sg/files/Nurturing%20Parent%20Child%20Communication.pdf" rel="noopener" target="_blank">Nurturing Parent-Child Communication</a></p>
