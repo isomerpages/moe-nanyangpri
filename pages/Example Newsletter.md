@@ -4,6 +4,11 @@ permalink: /example-newsletter/
 variant: markdown
 description: ""
 ---
+<style>
+  .text-kaleido-blue {
+    color: #1976C5 !important;
+  }
+</style>
 <section style="background-color:#1976C5; padding: 1rem 1.5rem;">
   <h2 style="color:white;">2025</h2>
 </section>
@@ -37,7 +42,7 @@ description: ""
 
 
 <section style="background-color:#1976C5; color:white; padding: 2rem;">
-  <h3 style="color:white;">Archived Issues </h3>
+  <h3 class="text-kaleido-blue">Archived Issues </h3>
   <p>
     These are static PDF versions of previous Kaleidoscope issues. They do not include interactive elements such as videos or photo albums.
     For the complete experience, we recommend the current-year editions above.
@@ -46,7 +51,7 @@ description: ""
 
 
 <section style="background-color:#F7F7F7; padding: 2rem;">
-  <h3 style="color:#1976C5;">2024</h3>
+  <h3 class="text-kaleido-blue">2024</h3>
   <div class="row text-center">
     <div class="col-md-3 col-6 mb-4">
       <a target="_blank" href="/files/kaleidoscope/2024-issue1.pdf">
