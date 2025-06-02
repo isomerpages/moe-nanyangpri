@@ -171,7 +171,7 @@ variant: markdown
   <td style="height: 20px; background-color: transparent;" colspan="2"></td>
 </tr>
   <tr>
-    <td class="tg-2w19">何秀玉<br>主导教师 （高能力学生）</td>
+    <td class="tg-2w19">何秀玉<br>主导教师（高能力学生）</td>
     <td class="tg-2w19">Ho Siew Gek Catherine<br>Lead Teacher / High-Ability Learners</td>
   </tr>
   <tr>
