@@ -4,7 +4,6 @@ permalink: /example-newsletter/
 variant: markdown
 description: ""
 ---
-
 <style>
   .text-kaleido-blue {
     color: #1976C5;
