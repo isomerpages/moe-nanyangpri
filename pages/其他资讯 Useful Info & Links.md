@@ -10,13 +10,13 @@ variant: markdown
 <p>
 </p><ul>
 	<li>
-	<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
+	<p><a href="https://form.gov.sg/67caa86c294570caebe4537d" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
 	</li>
 	<li>
-	<p><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" rel="noopener" target="_blank">Waiting List Application Form</a></p>
+	<p><a href="https://form.gov.sg/67caa90a242cb9b8c3c85316" rel="noopener" target="_blank">Waiting List Application Form</a></p>
 	</li>
 	<li>
-	<p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
+	<p><a href="https://form.gov.sg/67caa9a2ab04850beb0a1ea2" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
 	</li>
 	<li>
 	<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener" target="_blank">MOE Student Details Form</a></p>
