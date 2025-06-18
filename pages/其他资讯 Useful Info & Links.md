@@ -10,13 +10,13 @@ variant: markdown
 <p>
 </p><ul>
 	<li>
-	<p><a href="https://form.gov.sg/60b99ff5c878dc001267b1e2" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
+	<p><a href="https://form.gov.sg/67caa86c294570caebe4537d" rel="noopener" target="_blank">Leave of Absence Application Form</a></p>
 	</li>
 	<li>
-	<p><a href="https://form.gov.sg/5b07c50e844cb8001a9a2282" rel="noopener" target="_blank">Waiting List Application Form</a></p>
+	<p><a href="https://form.gov.sg/67caa90a242cb9b8c3c85316" rel="noopener" target="_blank">Waiting List Application Form</a></p>
 	</li>
 	<li>
-	<p><a href="https://form.gov.sg/5b07cdcd844cb8001a9a501f" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
+	<p><a href="https://form.gov.sg/67caa9a2ab04850beb0a1ea2" rel="noopener" target="_blank">Phase 2B Parent Volunteer Application</a></p>
 	</li>
 	<li>
 	<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener" target="_blank">MOE Student Details Form</a></p>
@@ -131,7 +131,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p>Bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs). </p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Overview%20of%Parent%20Engagement%20ResourcesPosters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
+	<p><a href="/files/Tips%20to%20support%20your%20child/Overview%20of%20Parent%20Engagement%20Resources%20Posters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
 	</li>
 	<li>
 	<p><a href="https://www.nyps.moe.edu.sg/files/Nurturing%20Parent%20Child%20Communication.pdf" rel="noopener" target="_blank">Nurturing Parent-Child Communication</a></p>

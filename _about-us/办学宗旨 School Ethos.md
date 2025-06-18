@@ -2,42 +2,165 @@
 title: 办学宗旨 School Ethos
 permalink: /about-us/school-ethos/
 description: ""
+variant: markdown
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
-</colgroup>
-<tbody>
-  <tr>
-		<td class="tg-1wig" rowspan="2"><strong>学校愿景</strong><br><br><span style="font-weight:400;font-style:normal">睿智仁心，求实力行的学子</span></td>
-    <td class="tg-1wig" rowspan="2"><strong>School Vision</strong><br><br><span style="font-weight:400;font-style:normal">Learners of Character, Leaders in Action</span></td>
+<table style="width: 100%; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <th style="border: none;" colspan="2"><strong>学校愿景</strong></th>
+      <th style="border: none;" colspan="2"><strong>School Vision</strong></th>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">睿智仁心，求实力行的学子</td>
+      <td style="border: none;" colspan="2">Learners of Character, Leaders in Action</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <th style="border: none;" colspan="2"><strong>学校使命</strong></th>
+      <th style="border: none;" colspan="2"><strong>School Mission</strong></th>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">
+        我们秉承校训——勤、慎、端、朴，致力于为学生提供双语双文化的学习环境，激发学生潜能以献身社会。
+      </td>
+      <td style="border: none;" colspan="2">
+        Developing our students to reach their fullest potential within a bicultural
+        environment that is steeped in diligence, prudence, respectability and
+        simplicity, thereby enabling them to contribute to society.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <th style="border: none;" colspan="2"><strong>战略重点</strong></th>
+      <th style="border: none;" colspan="2"><strong>Strategic Thrusts</strong></th>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">
+        构建面向未来的课程体系，培养学生成为创造者（Creator）、联结者（Connector）和启发者（Inspirer）。
+      </td>
+      <td style="border: none;" colspan="2">
+        Develop future-oriented curriculum that nurtures every Nanyang student to be a Creator, Connector &amp; Inspirer.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">
+        培养具备正确价值观的领袖人才，使每位学生在实践中积极推动变革，展现责任担当。
+      </td>
+      <td style="border: none;" colspan="2">
+        Develop every Nanyang student to be a leader who is rooted in values and inspires positive change.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">
+        赋能教师团队，落实G.L.O.W.（富足心态、终身学习、拓宽思路、协力同心），推动教学创新，增强教师在培养学生思维、建立情感联结及积极行动方面的能力。
+      </td>
+      <td style="border: none;" colspan="2">
+        Empower staff to G.L.O.W. in their practice to ignite minds, connect hearts and inspire action.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">
+        借力最新科技与合作伙伴关系，建设可持续发展的学校。
+      </td>
+      <td style="border: none;" colspan="2">
+        Harness technology and partnership to build a sustainable school.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">
+        巩固和传承南洋小学的文化与传统。
+      </td>
+      <td style="border: none;" colspan="2">
+        Entrench and proliferate the Nanyang culture and heritage.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <tbody><tr>
+    <td style="border: none;" colspan="2"></td>
+    <td style="border: none;" colspan="2">
+      <strong>Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy</strong>
+    </td>
   </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class="tg-1wig"><strong>学校使命</strong><br><br><span style="font-weight:normal">我们秉承校训——勤、慎、端、朴，</span><br><span style="font-weight:normal">致力于为学生提供双语双文化的学习环境，激发学生潜能以献身社会。</span></td>
-    <td class="tg-1wig"><strong>School Mission</strong><br><br><span style="font-weight:normal">Developing our students to reach their fullest</span><br><span style="font-weight:normal">potential within a bicultural environment</span><br><span style="font-weight:normal">that is steeped in diligence, prudence,</span><br><span style="font-weight:normal">respectability and simplicity, thereby</span><br><span style="font-weight:normal">enabling them to contribute to society.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"><strong>四大核心导向</strong><br><br><span style="font-weight:normal">嘉言慎行 联系世界</span><br><span style="font-weight:normal">俱收并蓄 推陈创新</span><br><span style="font-weight:normal">立人达人 兼善天下</span><br><span style="font-weight:normal">教学相长 知所先后</span></td>
-    <td class="tg-1wig"><strong>The Four Strategic Shifts</strong><br><br><span style="font-weight:normal">From Communicator to Connector</span><br><span style="font-weight:normal">From Consumer to Creator</span><br><span style="font-weight:normal">From Achiever to Inspirer</span><br><span style="font-weight:normal">From Results-focused to Process-focused</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"><strong>校训</strong><br><br><span style="font-weight:400;font-style:normal">勤、慎、端、朴</span></td>
-    <td class="tg-1wig"><strong>Motto</strong><br><br><span style="font-weight:400;font-style:normal">Diligence, Prudence, Respectability, Simplicity</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"><strong>价值观</strong><br><br><span style="font-weight:normal">尊重、责任感、坚毅不屈、</span><br><span style="font-weight:normal">正直、关爱、和谐</span></td>
-    <td class="tg-1wig"><strong>Values</strong><br><br><span style="font-weight:normal">Respect, Responsibility, Resilience,</span><br><span style="font-weight:normal">Integrity, Care and Harmony</span></td>
-  </tr>
-</tbody>
+</tbody></table>
+
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+<table style="width: 100%; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <th style="border: none;" colspan="2"><strong>校训</strong></th>
+      <th style="border: none;" colspan="2"><strong>Motto</strong></th>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">勤、慎、端、朴</td>
+      <td style="border: none;" colspan="2">Diligence, Prudence, Respectability, Simplicity</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+<table style="width: 100%; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <th style="border: none;" colspan="2"><strong>价值观</strong></th>
+      <th style="border: none;" colspan="2"><strong>Values</strong></th>
+    </tr>
+    <tr>
+      <td style="border: none;" colspan="2">尊重、责任感、坚毅不屈、正直、关爱、和谐</td>
+      <td style="border: none;" colspan="2">Respect, Responsibility, Resilience, Integrity, Care and Harmony</td>
+    </tr>
+  </tbody>
 </table>
