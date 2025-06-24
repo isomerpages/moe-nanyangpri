@@ -172,57 +172,57 @@ variant: markdown
 </tr>
   <tr>
     <td class="tg-2w19">何秀玉<br>主导教师（高能力学生）</td>
-    <td class="tg-2w19">Ho Siew Gek Catherine<br>Lead Teacher / High-Ability Learners</td>
+    <td class="tg-2w19">Mdm Ho Siew Gek Catherine<br>Lead Teacher / High-Ability Learners</td>
   </tr>
   <tr>
     <td class="tg-2w19">刘耀辉<br>主导教师（数学）</td>
-    <td class="tg-2w19">Low Yew Fai<br>Lead Teacher / Mathematics</td>
+			<td class="tg-2w19">Mr Low Yew Fai<br>Lead Teacher / Mathematics</td>
   </tr>
   <tr>
     <td class="tg-2w19">李惠美<br>高级教师（英文）</td>
-    <td class="tg-2w19">Lee Wee Bee<br>Senior Teacher / English Language</td>
+    <td class="tg-2w19">Ms Lee Wee Bee<br>Senior Teacher / English Language</td>
   </tr>
   <tr>
     <td class="tg-2w19">刘嘉燕<br>高级教师（英文）</td>
-    <td class="tg-2w19">Lew Kar Yin Jennifer<br>Senior Teacher / English Language</td>
+    <td class="tg-2w19">Ms Lew Kar Yin Jennifer<br>Senior Teacher / English Language</td>
   </tr>
   <tr>
     <td class="tg-2w19">林培玲<br>高级教师（英文）</td>
-    <td class="tg-2w19">Lim Phuay Lin Eileen<br>Senior Teacher / English Language</td>
+    <td class="tg-2w19">Mrs Lim Phuay Lin Eileen<br>Senior Teacher / English Language</td>
   </tr>
   <tr>
     <td class="tg-2w19">林晓雁<br>高级教师（华文）</td>
-    <td class="tg-2w19">Ling Shiau Yeang<br>Senior Teacher / Chinese Language</td>
+    <td class="tg-2w19">Mdm Ling Shiau Yeang<br>Senior Teacher / Chinese Language</td>
   </tr>
   <tr>
     <td class="tg-2w19">黄慧芬<br>高级教师 （华文）</td>
-    <td class="tg-2w19">Ng Huey Fern<br>Senior Teacher / Chinese Language</td>
+    <td class="tg-2w19">Ms Ng Huey Fern<br>Senior Teacher / Chinese Language</td>
   </tr>
   <tr>
     <td class="tg-2w19">刘彩龙<br>高级教师 （数学）</td>
-    <td class="tg-2w19">Liew Chai Long<br>Senior Teacher / Mathematics</td>
+    <td class="tg-2w19">Mr Liew Chai Long<br>Senior Teacher / Mathematics</td>
   </tr>
   <tr>
     <td class="tg-2w19">何秀芬<br>高级教师 （数学）</td>
-    <td class="tg-2w19">Ho Siew Hoon<br>Senior Teacher / Mathematics</td>
+    <td class="tg-2w19">Mdm Ho Siew Hoon<br>Senior Teacher / Mathematics</td>
   </tr>
   <tr>
     <td class="tg-2w19">陈思敏<br>高级教师 （科学）</td>
-    <td class="tg-2w19">Tan Si Ming<br>Senior Teacher / Science</td>
+    <td class="tg-2w19">Mdm Tan Si Ming<br>Senior Teacher / Science</td>
   </tr>
   <tr>
     <td class="tg-2w19">蔡楚津<br>高级教师 （社会科学） </td>
-    <td class="tg-2w19">Chua Chor Cheng Rebecca<br>Senior Teacher / Social Studies</td>
+    <td class="tg-2w19">Mdm Chua Chor Cheng Rebecca<br>Senior Teacher / Social Studies</td>
   </tr>
    <tr>
     <td class="tg-2w19">林志铭<br>高级教师（体育及全面保健）</td>
-    <td class="tg-2w19">Lim Chee Min<br>Senior Teacher / Physical Education &amp; Holistic Health</td>
+    <td class="tg-2w19">Mr Lim Chee Min<br>Senior Teacher / Physical Education &amp; Holistic Health</td>
   </tr>
   <tr>
   
   </tr><tr>
     <td class="tg-2w19">王尤玲<br>高级教师（美育）</td>
-    <td class="tg-2w19">Ong Yew Lin<br>Senior Teacher / Aesthetics</td>
+    <td class="tg-2w19">Mdm Ong Yew Lin<br>Senior Teacher / Aesthetics</td>
   </tr> 
 </tbody>
 </table>
