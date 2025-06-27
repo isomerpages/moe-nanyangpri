@@ -198,6 +198,10 @@ variant: markdown
     <td class="tg-2w19">黄慧芬<br>高级教师 （华文）</td>
     <td class="tg-2w19">Ms Ng Huey Fern<br>Senior Teacher / Chinese Language</td>
   </tr>
+<tr>
+    <td class="tg-2w19">程莹莹<br>高级教师 （华文）</td>
+    <td class="tg-2w19">Mdm Cheng Yingying<br>Senior Teacher / Chinese Language</td>
+  </tr>
   <tr>
     <td class="tg-2w19">刘彩龙<br>高级教师 （数学）</td>
     <td class="tg-2w19">Mr Liew Chai Long<br>Senior Teacher / Mathematics</td>
