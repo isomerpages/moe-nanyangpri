@@ -66,7 +66,7 @@ The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br>
 To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
 
 <p><strong>School Bus Services</strong><br>
-1. <a href="/files/nyps%20sch%20bus%20services%202024%20info%20appendix%20c.pdf" rel="noopener" target="_blank">NYPS School Bus Service</a></p>
+1. <a href="/files/nyps%20-%20school%20bus%20services%20for%202023%20-%202025.pdf" rel="noopener" target="_blank">NYPS School Bus Service</a></p>
 
 	
 <p></p></div></li>
@@ -102,21 +102,21 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 <table style="width:393.333px">
 	<tbody>
 		<tr>
-			<td style="width:170px"><a href="/files/2025P1.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
-			<td style="width:170px"><a href="/files/2025P4.pdf" rel="noopener noreferrer" target="_blank">Primary 4</a></td>
-			<td style="width:170px"><a href="/files/2025P5GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 5 GEP</a></td>
-			<td style="width:170px"><a href="/files/2025P6FDN.pdf" rel="noopener noreferrer" target="_blank">Primary 6 FDN</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P1.pdf" rel="noopener noreferrer" target="_blank">Primary 1</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P4.pdf" rel="noopener noreferrer" target="_blank">Primary 4</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P5GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 5 GEP</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P6FDN.pdf" rel="noopener noreferrer" target="_blank">Primary 6 FDN</a></td>
 		</tr>
 		<tr>
-			<td style="width:170px"><a href="/files/2025P2.pdf" rel="noopener noreferrer" target="_blank">Primary 2</a></td>
-			<td style="width:170px"><a href="/files/2025P4GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 4 GEP</a></td>
-			<td style="width:170px"><a href="/files/2025P6.pdf" rel="noopener noreferrer" target="_blank">Primary 6</a></td>
+			<td style="width:170px"><a href="/files/Bookloist/2025P2.pdf" rel="noopener noreferrer" target="_blank">Primary 2</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P4GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 4 GEP</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P6.pdf" rel="noopener noreferrer" target="_blank">Primary 6</a></td>
 			<td style="width:170px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:170px"><a href="/files/2025P3.pdf" rel="noopener noreferrer" target="_blank">Primary 3</a></td>
-			<td style="width:170px"><a href="/files/2025P5.pdf" rel="noopener noreferrer" target="_blank">Primary 5</a></td>
-			<td style="width:170px"><a href="/files/2025P6GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 6 GEP</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P3.pdf" rel="noopener noreferrer" target="_blank">Primary 3</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P5.pdf" rel="noopener noreferrer" target="_blank">Primary 5</a></td>
+			<td style="width:170px"><a href="/files/Booklist/2025P6GEP.pdf" rel="noopener noreferrer" target="_blank">Primary 6 GEP</a></td>
 			<td style="width:170px">&nbsp;</td>
 		</tr>
 	</tbody>

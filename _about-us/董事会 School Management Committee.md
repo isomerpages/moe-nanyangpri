@@ -2,6 +2,7 @@
 title: 董事会 School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
 #### 现任董事会成员 Office Bearers (2023 to 2025)
 
@@ -79,11 +80,6 @@ description: ""
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">李润瑛女士&nbsp; 董事</td>
-    <td class="tg-ii8k">Mdm Amy Lee Yuen Ying</td>
-    <td class="tg-ii8k">Member</td>
-  </tr>
-  <tr>
     <td class="tg-ii8k">王秀芳女士 &nbsp;董事</td>
     <td class="tg-ii8k">Mdm Ong Sioe Hong</td>
     <td class="tg-ii8k">Member</td>
@@ -106,11 +102,6 @@ description: ""
   <tr>
     <td class="tg-ii8k">傅绕月医生&nbsp; 董事</td>
     <td class="tg-ii8k">Dr Esther Fu Raw Yueh</td>
-    <td class="tg-ii8k">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">翁慧芳女士&nbsp; 董事</td>
-    <td class="tg-ii8k">Mdm Wong Huey Fang</td>
     <td class="tg-ii8k">Member</td>
   </tr>
   <tr>
@@ -151,6 +142,16 @@ description: ""
   <tr>
     <td class="tg-ii8k">秦晓先生  董事</td>
     <td class="tg-ii8k">Mr Qin Xiao</td>
+    <td class="tg-ii8k">Member</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">陈民亮先生  董事</td>
+    <td class="tg-ii8k">Mr Tan Min-Liang</td>
+    <td class="tg-ii8k">Member</td>
+  </tr>
+	<tr>
+    <td class="tg-ii8k">邓秀凤女士  董事</td>
+    <td class="tg-ii8k">Ms Then Siau Fong</td>
     <td class="tg-ii8k">Member</td>
   </tr>
 </tbody>
