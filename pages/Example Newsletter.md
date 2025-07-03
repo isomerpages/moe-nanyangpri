@@ -70,13 +70,11 @@ description: ""
           <img alt="Issue 1 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
        </div>
-      <div class="issue-item">
-        <a target="_blank" href="/files/kaleidoscope/2025-issue2.pdf">
           <img alt="Issue 2 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
+        
        </div>
     </div>
-  </div>
+  
 </section>
 
 
@@ -99,21 +97,15 @@ description: ""
           <img alt="2024 Issue 1 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
-      <div class="issue-item">
-        <a target="_blank" href="/files/kaleidoscope/2024-issue2.pdf">
           <img alt="2024 Issue 2 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
+        
       </div>
-      <div class="issue-item">
-        <a target="_blank" href="/files/kaleidoscope/2024-issue3.pdf">
-          <img alt="2024 Issue 3 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
+         <img alt="2024 Issue 3 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
+        
       </div>
-      <div class="issue-item">
-        <a target="_blank" href="/files/kaleidoscope/2024-issue4.pdf">
-          <img alt="2024 Issue 4 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
-      </div>
-    </div>
-  </div>
+        <img alt="2024 Issue 4 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
+        
+      
+    
+  
 </section>
