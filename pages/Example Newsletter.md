@@ -42,7 +42,7 @@ description: ""
 </div>
 
 
-<section style="background-color: #F7F7F7; padding: 1.25rem 0;">
+<section style="padding: 1.25rem 0;">
   <div class="content-wrapper">
     <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue2">
       <img style="width: 100%; max-width: 720px; height: auto;" alt="Current Issue Thumbnail" src="/images/2025_Issue_1.png">
@@ -51,7 +51,7 @@ description: ""
 </section>
 
 
-<section style="background-color: #F7F7F7; padding: 1.25rem 0;">
+<section style="padding: 1.25rem 0;">
   <div class="content-wrapper">
     <div class="issues-container">
       <div class="issue-item">
@@ -89,7 +89,7 @@ description: ""
 </section>
 
 
-<section style="background-color: #F7F7F7; padding: 1.25rem 0;">
+<section style="padding: 1.25rem 0;">
   <div class="content-wrapper">
     <p style="font-size: 1.2rem; margin-bottom: 1.5rem;" class="text-kaleido-blue">2024</p>
     <div class="issues-container">
