@@ -23,7 +23,8 @@ description: ""
   }
 
   .issue-item {
-    width: calc(25% - 2rem); /* 4 items per row */
+    flex: 1 1 calc(25% - 2rem); /* 4 items per row with gap */
+    min-width: 200px;
     text-align: left;
   }
 
@@ -31,6 +32,20 @@ description: ""
     width: 100%;
     height: auto;
     display: block;
+  }
+
+  /* Tablet view: 2 per row */
+  @media (max-width: 768px) {
+    .issue-item {
+      flex: 1 1 calc(50% - 2rem);
+    }
+  }
+
+  /* Mobile view: 1 per row */
+  @media (max-width: 480px) {
+    .issue-item {
+      flex: 1 1 100%;
+    }
   }
 </style>
 
@@ -42,7 +57,7 @@ description: ""
 </div>
 
 
-<section style="padding: 1.25rem 0;">
+<section style="background-color: #F7F7F7; padding: 1.25rem 0;">
   <div class="content-wrapper">
     <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue2">
       <img style="width: 100%; max-width: 720px; height: auto;" alt="Current Issue Thumbnail" src="/images/2025_Issue_1.png">
@@ -51,7 +66,7 @@ description: ""
 </section>
 
 
-<section style="padding: 1.25rem 0;">
+<section style="background-color: #F7F7F7; padding: 1.25rem 0;">
   <div class="content-wrapper">
     <div class="issues-container">
       <div class="issue-item">
@@ -65,12 +80,12 @@ description: ""
         </a>
       </div>
       <div class="issue-item">
-        <a href="#">
+        <a target="_blank" href="#">
           <img alt="2025 Issue 3 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
       <div class="issue-item">
-        <a href="#">
+        <a target="_blank" href="#">
           <img alt="2025 Issue 4 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
@@ -89,27 +104,27 @@ description: ""
 </section>
 
 
-<section style="padding: 1.25rem 0;">
+<section style="background-color: #F7F7F7; padding: 1.25rem 0;">
   <div class="content-wrapper">
     <p style="font-size: 1.2rem; margin-bottom: 1.5rem;" class="text-kaleido-blue">2024</p>
     <div class="issues-container">
       <div class="issue-item">
-        <a href="#">
+        <a target="_blank" href="#">
           <img alt="2024 Issue 1 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
       <div class="issue-item">
-        <a href="#">
+        <a target="_blank" href="#">
           <img alt="2024 Issue 2 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
       <div class="issue-item">
-        <a href="#">
+        <a target="_blank" href="#">
           <img alt="2024 Issue 3 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
       <div class="issue-item">
-        <a href="#">
+        <a target="_blank" href="#">
           <img alt="2024 Issue 4 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         </a>
       </div>
