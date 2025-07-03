@@ -98,10 +98,8 @@ description: ""
         </a>
       </div>
           <img alt="2024 Issue 2 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        
       </div>
          <img alt="2024 Issue 3 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        
       </div>
         <img alt="2024 Issue 4 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
         
