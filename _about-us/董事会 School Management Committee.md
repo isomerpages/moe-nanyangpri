@@ -4,7 +4,7 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: markdown
 ---
-#### 现任董事会成员 Office Bearers (2023 to 2025)
+#### 现任董事会成员 Office Bearers (2025 to 2027)
 
 <br>
 
