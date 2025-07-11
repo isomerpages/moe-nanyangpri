@@ -60,7 +60,7 @@ description: ""
 <section style="background-color: #F7F7F7; padding: 1.25rem 0;">
   <div class="content-wrapper">
     <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue2">
-      <img style="width: 100%; max-width: 720px; height: auto;" alt="Current Issue Thumbnail" src="/images/2025_Issue_1.png">
+      <img style="width: 100%; max-width: 720px; height: auto;" alt="Current Issue Thumbnail" src="/images/KD25_Issue_2_CI.jpg">
     </a>
   </div>
 </section>
@@ -71,22 +71,7 @@ description: ""
     <div class="issues-container">
       <div class="issue-item">
         <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue1">
-          <img alt="2025 Issue 1 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
-      </div>
-      <div class="issue-item">
-        <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue2">
-          <img alt="2025 Issue 2 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
-      </div>
-      <div class="issue-item">
-        <a target="_blank" href="#">
-          <img alt="2025 Issue 3 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
-        </a>
-      </div>
-      <div class="issue-item">
-        <a target="_blank" href="#">
-          <img alt="2025 Issue 4 Thumbnail" src="/images/WhatsApp_Image_2025_07_03_at_2_24_36_PM.jpg">
+          <img alt="2025 Issue 1 Thumbnail" src="/images/KD25_Issue1.jpg">
         </a>
       </div>
     </div>
