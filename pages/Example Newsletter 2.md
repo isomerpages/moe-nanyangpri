@@ -4,9 +4,7 @@ permalink: /example-title/
 variant: tiptap
 description: ""
 ---
-<p><strong>2025 issues</strong>
-<br>
-</p>
+<h3>Current Issue</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KD25_Issue_2_CI.jpg">
 </div>
