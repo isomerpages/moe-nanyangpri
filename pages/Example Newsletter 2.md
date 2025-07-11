@@ -4,9 +4,12 @@ permalink: /example-title/
 variant: tiptap
 description: ""
 ---
-<h4><a href="https://go.gov.sg/nyps-kldcp-2025-issue1" rel="noopener nofollow" target="_blank">Latest issue</a></h4><a class="isomer-image-wrapper" href="https://go.gov.sg/nyps-kldcp-2025-issue1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Issue_1.png"></a>
-<p><strong>2025 past issues</strong>
+<p><strong>2025 issues</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KD25_Issue_2_CI.jpg">
+</div>
 <ol data-tight="true" class="tight">
 <li>
 <p><u>2025 Issue 1</u>
