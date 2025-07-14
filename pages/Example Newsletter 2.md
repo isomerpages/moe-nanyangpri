@@ -22,7 +22,8 @@ videos, photo albums and clickable links—that were available in their original
 digital formats.</p>
 <p>For the complete interactive experience, we encourage you to explore our
 current-year editions of Kaleidoscope.
-<br>2024</p>
+<br>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/kldcp2024issue1" rel="noopener nofollow" target="_blank">2024 Issue 1</a>
