@@ -117,7 +117,7 @@ variant: markdown
   <tbody><tr>
     <td style="border: none;" colspan="2"></td>
     <td style="border: none;" colspan="2">
-      <strong>Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy</strong>
+      <strong>G.L.O.W: Grow an abundance mindset; Learn for life; Open to opportunities; Work in Synergy</strong>
     </td>
   </tr>
 </tbody></table>
