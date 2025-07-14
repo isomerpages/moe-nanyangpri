@@ -4,21 +4,14 @@ permalink: /example-title/
 variant: tiptap
 description: ""
 ---
-<h3>Current Issue</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KD25_Issue_2_CI.jpg">
-</div>
+<h3>Current Issue</h3><a class="isomer-image-wrapper" href="https://go.gov.sg/nyps-kldcp-2025-issue2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KD25_Issue_2_CI.jpg"></a>
 <ol data-tight="true" class="tight">
 <li>
-<p><u>2025 Issue 1</u>
+<p><a href="https://go.gov.sg/nyps-kldcp-2025-issue1" rel="noopener nofollow" target="_blank">2025 Issue 1</a>
 </p>
 </li>
 <li>
-<p><u>2025 Issue 2</u>
-</p>
-</li>
-<li>
-<p><u>2025 Issue 3</u>
+<p><a href="https://go.gov.sg/nyps-kldcp-2025-issue2" rel="noopener nofollow" target="_blank">2025 Issue 2</a>
 </p>
 </li>
 </ol>
@@ -32,19 +25,19 @@ current-year editions of Kaleidoscope.
 <br>2024</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><u>2024 Issue 1</u>
+<p><a href="https://go.gov.sg/kldcp2024issue1" rel="noopener nofollow" target="_blank">2024 Issue 1</a>
 </p>
 </li>
 <li>
-<p><u>2024 Issue 2</u>
+<p><a href="https://go.gov.sg/kldcppastissue2" rel="noopener nofollow" target="_blank">2024 Issue 2</a>
 </p>
 </li>
 <li>
-<p><u>2024 Issue 3</u>
+<p><a href="https://go.gov.sg/kldcppastissue3" rel="noopener nofollow" target="_blank">2024 Issue 3</a>
 </p>
 </li>
 <li>
-<p><u>2024 Issue 4</u>
+<p><a href="https://go.gov.sg/kldcppastissue4" rel="noopener nofollow" target="_blank">2024 Issue 4</a>
 </p>
 </li>
 </ol>
