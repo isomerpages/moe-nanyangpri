@@ -14,7 +14,7 @@ sections:
           - title: SLS (Student Learning Space)
             url: https://vle.learning.moe.edu.sg/login
           - title: School Bag
-            url: https://www.schoolbag.sg/
+            url: https://www.schoolbag.edu.sg/
           - title: OPAC Login Guide
             url: /files/For%20NYPS%20webpage%20OPAC%20login%20guide.pdf
   - resources:
