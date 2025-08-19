@@ -169,3 +169,5 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p><a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_blank">Group/Personal Accident Insurance for Students Form</a></p>
 	</li><p></p></ul>
 </div></li></ul>
+<li><input id="accordion5" type="checkbox">  
+	<label for="accordion5"><h3>意象南小 Kaleidoscope</h3></label><div></div></li>
