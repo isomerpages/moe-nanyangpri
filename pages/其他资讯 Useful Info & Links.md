@@ -174,5 +174,5 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 <p>
 </p><ul>
 	<li>
-	<p><a href="https://nyps.gov.sg/kelaidoscope-past-issues" rel="noopener" target="_blank">Kelaidoscope Past Issues</a></p>
+	<p><a href="https://nyps.gov.sg/kaleidoscope-past-issues/" rel="noopener" target="_blank">Kelaidoscope Past Issues</a></p>
 	</li></ul></div></li></ul>
