@@ -170,7 +170,7 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	</li><p></p></ul>
 </div></li></ul>
 <li><input id="accordion5" type="checkbox">  
-	<label for="accordion5"><h3>意象南小 Kaleidoscope</h3><a href="" rel="noopener" target="_blank"></a></label><div><a href="" rel="noopener" target="_blank">
+	<label for="accordion5"><h3>意象南小 Kaleidoscope</h3><a href="https://nyps.moe.edu.sg/kaleidoscope-past-issues" rel="noopener" target="_blank"></a>
 	<p>
 </p><ul>
-</ul></a></div></li>
+</ul></label></li>
