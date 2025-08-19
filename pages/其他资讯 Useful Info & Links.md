@@ -168,9 +168,11 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<li>
 	<p><a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_blank">Group/Personal Accident Insurance for Students Form</a></p>
 	</li><p></p></ul>
-</div></li></ul>
+</div></li>
 <li><input id="accordion5" type="checkbox">  
-	<label for="accordion5"><h3>意象南小 Kaleidoscope</h3><a href="https://nyps.moe.edu.sg/kaleidoscope-past-issues" rel="noopener" target="_blank"></a>
-	<p>
+<label for="accordion5"><h3>意象南小 Kaleidoscope</h3></label><div>
+<p>
 </p><ul>
-</ul></label></li>
+	<li>
+	<p><a href="https://nyps.gov.sg/kelaidoscope-past-issues" rel="noopener" target="_blank">Kelaidoscope Past Issues</a></p>
+	</li></ul></div></li></ul>
