@@ -1,10 +1,9 @@
 ---
-title: Example Newsletter
-permalink: /example-newsletter/
+title: Kaleidoscope (Past Issues)
+permalink: /kaleidoscope-past-issues/
 variant: markdown
 description: ""
 ---
-
 <div style="background-color: #1976C5; padding: 1rem 0;">
   <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
     <p style="color: white; font-size: 2rem; font-weight: bold; margin: 0;">2025</p>

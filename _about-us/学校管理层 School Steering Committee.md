@@ -38,16 +38,8 @@ variant: markdown
     <td class="tg-2w19">Mr James Chong Kok Chiang<br>Vice-Principal, Administration</td>
   </tr>
   <tr>
-    <td class="tg-2w19">柯慧盈<br>教师指导员</td>
-    <td class="tg-2w19">Mdm Kuah Hui Yeng<br>School Staff Developer</td>
-  </tr>
-  <tr>
     <td class="tg-2w19">赵洁霞<br>年级主任</td>
     <td class="tg-2w19">Mdm Chow Chiat Sia Shirley<br>Year Head</td>
-  </tr>
-  <tr>
-    <td class="tg-2w19">赖玲丽<br>年级主任</td>
-    <td class="tg-2w19">Mdm Lai Ling Lee<br>Year Head</td>
   </tr>
   <tr>
     <td class="tg-2w19">曾素群<br>年级主任</td>
