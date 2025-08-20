@@ -4,35 +4,6 @@ permalink: /kaleidoscope-past-issues/
 variant: markdown
 description: ""
 ---
-<div style="background-color: #1976C5; padding: 1rem 0;">
-  <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
-    <p style="color: white; font-size: 2rem; font-weight: bold; margin: 0;">2025</p>
-  </div>
-</div>
-
-
-<div style="background-color: #F7F7F7; padding: 1.25rem 0;">
-  <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
-    <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue2">
-      <img style="width: 100%; max-width: 720px; height: auto;" alt="Current Issue Thumbnail" src="/images/KD25_Issue_2_CI.jpg">
-    </a>
-  </div>
-</div>
-
-
-<div style="background-color: #F7F7F7; padding: 1.25rem 0;">
-  <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem; overflow-x: auto;">
-    <div style="display: flex; gap: 2rem; flex-wrap: nowrap;">
-      <div style="flex: 0 0 calc(25% - 2rem); min-width: 200px;">
-        <a target="_blank" href="https://go.gov.sg/nyps-kldcp-2025-issue1">
-          <img style="width: 100%; height: auto; display: block;" alt="2025 Issue 1 Thumbnail" src="/images/KD25_Issue1.jpg">
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 <div style="background-color: #1976C5; padding: 1.25rem 0; color: white;">
   <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
     <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 1rem;">Archived Issues</p>
