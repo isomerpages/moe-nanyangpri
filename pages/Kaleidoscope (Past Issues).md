@@ -17,8 +17,10 @@ description: ""
   <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
     <p style="color: #1976C5; font-weight: bold; font-size: 1.2rem; margin-bottom: 1.5rem;">2024</p>
     <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-      <div style="flex: 0 0 calc(50% - 1rem); min-width: 200px;">
-        <a href="https://go.gov.sg/kldcp2024issue1"><img style="width: 100%; height: auto; display: block;" alt="2024 Issue 1 Thumbnail" src="/images/KD24_Issue1_Thumbnail.jpg"></a>
+    <div style="flex: 0 0 calc(50% - 1rem); min-width: 200px;">
+       <a target="_blank" href="https://go.gov.sg/kldcp2024issue1">
+  <img style="width: 100%; height: auto; display: block;" alt="2024 Issue 1 Thumbnail" src="/images/KD24_Issue1_Thumbnail.jpg">
+</a>
       </div>
       <div style="flex: 0 0 calc(50% - 1rem); min-width: 200px;">
        <a target="_blank" href="https://go.gov.sg/kldcppastissue2">
