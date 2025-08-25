@@ -8,7 +8,7 @@ description: ""
   <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
     <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 1rem;">Archived Issues</p>
     <p style="line-height: 1.5; margin: 0;">
-      These are static PDF versions of previous Kaleidoscope issues. They do not include interactive elements such as videos or photo albums. For the complete experience, we recommend the current-year editions above.
+      These are static PDF versions of previous Kaleidoscope issues. They do not include interactive elements such as videos or photo albums. For the complete experience, we recommend the current-year editions found in the Announcements.
     </p>
   </div>
 </div>
