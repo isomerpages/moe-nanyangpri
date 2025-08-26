@@ -7,9 +7,10 @@ description: ""
 <div style="background-color: #1976C5; padding: 1.25rem 0; color: white;">
   <div style="max-width: 1140px; margin: 0 auto; padding: 0 1rem;">
     <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 1rem;">Archived Issues</p>
-    <p style="line-height: 1.5; margin: 0;">
-      These are static PDF versions of previous Kaleidoscope issues. They do not include interactive elements such as videos or photo albums. For the complete experience, we recommend the current-year editions found in the Announcements.
-    </p>
+    <p style="line-height: 1.5; margin: 0;">Please note that these are static PDF versions of previous Kaleidoscope issues. These archives do not include the interactive elements—such as videos, photo albums and clickable links—that were available in their original digital formats.
+<br>
+For the complete interactive experience, we encourage you to explore our current-year editions of Kaleidoscope found in the Announcements.<br>
+</p>
   </div>
 </div>
 
