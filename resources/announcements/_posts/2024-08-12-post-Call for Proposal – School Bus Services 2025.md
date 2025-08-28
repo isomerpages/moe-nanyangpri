@@ -11,10 +11,12 @@ variant: tiptap
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
-<br>1. [Call for Proposal]
-<br>2. [Agreement for Appointment of School Bus Operator]</p>
+<br>1. <a href="/files/NYPS_Call_for_Proposals__For_School_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<br>2. <a href="/files/NYPS_TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_School_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+<br>3. <a href="/files/NYPS_Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services__For_School_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Agreement for Appointment of School Bus Operator</a>
+</p>
 <p><strong>Application Procedure</strong>
-<br>1. Complete the [Call for Proposal - Annex A]
+<br>1. Complete the <a href="/files/NYPS_Information_from_Vendor__For_School_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a>
 <br>2. Submit the completed Call for Proposal – Annex A by closing date, 9
 September 2025 to the School’s General Office.</p>
 <p>* Address: 52 King’s Road, Singapore 268097
