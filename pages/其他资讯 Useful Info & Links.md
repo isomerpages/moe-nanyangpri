@@ -85,13 +85,13 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 
 <ol>
 	<li>
-	<p><a href="/files/Student%20Learning%20Space/Introducing%20Student%20iCON.pdf" rel="noopener" target="_blank">Introducing Student iCON</a></p>
+	<p><a href="/files/StudentLearningSpace/introducingstudenticon.pdf" rel="noopener" target="_blank">Introducing Student iCON</a></p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></p>
+	<p><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Student%20iCON%20-%20Password%20Requirements.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></p>
+	<p><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></p>
 	</li>
 </ol>
 
