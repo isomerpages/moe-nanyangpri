@@ -131,16 +131,16 @@ To request for an appointment, please call or leave a Whatsapp text at 9115 1762
 	<p>Bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs). </p>
 	</li>
 	<li>
-	<p><a href="/files/Tips%20to%20support%20your%20child/Overview%20of%20Parent%20Engagement%20Resources%20Posters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
+	<p><a href="/files/Tipstosupportyourchild/overviewofparentengagementresourcesposters_i.pdf">Providing Social and Emotional Support for your Child</a></p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Nurturing%20Parent%20Child%20Communication.pdf" rel="noopener" target="_blank">Nurturing Parent-Child Communication</a></p>
+	<p><a href="/files/Tipstosupportyourchild/nurturingparentchildcommunication.pdf" rel="noopener" target="_blank">Nurturing Parent-Child Communication</a></p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Raising%20Confident%20Children%20&amp;%20Setting%20Meaningful%20Goals.pdf" rel="noopener" target="_blank">Raising Confident Children &amp; Setting Meaningful Goals</a></p>
+	<p><a href="/files/Tipstosupportyourchild/raisingconfidentchildrennsettingmeaningfulgoals.pdf" rel="noopener" target="_blank">Raising Confident Children &amp; Setting Meaningful Goals</a></p>
 	</li>
 	<li>
-	<p><a href="https://www.nyps.moe.edu.sg/files/Boosting%20your%20child%20emotional%20strenght%20and%20self%20management%20skills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
+	<p><a href="/files/Tipstosupportyourchild/boostingyourchildemotionalstrenghtandselfmanagementskills.pdf" rel="noopener" target="_blank">Boosting Your Child Emotional Strength and Self-Management Skills</a></p>
 	</li>
 </ol>
 <br>
