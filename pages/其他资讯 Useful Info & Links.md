@@ -66,7 +66,6 @@ The clinic is closed on Saturdays, Sundays and Holidays&nbsp;<br>
 To request for an appointment, please call or leave a Whatsapp text at 9115 1762</p>
 
 <p><strong>School Bus Services</strong><br></p>
-
 Daily School Bus Services (i.e. for sending pupils from home to school and vice-versa); and bus Services for after-school activities (i.e. sending pupils home from school after enrichment programmes, supplementary or remedial classes, or CCAs). 
 <p><a href="/files/nyps%20-%20school%20bus%20services%20for%202023%20-%202025.pdf" rel="noopener" target="_blank">NYPS School Bus Service</a></p>
 </div></li></ul><p></p>
