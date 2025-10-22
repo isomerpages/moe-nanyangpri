@@ -97,7 +97,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-2w19">何文莉<br>科主任（科学部）</td>
-    <td class="tg-2w19">Mdm Vinette Ho<br>Subject Head/ Science</td>
+    <td class="tg-2w19">Mdm Vinette Hoe<br>Subject Head/ Science</td>
   </tr>
   <tr>
     <td class="tg-2w19">郭珮蓉<br>科主任（科学部）</td>
