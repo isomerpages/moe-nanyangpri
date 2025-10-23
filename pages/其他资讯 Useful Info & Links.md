@@ -59,7 +59,7 @@ variant: markdown
       To request an appointment, please call or WhatsApp 9115 1762.</p>
       <p><strong>School Bus Services</strong><br>
       Daily school bus services (home ↔ school) and after-school activity bus services.<br>
-      <a href="/files/nyps%20-%20school%20bus%20services%20for%202023%20-%202025.pdf" rel="noopener" target="_blank">Download NYPS School Bus Service Info</a></p>
+      <a href="/files/NYPS_SCH_BUS_SERVICES_2026_2027.pdf" rel="noopener" target="_blank">Download NYPS School Bus Service Info</a></p>
     </div>
   </li>
 
@@ -113,8 +113,6 @@ variant: markdown
       2) <a href="https://schoolibrary.moe.edu.sg/nanyangpri" rel="noopener" target="_blank">NYPS OPAC Website</a></p>
       <p><strong>Nanyang Wencui</strong><br>
       <a href="https://sites.google.com/moe.edu.sg/wencui/2025%E5%B9%B4?authuser=0" rel="noopener" target="_blank">Access our Nanyang Literary Collection</a></p>
-      <p><strong>Swim Meet 2025</strong><br>
-      <a href="/files/2025_NYPS_Swimming_Meet_Start_List__1_.pdf" rel="noopener" target="_blank">Download Swim Meet Start List</a></p>
     </div>
   </li>
 
