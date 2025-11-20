@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Nanyang Primary School will be closed on 17 December 2025 to allow for
+the annual power shutdown maintenance works. Thank you.</p>
