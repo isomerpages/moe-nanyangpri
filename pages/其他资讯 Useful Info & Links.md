@@ -45,12 +45,11 @@ variant: markdown
       You may visit the store or place your order online at:
       <a rel="noopener" target="_blank" href="http://shanghai-uniforms.com">http://shanghai-uniforms.com</a></p>
       <p><strong>Name Tag</strong><br>
-      <strong>Stitchwerkz Pte Ltd</strong><br>
-      Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838<br>
+      <strong>Stitchwerkz Pte Ltd</strong>
+<br>Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838
+<br>For the purchase of name tags, please use this link <a href="www.nametags.stichwerkz.sg/nyps">www.nametags.stichwerkz.sg/nyps</a><br>
       Email: <a href="mailto:nametags@stitchwerkz.sg">nametags@stitchwerkz.sg</a><br>
-      To order: <a rel="noopener" target="_blank" href="http://www.stitchwerkz.sg/nametags_nyps">www.stitchwerkz.sg/nametags_nyps</a></p>
-      <img style="width:30%; margin: 10px 0;" alt="Name Tag Example" src="https://www.nyps.moe.edu.sg/images/name%20tag.png">
-      <p><strong>School Dental Service</strong><br>
+      </p><p><strong>School Dental Service</strong><br>
       <u>Operating Hours:</u><br>
       Monday to Thursday: 8.00 a.m. - 5.30 p.m.<br>
       Friday: 8.00 a.m. - 5.00 p.m.<br>
@@ -78,25 +77,25 @@ variant: markdown
         <li><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></li>
         <li><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></li>
       </ol>
-      <p><strong>NYPS Book List 2025</strong></p>
+      <p><strong>NYPS Book List 2026</strong></p>
       <table>
         <tbody>
           <tr>
-            <td><a href="/files/Booklist/2025P1.pdf" rel="noopener" target="_blank">Primary 1</a></td>
-            <td><a href="/files/Booklist/2025P4.pdf" rel="noopener" target="_blank">Primary 4</a></td>
-            <td><a href="/files/Booklist/2025P5GEP.pdf" rel="noopener" target="_blank">Primary 5 GEP</a></td>
-            <td><a href="/files/Booklist/2025P6FDN.pdf" rel="noopener" target="_blank">Primary 6 FDN</a></td>
+            <td><a href="/files/Booklist/2026P1.pdf" rel="noopener" target="_blank">Primary 1</a></td>
+            <td><a href="/files/Booklist/2026P4.pdf" rel="noopener" target="_blank">Primary 4</a></td>
+            <td><a href="/files/Booklist/2026P5GEP.pdf" rel="noopener" target="_blank">Primary 5 GEP</a></td>
+            <td><a href="/files/Booklist/2026P6FDN.pdf" rel="noopener" target="_blank">Primary 6 FDN</a></td>
           </tr>
           <tr>
-            <td><a href="/files/Booklist/2025P2.pdf" rel="noopener" target="_blank">Primary 2</a></td>
-            <td><a href="/files/Booklist/2025P4GEP.pdf" rel="noopener" target="_blank">Primary 4 GEP</a></td>
-            <td><a href="/files/Booklist/2025P6.pdf" rel="noopener" target="_blank">Primary 6</a></td>
+            <td><a href="/files/Booklist/2026P2.pdf" rel="noopener" target="_blank">Primary 2</a></td>
+            <td><a href="/files/Booklist/2026P4_GEP.pdf" rel="noopener" target="_blank">Primary 4 GEP</a></td>
+            <td><a href="/files/Booklist/2026P6.pdf" rel="noopener" target="_blank">Primary 6</a></td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><a href="/files/Booklist/2025P3.pdf" rel="noopener" target="_blank">Primary 3</a></td>
-            <td><a href="/files/Booklist/2025P5.pdf" rel="noopener" target="_blank">Primary 5</a></td>
-            <td><a href="/files/Booklist/2025P6GEP.pdf" rel="noopener" target="_blank">Primary 6 GEP</a></td>
+            <td><a href="/files/Booklist/2026P3.pdf" rel="noopener" target="_blank">Primary 3</a></td>
+            <td><a href="/files/Booklist/2026P5.pdf" rel="noopener" target="_blank">Primary 5</a></td>
+            <td><a href="/files/Booklist/2026P6GEP.pdf" rel="noopener" target="_blank">Primary 6 GEP</a></td>
             <td>&nbsp;</td>
           </tr>
         </tbody>
