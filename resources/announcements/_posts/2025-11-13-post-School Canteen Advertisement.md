@@ -38,7 +38,7 @@ variant: tiptap
 <p>Open</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 December 2025</p>
+<p>31 January 2026</p>
 </td>
 </tr>
 </tbody>
