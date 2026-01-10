@@ -51,7 +51,7 @@ variant: tiptap
 hardcopy of the Application Form from the School’s General Office.</p>
 </li>
 </ol>
-<p><a href="https://www.scgs.moe.edu.sg/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Canteen Stall-FormBF7</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application for canteen stall form BF7 (Click here)</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
