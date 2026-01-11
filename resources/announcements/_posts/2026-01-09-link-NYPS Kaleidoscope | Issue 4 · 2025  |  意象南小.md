@@ -1,5 +1,5 @@
 ---
-title: Kaleidoscope (Issue 4, 2025)
+title: NYPS Kaleidoscope | Issue 4 · 2025  |  意象南小
 date: 2026-01-09
 layout: link
 description: ""
