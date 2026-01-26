@@ -123,7 +123,7 @@ variant: markdown
       <ul>
         <li><a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener" target="_blank">Financial Summary of Government-Aided Schools' &amp; Independent Schools’ Donation Funds</a></li>
         <li><a href="https://www.nyps.moe.edu.sg/files/Application%20Form%20for%20Interbank%20Giro%20(for%20Payment%20&amp;%20Refund%20of%20School%20Fees%20and%20Charges).pdf" rel="noopener" target="_blank">Interbank Giro Form for Payment &amp; Refund of School Fees and Charges</a></li>
-        <li><a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_blank">Group/Personal Accident Insurance for Students Form</a></li>
+        <li><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener" target="_blank">Group Personal Accident Insurance for Students</a></li>
       </ul>
     </div>
   </li>
