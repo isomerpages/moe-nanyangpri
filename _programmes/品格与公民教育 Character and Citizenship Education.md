@@ -184,12 +184,9 @@ to make wise, informed and responsible decisions to keep themselves safe from se
 <br>
 <strong>Information for Parents</strong>
 <ol start="8" data-tight="true" class="tight">
-<li><p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.</p></li>
-<li><p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete the opt-out form via Parents Gateway by 21/02/2025.</p></li>
-<li>Parents can contact the school at 6467 2677 for discussion or to seek
-clarification about the school’s Sexuality Education programme.<p></p></li>
+<li><p>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p></li>
+<li><p>Parents who wish to opt their children out of the Sexuality Education lessons need to complete the opt-out form via Parents Gateway by 13/02/2026.</p></li>
+<li>Parents can contact the school at 64672677 for discussion or to seek clarification about the school’s Sexuality Education programme.<p></p></li>
 </ol>
 <p></p>
 </ol></div></li>
