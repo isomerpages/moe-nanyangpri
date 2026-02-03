@@ -32,13 +32,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice (经济菜饭)</p>
+<p>Chinese Variety Rice / Vietnamese / Taiwanese / Korea Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 January 2026</p>
+<p>28 Febuary 2026</p>
 </td>
 </tr>
 </tbody>
