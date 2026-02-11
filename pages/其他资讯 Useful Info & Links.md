@@ -47,7 +47,9 @@ variant: markdown
       <p><strong>Name Tag</strong><br>
       <strong>Stitchwerkz Pte Ltd</strong>
 <br>Address: Blk 9004 Tampines Street 93 #02-76 Singapore 528838
-<br>For the purchase of name tags, please use this link <a href="www.nametags.stitchwerkz.sg/nyps">www.nametags.stitchwerkz.sg/nyps</a><br>
+<br>For the purchase of name tags, please use this link <a target="_blank" href="https://www.nametags.stitchwerkz.sg/nyps">
+  www.nametags.stitchwerkz.sg/nyps
+</a><br>
       Email: <a href="mailto:nametags@stitchwerkz.sg">nametags@stitchwerkz.sg</a><br>
       </p><p><strong>School Dental Service</strong><br>
       <u>Operating Hours:</u><br>
