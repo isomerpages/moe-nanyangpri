@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/program-cce-2.jpeg">
+<img style="width=auto" height="auto" width="100%" src="/images/CCE/Copy_of_DSC08240.jpg">
 </div>
 <p><strong><u>愿景</u></strong> 
 <br>培育品格正直、有环球意识和心系祖国的学生。
