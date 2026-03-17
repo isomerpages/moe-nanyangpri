@@ -4,7 +4,7 @@ permalink: /programmes/chinese-language/
 description: ""
 variant: markdown
 ---
-<img src="/images/program-cl-2.jpeg" style="width:65%">
+<img src="/images/DSC04928.jpg" style="width:auto">
 		 
 **部门愿景**  
 培养华族语言与文化的传承者
@@ -131,4 +131,4 @@ Our department offers vibrant and meaningful Chinese learning experiences throug
       
     
 
-These initiatives help students connect language with real life while deepening cultural appreciation, creativity, and the joy of learning.  
+These initiatives help students connect language with real life while deepening cultural appreciation, creativity, and the joy of learning.
