@@ -16,6 +16,10 @@ the department aims to nurture learners to be future-ready creators, connectors
 and inspirers of the Arts.</p>
 <p>Arts in NYPS is student-centric adapting on pedagogies like Inquiry-Based
 learning, Cooperative Learning, Differentiated Instruction as well as e-pedagogy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2645.jpg">
+</div>
 <p><strong>Learning Highlights</strong>
 <br>The Annual M.A.D (<a href="http://Music.Art.Dance" rel="noopener noreferrer nofollow" target="_blank">Music.Art.Dance</a>) festival gives a platform
 for students to showcase their talents and also through this event students
