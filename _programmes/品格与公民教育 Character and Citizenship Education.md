@@ -218,8 +218,7 @@ variant: markdown
     </tr>
   </tbody></table>
 </div>
-<p></p>
-<br><strong>Learning Highlights</strong><br>
+<br><strong>Learning Highlights</strong>
 <br>At Nanyang Primary School, the learning of Citizenship and Character Education (CCE) comes alive through meaningful experiences that extend beyond the classroom. In addition to the weekly Form Teacher Guidance Period (FTGP) lesson where teachers nurture students’ moral reasoning and social-emotional competencies, guiding them to become thoughtful, compassionate, and responsible individuals, students are given the opportunities to live out the values they learn through vibrant school experiences — from assembly programmes that spark reflection, to joyful recess activities that commemorate key National Education events like National Day and Racial Harmony Day. Values-in-Action (VIA) and Positive Education (PosEd) learning moments further reinforce the importance of empathy, gratitude, and service to the community. Whether in class discussions, shared celebrations, or simple acts of care, CCE in Nanyang is a dynamic journey of heart, hands and mind — one that inspires students to not only understand what it means to be a good citizen, but to embody those values every day, in every action.<br>
 <br><br>
 <ul class="jekyllcodex_accordion">
