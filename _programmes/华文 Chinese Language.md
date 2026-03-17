@@ -2,9 +2,9 @@
 title: 华文 Chinese Language
 permalink: /programmes/chinese-language/
 description: ""
+variant: markdown
 ---
-<img src="/images/program-cl-2.jpeg" 
-     style="width:65%">
+<img src="/images/program-cl-2.jpeg" style="width:65%">
 		 
 **部门愿景**  
 培养华族语言与文化的传承者
@@ -104,84 +104,31 @@ description: ""
 </tbody>
 </table>
 
+The Chinese Department nurtures passionate and confident language users. Guided by the school motto, we foster cultural appreciation, critical thinking, and effective communication, while inspiring a lifelong love for learning. Students flourish in a bilingual and bicultural environment that supports holistic growth.
 
-**Vision**  
-To promote and cultivate the love of Chinese language and culture  
-  
-**Mission**  
+We adopt the Whole Language Approach and Experiential Learning to deepen language mastery. Lessons are student-centred, featuring collaborative learning and authentic tasks that promote critical thinking. Emphasis is placed on real-life language use and the cultivation of Chinese traditional values within a bilingual and bicultural context.
 
-*   To create an environment where students experience the joy of learning the Chinese Language;
-*   To help students master the Chinese language so that they can communicate effectively and confidently in the language;
-*   To encourage self-directed learning; and
-*   To enable students to acquire 21st century competencies.
+**Learning Highlights**
 
-  
-**Programme**  
-Through the use of appropriate teaching pedagogies and differentiated programmes, students are able to learn the Chinese language in an authentic and conducive environment. The department also aims to inspire students to learn, appreciate and use the Chinese language effectively.
+Our department offers vibrant and meaningful Chinese learning experiences through key school-wide programmes:
 
-**Enrichment Activities**
+*   Annual Reading Initiative – nurtures a love for Chinese literature across all levels.  
+      
+    
+*   Mother Tongue Fortnight, Chinese Fun Day, and Primary 3 Language Camp – engage students in cultural games and hands-on activities that bring the language to life.  
+      
+    
+*   Storytelling and Reading-Aloud Competitions – strengthen teamwork, oral expression, and confidence in using the language.  
+      
+    
+*   Creative Writing Competition – provides a platform for students to showcase imagination and flair.  
+      
+    
+*   IPW Project “I Am a Tree” – blends science and the arts as students explore school plants and present reflections through integrated poetry-and-art pieces.  
+      
+    
+*   Publications – outstanding works are featured annually in Zhao Yang, with additional writing samples and model compositions shared on the Nanyang Wen Cui website.  
+      
+    
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 485px">
-<colgroup>
-<col style="width: 85px">
-<col style="width: 400px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-0lax"><span style="font-weight:normal">P1-P2</span></th>
-    <th class="tg-0lax"><span style="font-weight:normal">Fun Learning Day</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P3-P4</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Poem and Text Recitation Competition</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P3-P6</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Creative Writing Competition</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P1-P6</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">ZhaoYang Creative Writing Publication</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P1-P6</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Penmanship Competition</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P1-P6</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Mother Tongue Fortnight</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P3</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">River Safari Learning Journey</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P4</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Chinese Language and Culture Competition</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P1-P2</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Read and Learn Picture Book*</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P3-P4</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Chinese Classics Appreciation – Journey to the West*</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:normal">P5-P6</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Current Affairs*</span></td>
-  </tr>
-</tbody>
-</table>
-
-\*NYPS Chinese Department's Flagship Programmes
+These initiatives help students connect language with real life while deepening cultural appreciation, creativity, and the joy of learning.  
