@@ -21,11 +21,11 @@ learning, Cooperative Learning, Differentiated Instruction as well as e-pedagogy
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2645.jpg">
 </div>
 <p><strong>Learning Highlights</strong>
-<br>The Annual M.A.D (<a href="http://Music.Art.Dance" rel="noopener noreferrer nofollow" target="_blank">Music.Art.Dance</a>) festival gives a platform
-for students to showcase their talents and also through this event students
-have the opportunity to express themselves through Arts. The performance
-as well as Art exhibition showcases works that highlight cultural diversity
-that aligns with our Life-Long Learning programme (LLP)</p>
+<br>The Annual M.A.D (Music.Art.Dance) festival gives a platform for students
+to showcase their talents and also through this event students have the
+opportunity to express themselves through Arts. The performance as well
+as Art exhibition showcases works that highlight cultural diversity that
+aligns with our Life-Long Learning programme (LLP)</p>
 <p>Songwriting Programme is Aesthetics Department flagship programmes. Lesson
 packages are designed by our music teachers with the purpose of giving
 our students the opportunity to express themselves through songs. Its a
