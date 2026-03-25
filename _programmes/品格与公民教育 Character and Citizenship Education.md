@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/program-cce-2.jpeg">
+<img style="width=auto" height="auto" width="100%" src="/images/CCE/Copy_of_DSC08240.jpg">
 </div>
 <p><strong><u>愿景</u></strong> 
 <br>培育品格正直、有环球意识和心系祖国的学生。
@@ -13,18 +13,214 @@ variant: markdown
 <br><strong><u>品格与公民教育框架</u></strong> 
 <br>请参考<a href="/images/CCE%20Framework.jpeg" rel="noopener" target="_blank">附件</a> 
 <br>南洋小学培育学生秉承校训和核心价值观，培养他们<strong>外向型、创造型和成长型</strong>思维的能力，同时掌握社交与情绪管理技能。</p>
-<p><strong><u>VISION</u></strong> 
-<br>To develop morally upright students who are globally relevant and locally
-rooted.
+<br>The Citizenship and Character Education (CCE) Department champions our School Vision: Learners of Character, Leaders in Action. We foster holistic development in our students by nurturing values and developing social-emotional competencies, so that they grow up to be morally upright, confident persons and concerned citizens who contribute meaningfully to the society.<br> 
+<br>A range of pedagogical approaches can be applied in the teaching and learning of CCE. These approaches are grounded in developmental psychology and theories of how children acquire values and social-emotional competencies. In practice, they are interwoven through various teaching strategies, depending on the desired learning outcomes.<br>
 <br>
-<br><strong><u>CCE Framework</u></strong> 
-<br>Click&nbsp;<a href="/images/CCE%20Framework.jpeg" rel="noopener" target="_blank">here</a>&nbsp;for
-attachment.
-<br>NYPS aims to develop students who embody the school's motto and values
-and display the&nbsp;<strong>Outward</strong>,&nbsp;<strong>Maker and Growth Mindset</strong>&nbsp;as
-well as social emotional competencies.
-<br>
-</p>
+<div style="overflow-x:auto;">
+  <table style="width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000000;">
+    <colgroup>
+      <col style="width: 21%;">
+      <col style="width: 23%;">
+      <col style="width: 56%;">
+    </colgroup>
+    <tbody><tr>
+      <th style="border: 1px solid #000000;
+        background: #FCE5CD;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        font-weight: 700;
+        line-height: 1.4;">
+        Desired<br>Learning<br>Outcomes
+      </th>
+      <th style="border: 1px solid #000000;
+        background: #FCE5CD;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        font-weight: 700;
+        line-height: 1.4;">
+        Pedagogical<br>Approaches
+      </th>
+      <th style="border: 1px solid #000000;
+        background: #FCE5CD;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        font-weight: 700;
+        line-height: 1.4;">
+        Description
+      </th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: middle;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;" rowspan="4">
+        Moral Reasoning<br>and Empathy
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        The Cognitive<br>Development<br>Approach
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.8;">
+        Uses moral dilemma scenarios for students to apply moral reasoning to
+        examine their motives and consider the values and principles they choose
+        to uphold in making decisions and taking action.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        The Consideration<br>Approach
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.8;">
+        Uses perspective-taking to develop caring dispositions in students by
+        building cognitive and emotional empathy.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        The Narrative<br>Approach
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.8;">
+        Uses stories to engage students in learning during CCE.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        Values<br>Clarification
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #FFF2CC;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.8;">
+        Students articulate their values through examining their personal
+        feelings and behaviour.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000000;
+        background: #D9EAD3;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        Social-Emotional<br>Competency
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #D9EAD3;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        The Explicit Skills<br>Instruction<br>Approach
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #D9EAD3;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.8;">
+        Students are guided through the learning process with clear statements
+        about the purpose and rationale for learning specific new skills, clear
+        explanations and demonstrations of learning to be acquired, and
+        supported practice with feedback until independent mastery has been
+        achieved.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000000;
+        background: #C9DAF8;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        Reflection &amp;<br>Learning from<br>Experience
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #C9DAF8;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.6;">
+        The Experiential<br>Learning<br>Approach
+      </td>
+      <td style="border: 1px solid #000000;
+        background: #C9DAF8;
+        text-align: left;
+        vertical-align: top;
+        padding: 10px 8px;
+        font-style: italic;
+        line-height: 1.8;">
+        Students go through a cycle involving experiencing, reflecting,
+        thinking and acting to transform their experiences into learning.
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<br><strong>Learning Highlights</strong>
+<br>At Nanyang Primary School, the learning of Citizenship and Character Education (CCE) comes alive through meaningful experiences that extend beyond the classroom. In addition to the weekly Form Teacher Guidance Period (FTGP) lesson where teachers nurture students’ moral reasoning and social-emotional competencies, guiding them to become thoughtful, compassionate, and responsible individuals, students are given the opportunities to live out the values they learn through vibrant school experiences — from assembly programmes that spark reflection, to joyful recess activities that commemorate key National Education events like National Day and Racial Harmony Day. Values-in-Action (VIA) and Positive Education (PosEd) learning moments further reinforce the importance of empathy, gratitude, and service to the community. Whether in class discussions, shared celebrations, or simple acts of care, CCE in Nanyang is a dynamic journey of heart, hands and mind — one that inspires students to not only understand what it means to be a good citizen, but to embody those values every day, in every action.<br>
+<br><br>
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">级任老师辅导课&nbsp;Form Teacher Guidance Period (FTGP)</label>
