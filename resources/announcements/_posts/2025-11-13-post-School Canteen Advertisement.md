@@ -8,15 +8,21 @@ image: ""
 variant: tiptap
 ---
 <p><strong>School Canteen Advertisement</strong>
+<br>Nanyang Primary School has the following canteen stalls for occupancy.
+<br>We are a single-session school with an estimated&nbsp;<strong>school enrolment of 2,400 pupils and 200 staff.</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Type of Stall</strong>
 </p>
@@ -38,7 +44,10 @@ variant: tiptap
 <p>Open</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Febuary 2026</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 April 2026</p>
 </td>
 </tr>
 </tbody>
