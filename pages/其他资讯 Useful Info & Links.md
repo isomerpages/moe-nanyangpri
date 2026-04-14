@@ -79,11 +79,11 @@ variant: markdown
         <li><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></li>
         <li><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></li>
       </ol>
-      <p><strong>NYPS Book List 2026</strong></p>
+      <p><strong>NYPS Book List 2027</strong></p>
       <table>
         <tbody>
           <tr>
-            <td><a href="/files/Booklist/2026P1.pdf" rel="noopener" target="_blank">Primary 1</a></td>
+            <td><a href="/files/Booklist/2026P1.pdf&quot;" rel="noopener" target="_blank">Primary 1</a></td>
             <td><a href="/files/Booklist/2026P4.pdf" rel="noopener" target="_blank">Primary 4</a></td>
             <td><a href="/files/Booklist/2026P5GEP.pdf" rel="noopener" target="_blank">Primary 5 GEP</a></td>
             <td><a href="/files/Booklist/2026P6FDN.pdf" rel="noopener" target="_blank">Primary 6 FDN</a></td>
