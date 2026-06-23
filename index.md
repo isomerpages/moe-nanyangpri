@@ -19,6 +19,8 @@ sections:
             url: https://nyps.moe.edu.sg/kaleidoscope-past-issues/
           - title: OPAC Login Guide
             url: /files/For%20NYPS%20webpage%20OPAC%20login%20guide.pdf
+          - title: Logistics Support Request Form
+            url: https://nyps.moe.edu.sg/logistics-support-request-form/
   - resources:
       title: Announcements
       subtitle: Our Latest News
