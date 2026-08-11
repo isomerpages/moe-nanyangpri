@@ -79,7 +79,7 @@ variant: markdown
         <li><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></li>
         <li><a href="/files/StudentLearningSpace/studenticononboardingguide.pdf" rel="noopener" target="_blank">Student iCON - Password Requirements</a></li>
       </ol>
-      <p><strong>NYPS Book List 2027</strong></p>
+      <p><strong>NYPS Book List 2026</strong></p>
       <table>
         <tbody>
           <tr>
